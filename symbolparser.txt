@@ -1,0 +1,2888 @@
+chr	LaTeX	unicode-math		latex	unicode			
+!	!	\exclam			\exclam			::\exclam::!
+#	\#	\octothorpe		\#	\octothorpe		::\#::#	::\octothorpe::#
+$	\$	\mathdollar		\$	\mathdollar		::\$::$	::\mathdollar::$
+%	\%	\percent		\%	\percent		::\%::%	::\percent::%
+&	\&	\ampersand		\&	\ampersand		::\&::&	::\ampersand::&
+(	(	\lparen			\lparen			::\lparen::(
+)	)	\rparen			\rparen			::\rparen::)
+*	*							
++	+	\plus			\plus			::\plus::+
+","	","	\comma			\comma			"::\comma::,"
+-								
+.	.	\period			\period			::\period::.
+/	/	\mathslash			\mathslash			::\mathslash::/
+0	0							
+1	1							
+2	2							
+3	3							
+4	4							
+5	5							
+6	6							
+7	7							
+8	8							
+9	9							
+:	:	\mathcolon			\mathcolon			::\mathcolon:::
+;	;	\semicolon			\semicolon			::\semicolon::;
+<	<	\less			\less			::\less::<
+=	=	\equal			\equal			::\equal::=
+>	>	\greater			\greater			::\greater::>
+?	?	\question			\question			::\question::?
+@	@	\atsign			\atsign			::\atsign::@
+A	A							
+B	B							
+C	C							
+D	D							
+E	E							
+F	F							
+G	G							
+H	H							
+I	I							
+J	J							
+K	K							
+L	L							
+M	M							
+N	N							
+O	O							
+P	P							
+Q	Q							
+R	R							
+S	S							
+T	T							
+U	U							
+V	V							
+W	W							
+X	X							
+Y	Y							
+Z	Z							
+[	\lbrack	\lbrack		\lbrack	\lbrack		::\lbrack::[	::\lbrack::[
+\	\backslash	\backslash		\backslash	\backslash		::\backslash::\	::\backslash::\
+]	\rbrack	\rbrack		\rbrack	\rbrack		::\rbrack::]	::\rbrack::]
+^	\sphat			\sphat			::\sphat::^	
+_	\_			\_			::\_::_	
+`								
+a	a							
+b	b							
+c	c							
+d	d							
+e	e							
+f	f							
+g	g							
+h	h							
+i	i							
+j	j							
+k	k							
+l	l							
+m	m							
+n	n							
+o	o							
+p	p							
+q	q							
+r	r							
+s	s							
+t	t							
+u	u							
+v	v							
+w	w							
+x	x							
+y	y							
+z	z							
+{	\{	\lbrace		\	\lbrace		::\::{	::\lbrace::{
+|	|	\vert			\vert			::\vert::|
+}	\}	\rbrace		\	\rbrace		::\::}	::\rbrace::}
+~	\sptilde			\sptilde			::\sptilde::~	
+								
+								
+								
+chr	LaTeX	unicode-math						
+								
+¡								
+¢	\cent			\cent			::\cent::¢	
+£	\pounds	\sterling		\pounds	\sterling		::\pounds::£	::\sterling::£
+¤								
+¥	\yen	\yen		\yen	\yen		::\yen::¥	::\yen::¥
+¦								
+§								
+¨	\spddot			\spddot			::\spddot::¨	
+¬	\neg	\neg		\neg	\neg		::\neg::¬	::\neg::¬
+®	\circledR			\circledR			::\circledR::®	
+¯								
+°								
+±	\pm	\pm		\pm	\pm		::\pm::±	::\pm::±
+²								
+³								
+´								
+µ	\Micro			\Micro			::\Micro::µ	
+¶								
+·		\cdotp			\cdotp			::\cdotp::·
+¹								
+¼								
+½								
+¾								
+¿								
+×	\times	\times		\times	\times		::\times::×	::\times::×
+ð	\eth	\matheth		\eth	\matheth		::\eth::ð	::\matheth::ð
+÷	\div	\div		\div	\div		::\div::÷	::\div::÷
+								
+								
+								
+chr	LaTeX	unicode-math						
+?	\imath			\imath			::\imath::?	
+								
+								
+								
+chr	LaTeX	unicode-math						
+?		\Zbar			\Zbar			::\Zbar::?
+?	\jmath			\jmath			::\jmath::?	
+								
+								
+								
+chr	LaTeX	unicode-math						
+ˆ								
+?								
+?								
+?								
+?								
+˜								
+								
+								
+								
+chr	LaTeX	unicode-math						
+ ?	\grave	\grave		\grave	\grave		::\grave:: ?	::\grave:: ?
+ ?	\acute	\acute		\acute	\acute		::\acute:: ?	::\acute:: ?
+ ?	\hat	\hat		\hat	\hat		::\hat:: ?	::\hat:: ?
+ ?	\tilde	\tilde		\tilde	\tilde		::\tilde:: ?	::\tilde:: ?
+ ?	\bar	\bar		\bar	\bar		::\bar:: ?	::\bar:: ?
+ ?	\overline	\overbar		\overline	\overbar		::\overline:: ?	::\overbar:: ?
+ ?	\breve	\breve		\breve	\breve		::\breve:: ?	::\breve:: ?
+ ?	\dot	\dot		\dot	\dot		::\dot:: ?	::\dot:: ?
+ ?	\ddot	\ddot		\ddot	\ddot		::\ddot:: ?	::\ddot:: ?
+ ?		\ovhook			\ovhook			::\ovhook:: ?
+ ?	\mathring	\ocirc		\mathring	\ocirc		::\mathring:: ?	::\ocirc:: ?
+ ?	\check	\check		\check	\check		::\check:: ?	::\check:: ?
+ ?		\candra			\candra			::\candra:: ?
+ ?								
+ ?		\oturnedcomma			\oturnedcomma			::\oturnedcomma:: ?
+ ?		\ocommatopright			\ocommatopright			::\ocommatopright:: ?
+ ?		\droang			\droang			::\droang:: ?
+ ?								
+ ?								
+ ?								
+ ?								
+ ?								
+ ?	\utilde	\wideutilde		\utilde	\wideutilde		::\utilde:: ?	::\wideutilde:: ?
+ ?	\underbar	\underbar		\underbar	\underbar		::\underbar:: ?	::\underbar:: ?
+ ?	\underline			\underline			::\underline:: ?	
+ ?								
+ ?	\not	\not		\not	\not		::\not:: ?	::\not:: ?
+ ?								
+ ?								
+ ?								
+								
+								
+								
+chr	LaTeX	unicode-math						
+?		\upAlpha			\upAlpha			::\upAlpha::?
+?		\upBeta			\upBeta			::\upBeta::?
+?	\Gamma	\upGamma		\Gamma	\upGamma		::\Gamma::?	::\upGamma::?
+?	\Delta	\upDelta		\Delta	\upDelta		::\Delta::?	::\upDelta::?
+?		\upEpsilon			\upEpsilon			::\upEpsilon::?
+?		\upZeta			\upZeta			::\upZeta::?
+?		\upEta			\upEta			::\upEta::?
+?	\Theta	\upTheta		\Theta	\upTheta		::\Theta::?	::\upTheta::?
+?		\upIota			\upIota			::\upIota::?
+?		\upKappa			\upKappa			::\upKappa::?
+?	\Lambda	\upLambda		\Lambda	\upLambda		::\Lambda::?	::\upLambda::?
+?		\upMu			\upMu			::\upMu::?
+?		\upNu			\upNu			::\upNu::?
+?	\Xi	\upXi		\Xi	\upXi		::\Xi::?	::\upXi::?
+?		\upOmicron			\upOmicron			::\upOmicron::?
+?	\Pi	\upPi		\Pi	\upPi		::\Pi::?	::\upPi::?
+?		\upRho			\upRho			::\upRho::?
+?	\Sigma	\upSigma		\Sigma	\upSigma		::\Sigma::?	::\upSigma::?
+?		\upTau			\upTau			::\upTau::?
+?	\Upsilon	\upUpsilon		\Upsilon	\upUpsilon		::\Upsilon::?	::\upUpsilon::?
+?	\Phi	\upPhi		\Phi	\upPhi		::\Phi::?	::\upPhi::?
+?		\upChi			\upChi			::\upChi::?
+?	\Psi	\upPsi		\Psi	\upPsi		::\Psi::?	::\upPsi::?
+?	\Omega	\upOmega		\Omega	\upOmega		::\Omega::?	::\upOmega::?
+?	\alpha	\upalpha		\alpha	\upalpha		::\alpha::?	::\upalpha::?
+?	\beta	\upbeta		\beta	\upbeta		::\beta::?	::\upbeta::?
+?	\gamma	\upgamma		\gamma	\upgamma		::\gamma::?	::\upgamma::?
+?	\delta	\updelta		\delta	\updelta		::\delta::?	::\updelta::?
+?	\varepsilon	\upepsilon		\varepsilon	\upepsilon		::\varepsilon::?	::\upepsilon::?
+?	\zeta	\upzeta		\zeta	\upzeta		::\zeta::?	::\upzeta::?
+?	\eta	\upeta		\eta	\upeta		::\eta::?	::\upeta::?
+?	\theta	\uptheta		\theta	\uptheta		::\theta::?	::\uptheta::?
+?	\iota	\upiota		\iota	\upiota		::\iota::?	::\upiota::?
+?	\kappa	\upkappa		\kappa	\upkappa		::\kappa::?	::\upkappa::?
+?	\lambda	\uplambda		\lambda	\uplambda		::\lambda::?	::\uplambda::?
+?	\mu	\upmu		\mu	\upmu		::\mu::?	::\upmu::?
+?	\nu	\upnu		\nu	\upnu		::\nu::?	::\upnu::?
+?	\xi	\upxi		\xi	\upxi		::\xi::?	::\upxi::?
+?		\upomicron			\upomicron			::\upomicron::?
+?	\pi	\uppi		\pi	\uppi		::\pi::?	::\uppi::?
+?	\rho	\uprho		\rho	\uprho		::\rho::?	::\uprho::?
+?	\varsigma	\upvarsigma		\varsigma	\upvarsigma		::\varsigma::?	::\upvarsigma::?
+?	\sigma	\upsigma		\sigma	\upsigma		::\sigma::?	::\upsigma::?
+?	\tau	\uptau		\tau	\uptau		::\tau::?	::\uptau::?
+?	\upsilon	\upupsilon		\upsilon	\upupsilon		::\upsilon::?	::\upupsilon::?
+?	\varphi	\upvarphi		\varphi	\upvarphi		::\varphi::?	::\upvarphi::?
+?	\chi	\upchi		\chi	\upchi		::\chi::?	::\upchi::?
+?	\psi	\uppsi		\psi	\uppsi		::\psi::?	::\uppsi::?
+?	\omega	\upomega		\omega	\upomega		::\omega::?	::\upomega::?
+?	\varbeta	\upvarbeta		\varbeta	\upvarbeta		::\varbeta::?	::\upvarbeta::?
+?	\vartheta	\upvartheta		\vartheta	\upvartheta		::\vartheta::?	::\upvartheta::?
+?		\upUpsilon			\upUpsilon			::\upUpsilon::?
+?	\phi	\upphi		\phi	\upphi		::\phi::?	::\upphi::?
+?	\varpi	\upvarpi		\varpi	\upvarpi		::\varpi::?	::\upvarpi::?
+?	\Qoppa	\upoldKoppa		\Qoppa	\upoldKoppa		::\Qoppa::?	::\upoldKoppa::?
+?	\qoppa	\upoldkoppa		\qoppa	\upoldkoppa		::\qoppa::?	::\upoldkoppa::?
+?	\Stigma	\upStigma		\Stigma	\upStigma		::\Stigma::?	::\upStigma::?
+?	\stigma	\upstigma		\stigma	\upstigma		::\stigma::?	::\upstigma::?
+?	\Digamma	\upDigamma		\Digamma	\upDigamma		::\Digamma::?	::\upDigamma::?
+?	\digamma	\updigamma		\digamma	\updigamma		::\digamma::?	::\updigamma::?
+?	\Koppa	\upKoppa		\Koppa	\upKoppa		::\Koppa::?	::\upKoppa::?
+?	\koppa	\upkoppa		\koppa	\upkoppa		::\koppa::?	::\upkoppa::?
+?	\Sampi	\upSampi		\Sampi	\upSampi		::\Sampi::?	::\upSampi::?
+?	\sampi	\upsampi		\sampi	\upsampi		::\sampi::?	::\upsampi::?
+?	\varkappa	\upvarkappa		\varkappa	\upvarkappa		::\varkappa::?	::\upvarkappa::?
+?	\varrho	\upvarrho		\varrho	\upvarrho		::\varrho::?	::\upvarrho::?
+?		\upvarTheta			\upvarTheta			::\upvarTheta::?
+?	\epsilon	\upvarepsilon		\epsilon	\upvarepsilon		::\epsilon::?	::\upvarepsilon::?
+?	\backepsilon	\upbackepsilon		\backepsilon	\upbackepsilon		::\backepsilon::?	::\upbackepsilon::?
+								
+								
+								
+chr	LaTeX	unicode-math						
+?								
+								
+								
+								
+chr	LaTeX	unicode-math						
+?								
+?	\quad			\quad			::\quad::?	
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+–								
+—								
+?		\horizbar			\horizbar			::\horizbar::?
+?	\|	\Vert		\|	\Vert		::\|::?	::\Vert::?
+?		\twolowline			\twolowline			::\twolowline::?
+†	\dagger	\dagger		\dagger	\dagger		::\dagger::†	::\dagger::†
+‡	\ddagger	\ddagger		\ddagger	\ddagger		::\ddagger::‡	::\ddagger::‡
+•	\bullet	\smblkcircle		\bullet	\smblkcircle		::\bullet::•	::\smblkcircle::•
+?		\enleadertwodots			\enleadertwodots			::\enleadertwodots::?
+…	\ldots	\unicodeellipsis		\ldots	\unicodeellipsis		::\ldots::…	::\unicodeellipsis::…
+?	\prime	\prime		\prime	\prime		::\prime::?	::\prime::?
+?	\second	\dprime		\second	\dprime		::\second::?	::\dprime::?
+?	\third	\trprime		\third	\trprime		::\third::?	::\trprime::?
+?	\backprime	\backprime		\backprime	\backprime		::\backprime::?	::\backprime::?
+?		\backdprime			\backdprime			::\backdprime::?
+?		\backtrprime			\backtrprime			::\backtrprime::?
+?		\caretinsert			\caretinsert			::\caretinsert::?
+?								
+?		\Exclam			\Exclam			::\Exclam::?
+?	\cat	\tieconcat		\cat	\tieconcat		::\cat::?	::\tieconcat::?
+?		\hyphenbullet			\hyphenbullet			::\hyphenbullet::?
+?		\fracslash			\fracslash			::\fracslash::?
+?		\Question			\Question			::\Question::?
+?								
+?								
+?		\closure			\closure			::\closure::?
+?								
+?								
+?	\fourth	\qprime		\fourth	\qprime		::\fourth::?	::\qprime::?
+?	\:			\:			::\:::?	
+?								
+?								
+?								
+?								
+								
+								
+								
+chr	LaTeX	unicode-math						
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+								
+								
+								
+chr	LaTeX	unicode-math						
+€		\euro			\euro			::\euro::€
+								
+								
+								
+chr	LaTeX	unicode-math						
+x?	\lvec	\leftharpoonaccent		\lvec	\leftharpoonaccent		::\lvec::x?	::\leftharpoonaccent::x?
+x?	\vec	\rightharpoonaccent		\vec	\rightharpoonaccent		::\vec::x?	::\rightharpoonaccent::x?
+x?		\vertoverlay			\vertoverlay			::\vertoverlay::x?
+x?								
+x?								
+x?	\LVec	\overleftarrow		\LVec	\overleftarrow		::\LVec::x?	::\overleftarrow::x?
+x?	\vec	\vec		\vec	\vec		::\vec::x?	::\vec::x?
+x?								
+x?								
+x?								
+x?	\dddot	\dddot		\dddot	\dddot		::\dddot::x?	::\dddot::x?
+x?	\ddddot	\ddddot		\ddddot	\ddddot		::\ddddot::x?	::\ddddot::x?
+x?		\enclosecircle			\enclosecircle			::\enclosecircle::x?
+x?		\enclosesquare			\enclosesquare			::\enclosesquare::x?
+x?		\enclosediamond			\enclosediamond			::\enclosediamond::x?
+x?	\overleftrightarrow	\overleftrightarrow		\overleftrightarrow	\overleftrightarrow		::\overleftrightarrow::x?	::\overleftrightarrow::x?
+x?		\enclosetriangle			\enclosetriangle			::\enclosetriangle::x?
+x?								
+x?								
+x?		\annuity			\annuity			::\annuity::x?
+x?		\threeunderdot			\threeunderdot			::\threeunderdot::x?
+x?		\widebridgeabove			\widebridgeabove			::\widebridgeabove::x?
+x?								
+x?								
+x?		\underrightharpoondown			\underrightharpoondown			::\underrightharpoondown::x?
+x?		\underleftharpoondown			\underleftharpoondown			::\underleftharpoondown::x?
+x?	\underleftarrow	\underleftarrow		\underleftarrow	\underleftarrow		::\underleftarrow::x?	::\underleftarrow::x?
+x?	\underrightarrow	\underrightarrow		\underrightarrow	\underrightarrow		::\underrightarrow::x?	::\underrightarrow::x?
+x?		\asteraccent			\asteraccent			::\asteraccent::x?
+								
+								
+								
+chr	LaTeX	unicode-math						
+?	\mathbb{C}	\BbbC		\mathbbC	\BbbC		::\mathbbC::?	::\BbbC::?
+?	\Euler	\Eulerconst		\Euler	\Eulerconst		::\Euler::?	::\Eulerconst::?
+?	\mathcal{g}	\mscrg		\mathcalg	\mscrg		::\mathcalg::?	::\mscrg::?
+?	\mathcal{H}	\mscrH		\mathcalH	\mscrH		::\mathcalH::?	::\mscrH::?
+?	\mathfrak{H}	\mfrakH		\mathfrakH	\mfrakH		::\mathfrakH::?	::\mfrakH::?
+?	\mathbb{H}	\BbbH		\mathbbH	\BbbH		::\mathbbH::?	::\BbbH::?
+?		\Planckconst			\Planckconst			::\Planckconst::?
+?	\hslash	\hslash		\hslash	\hslash		::\hslash::?	::\hslash::?
+?	\mathcal{I}	\mscrI		\mathcalI	\mscrI		::\mathcalI::?	::\mscrI::?
+?	\Im	\Im		\Im	\Im		::\Im::?	::\Im::?
+?	\mathcal{L}	\mscrL		\mathcalL	\mscrL		::\mathcalL::?	::\mscrL::?
+?	\ell	\ell		\ell	\ell		::\ell::?	::\ell::?
+?	\mathbb{N}	\BbbN		\mathbbN	\BbbN		::\mathbbN::?	::\BbbN::?
+?	\wp	\wp		\wp	\wp		::\wp::?	::\wp::?
+?	\mathbb{P}	\BbbP		\mathbbP	\BbbP		::\mathbbP::?	::\BbbP::?
+?	\mathbb{Q}	\BbbQ		\mathbbQ	\BbbQ		::\mathbbQ::?	::\BbbQ::?
+?	\mathcal{R}	\mscrR		\mathcalR	\mscrR		::\mathcalR::?	::\mscrR::?
+?	\Re	\Re		\Re	\Re		::\Re::?	::\Re::?
+?	\mathbb{R}	\BbbR		\mathbbR	\BbbR		::\mathbbR::?	::\BbbR::?
+?	\mathbb{Z}	\BbbZ		\mathbbZ	\BbbZ		::\mathbbZ::?	::\BbbZ::?
+?	\tcohm			\tcohm			::\tcohm::?	
+?	\mho	\mho		\mho	\mho		::\mho::?	::\mho::?
+?	\mathfrak{Z}	\mfrakZ		\mathfrakZ	\mfrakZ		::\mathfrakZ::?	::\mfrakZ::?
+?		\turnediota			\turnediota			::\turnediota::?
+?	\Angstroem	\Angstrom		\Angstroem	\Angstrom		::\Angstroem::?	::\Angstrom::?
+?	\mathcal{B}	\mscrB		\mathcalB	\mscrB		::\mathcalB::?	::\mscrB::?
+?	\mathfrak{C}	\mfrakC		\mathfrakC	\mfrakC		::\mathfrakC::?	::\mfrakC::?
+?	\mathcal{e}	\mscre		\mathcale	\mscre		::\mathcale::?	::\mscre::?
+?	\mathcal{E}	\mscrE		\mathcalE	\mscrE		::\mathcalE::?	::\mscrE::?
+?	\mathcal{F}	\mscrF		\mathcalF	\mscrF		::\mathcalF::?	::\mscrF::?
+?	\Finv	\Finv		\Finv	\Finv		::\Finv::?	::\Finv::?
+?	\mathcal{M}	\mscrM		\mathcalM	\mscrM		::\mathcalM::?	::\mscrM::?
+?	\mathcal{o}	\mscro		\mathcalo	\mscro		::\mathcalo::?	::\mscro::?
+?	\aleph	\aleph		\aleph	\aleph		::\aleph::?	::\aleph::?
+?	\beth	\beth		\beth	\beth		::\beth::?	::\beth::?
+?	\gimel	\gimel		\gimel	\gimel		::\gimel::?	::\gimel::?
+?	\daleth	\daleth		\daleth	\daleth		::\daleth::?	::\daleth::?
+?	\mathbb{pi}	\Bbbpi		\mathbbpi	\Bbbpi		::\mathbbpi::?	::\Bbbpi::?
+?	\mathbb{gamma}	\Bbbgamma		\mathbbgamma	\Bbbgamma		::\mathbbgamma::?	::\Bbbgamma::?
+?	\mathbb{Gamma}	\BbbGamma		\mathbbGamma	\BbbGamma		::\mathbbGamma::?	::\BbbGamma::?
+?	\mathbb{Pi}	\BbbPi		\mathbbPi	\BbbPi		::\mathbbPi::?	::\BbbPi::?
+?	\mathbb{Sigma}	\Bbbsum		\mathbbSigma	\Bbbsum		::\mathbbSigma::?	::\Bbbsum::?
+?		\Game			\Game			::\Game::?
+?		\sansLturned			\sansLturned			::\sansLturned::?
+?		\sansLmirrored			\sansLmirrored			::\sansLmirrored::?
+?	\Yup	\Yup		\Yup	\Yup		::\Yup::?	::\Yup::?
+?	\CapitalDifferentialD	\mitBbbD		\CapitalDifferentialD	\mitBbbD		::\CapitalDifferentialD::?	::\mitBbbD::?
+?	\DifferentialD	\mitBbbd		\DifferentialD	\mitBbbd		::\DifferentialD::?	::\mitBbbd::?
+?	\ExponetialE	\mitBbbe		\ExponetialE	\mitBbbe		::\ExponetialE::?	::\mitBbbe::?
+?	\ComplexI	\mitBbbi		\ComplexI	\mitBbbi		::\ComplexI::?	::\mitBbbi::?
+?	\ComplexJ	\mitBbbj		\ComplexJ	\mitBbbj		::\ComplexJ::?	::\mitBbbj::?
+?		\PropertyLine			\PropertyLine			::\PropertyLine::?
+?	\invamp	\upand		\invamp	\upand		::\invamp::?	::\upand::?
+								
+								
+								
+chr	LaTeX	unicode-math						
+?	\leftarrow	\leftarrow		\leftarrow	\leftarrow		::\leftarrow::?	::\leftarrow::?
+?	\uparrow	\uparrow		\uparrow	\uparrow		::\uparrow::?	::\uparrow::?
+?	\rightarrow	\rightarrow		\rightarrow	\rightarrow		::\rightarrow::?	::\rightarrow::?
+?	\downarrow	\downarrow		\downarrow	\downarrow		::\downarrow::?	::\downarrow::?
+?	\leftrightarrow	\leftrightarrow		\leftrightarrow	\leftrightarrow		::\leftrightarrow::?	::\leftrightarrow::?
+?	\updownarrow	\updownarrow		\updownarrow	\updownarrow		::\updownarrow::?	::\updownarrow::?
+?	\nwarrow	\nwarrow		\nwarrow	\nwarrow		::\nwarrow::?	::\nwarrow::?
+?	\nearrow	\nearrow		\nearrow	\nearrow		::\nearrow::?	::\nearrow::?
+?	\searrow	\searrow		\searrow	\searrow		::\searrow::?	::\searrow::?
+?	\swarrow	\swarrow		\swarrow	\swarrow		::\swarrow::?	::\swarrow::?
+?	\nleftarrow	\nleftarrow		\nleftarrow	\nleftarrow		::\nleftarrow::?	::\nleftarrow::?
+?	\nrightarrow	\nrightarrow		\nrightarrow	\nrightarrow		::\nrightarrow::?	::\nrightarrow::?
+?		\leftwavearrow			\leftwavearrow			::\leftwavearrow::?
+?		\rightwavearrow			\rightwavearrow			::\rightwavearrow::?
+?	\twoheadleftarrow	\twoheadleftarrow		\twoheadleftarrow	\twoheadleftarrow		::\twoheadleftarrow::?	::\twoheadleftarrow::?
+?		\twoheaduparrow			\twoheaduparrow			::\twoheaduparrow::?
+?	\twoheadrightarrow	\twoheadrightarrow		\twoheadrightarrow	\twoheadrightarrow		::\twoheadrightarrow::?	::\twoheadrightarrow::?
+?		\twoheaddownarrow			\twoheaddownarrow			::\twoheaddownarrow::?
+?	\leftarrowtail	\leftarrowtail		\leftarrowtail	\leftarrowtail		::\leftarrowtail::?	::\leftarrowtail::?
+?	\rightarrowtail	\rightarrowtail		\rightarrowtail	\rightarrowtail		::\rightarrowtail::?	::\rightarrowtail::?
+?	\mapsfrom	\mapsfrom		\mapsfrom	\mapsfrom		::\mapsfrom::?	::\mapsfrom::?
+?	\MapsUp	\mapsup		\MapsUp	\mapsup		::\MapsUp::?	::\mapsup::?
+?	\mapsto	\mapsto		\mapsto	\mapsto		::\mapsto::?	::\mapsto::?
+?	\MapsDown	\mapsdown		\MapsDown	\mapsdown		::\MapsDown::?	::\mapsdown::?
+?		\updownarrowbar			\updownarrowbar			::\updownarrowbar::?
+?	\hookleftarrow	\hookleftarrow		\hookleftarrow	\hookleftarrow		::\hookleftarrow::?	::\hookleftarrow::?
+?	\hookrightarrow	\hookrightarrow		\hookrightarrow	\hookrightarrow		::\hookrightarrow::?	::\hookrightarrow::?
+?	\looparrowleft	\looparrowleft		\looparrowleft	\looparrowleft		::\looparrowleft::?	::\looparrowleft::?
+?	\looparrowright	\looparrowright		\looparrowright	\looparrowright		::\looparrowright::?	::\looparrowright::?
+?	\leftrightsquigarrow	\leftrightsquigarrow		\leftrightsquigarrow	\leftrightsquigarrow		::\leftrightsquigarrow::?	::\leftrightsquigarrow::?
+?	\nleftrightarrow	\nleftrightarrow		\nleftrightarrow	\nleftrightarrow		::\nleftrightarrow::?	::\nleftrightarrow::?
+?	\lightning	\downzigzagarrow		\lightning	\downzigzagarrow		::\lightning::?	::\downzigzagarrow::?
+?	\Lsh	\Lsh		\Lsh	\Lsh		::\Lsh::?	::\Lsh::?
+?	\Rsh	\Rsh		\Rsh	\Rsh		::\Rsh::?	::\Rsh::?
+?	\dlsh	\Ldsh		\dlsh	\Ldsh		::\dlsh::?	::\Ldsh::?
+?	\drsh	\Rdsh		\drsh	\Rdsh		::\drsh::?	::\Rdsh::?
+?		\linefeed			\linefeed			::\linefeed::?
+?		\carriagereturn			\carriagereturn			::\carriagereturn::?
+?	\curvearrowleft	\curvearrowleft		\curvearrowleft	\curvearrowleft		::\curvearrowleft::?	::\curvearrowleft::?
+?	\curvearrowright	\curvearrowright		\curvearrowright	\curvearrowright		::\curvearrowright::?	::\curvearrowright::?
+?		\barovernorthwestarrow			\barovernorthwestarrow			::\barovernorthwestarrow::?
+?		\barleftarrowrightarrowba			\barleftarrowrightarrowba			::\barleftarrowrightarrowba::?
+?	\circlearrowleft	\acwopencirclearrow		\circlearrowleft	\acwopencirclearrow		::\circlearrowleft::?	::\acwopencirclearrow::?
+?	\circlearrowright	\cwopencirclearrow		\circlearrowright	\cwopencirclearrow		::\circlearrowright::?	::\cwopencirclearrow::?
+?	\leftharpoonup	\leftharpoonup		\leftharpoonup	\leftharpoonup		::\leftharpoonup::?	::\leftharpoonup::?
+?	\leftharpoondown	\leftharpoondown		\leftharpoondown	\leftharpoondown		::\leftharpoondown::?	::\leftharpoondown::?
+?	\upharpoonright	\upharpoonright		\upharpoonright	\upharpoonright		::\upharpoonright::?	::\upharpoonright::?
+?	\upharpoonleft	\upharpoonleft		\upharpoonleft	\upharpoonleft		::\upharpoonleft::?	::\upharpoonleft::?
+?	\rightharpoonup	\rightharpoonup		\rightharpoonup	\rightharpoonup		::\rightharpoonup::?	::\rightharpoonup::?
+?	\rightharpoondown	\rightharpoondown		\rightharpoondown	\rightharpoondown		::\rightharpoondown::?	::\rightharpoondown::?
+?	\downharpoonright	\downharpoonright		\downharpoonright	\downharpoonright		::\downharpoonright::?	::\downharpoonright::?
+?	\downharpoonleft	\downharpoonleft		\downharpoonleft	\downharpoonleft		::\downharpoonleft::?	::\downharpoonleft::?
+?	\rightleftarrows	\rightleftarrows		\rightleftarrows	\rightleftarrows		::\rightleftarrows::?	::\rightleftarrows::?
+?	\updownarrows	\updownarrows		\updownarrows	\updownarrows		::\updownarrows::?	::\updownarrows::?
+?	\leftrightarrows	\leftrightarrows		\leftrightarrows	\leftrightarrows		::\leftrightarrows::?	::\leftrightarrows::?
+?	\leftleftarrows	\leftleftarrows		\leftleftarrows	\leftleftarrows		::\leftleftarrows::?	::\leftleftarrows::?
+?	\upuparrows	\upuparrows		\upuparrows	\upuparrows		::\upuparrows::?	::\upuparrows::?
+?	\rightrightarrows	\rightrightarrows		\rightrightarrows	\rightrightarrows		::\rightrightarrows::?	::\rightrightarrows::?
+?	\downdownarrows	\downdownarrows		\downdownarrows	\downdownarrows		::\downdownarrows::?	::\downdownarrows::?
+?	\leftrightharpoons	\leftrightharpoons		\leftrightharpoons	\leftrightharpoons		::\leftrightharpoons::?	::\leftrightharpoons::?
+?	\rightleftharpoons	\rightleftharpoons		\rightleftharpoons	\rightleftharpoons		::\rightleftharpoons::?	::\rightleftharpoons::?
+?	\nLeftarrow	\nLeftarrow		\nLeftarrow	\nLeftarrow		::\nLeftarrow::?	::\nLeftarrow::?
+?	\nLeftrightarrow	\nLeftrightarrow		\nLeftrightarrow	\nLeftrightarrow		::\nLeftrightarrow::?	::\nLeftrightarrow::?
+?	\nRightarrow	\nRightarrow		\nRightarrow	\nRightarrow		::\nRightarrow::?	::\nRightarrow::?
+?	\Leftarrow	\Leftarrow		\Leftarrow	\Leftarrow		::\Leftarrow::?	::\Leftarrow::?
+?	\Uparrow	\Uparrow		\Uparrow	\Uparrow		::\Uparrow::?	::\Uparrow::?
+?	\Rightarrow	\Rightarrow		\Rightarrow	\Rightarrow		::\Rightarrow::?	::\Rightarrow::?
+?	\Downarrow	\Downarrow		\Downarrow	\Downarrow		::\Downarrow::?	::\Downarrow::?
+?	\Leftrightarrow	\Leftrightarrow		\Leftrightarrow	\Leftrightarrow		::\Leftrightarrow::?	::\Leftrightarrow::?
+?	\Updownarrow	\Updownarrow		\Updownarrow	\Updownarrow		::\Updownarrow::?	::\Updownarrow::?
+?	\Nwarrow	\Nwarrow		\Nwarrow	\Nwarrow		::\Nwarrow::?	::\Nwarrow::?
+?	\Nearrow	\Nearrow		\Nearrow	\Nearrow		::\Nearrow::?	::\Nearrow::?
+?	\Searrow	\Searrow		\Searrow	\Searrow		::\Searrow::?	::\Searrow::?
+?	\Swarrow	\Swarrow		\Swarrow	\Swarrow		::\Swarrow::?	::\Swarrow::?
+?	\Lleftarrow	\Lleftarrow		\Lleftarrow	\Lleftarrow		::\Lleftarrow::?	::\Lleftarrow::?
+?	\Rrightarrow	\Rrightarrow		\Rrightarrow	\Rrightarrow		::\Rrightarrow::?	::\Rrightarrow::?
+?	\leftsquigarrow	\leftsquigarrow		\leftsquigarrow	\leftsquigarrow		::\leftsquigarrow::?	::\leftsquigarrow::?
+?	\rightsquigarrow	\rightsquigarrow		\rightsquigarrow	\rightsquigarrow		::\rightsquigarrow::?	::\rightsquigarrow::?
+?		\nHuparrow			\nHuparrow			::\nHuparrow::?
+?		\nHdownarrow			\nHdownarrow			::\nHdownarrow::?
+?	\dashleftarrow	\leftdasharrow		\dashleftarrow	\leftdasharrow		::\dashleftarrow::?	::\leftdasharrow::?
+?		\updasharrow			\updasharrow			::\updasharrow::?
+?	\dashrightarrow	\rightdasharrow		\dashrightarrow	\rightdasharrow		::\dashrightarrow::?	::\rightdasharrow::?
+?		\downdasharrow			\downdasharrow			::\downdasharrow::?
+?	\LeftArrowBar	\barleftarrow		\LeftArrowBar	\barleftarrow		::\LeftArrowBar::?	::\barleftarrow::?
+?	\RightArrowBar	\rightarrowbar		\RightArrowBar	\rightarrowbar		::\RightArrowBar::?	::\rightarrowbar::?
+?		\leftwhitearrow			\leftwhitearrow			::\leftwhitearrow::?
+?		\upwhitearrow			\upwhitearrow			::\upwhitearrow::?
+?		\rightwhitearrow			\rightwhitearrow			::\rightwhitearrow::?
+?		\downwhitearrow			\downwhitearrow			::\downwhitearrow::?
+?		\whitearrowupfrombar			\whitearrowupfrombar			::\whitearrowupfrombar::?
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?		\circleonrightarrow			\circleonrightarrow			::\circleonrightarrow::?
+?	\downuparrows	\downuparrows		\downuparrows	\downuparrows		::\downuparrows::?	::\downuparrows::?
+?		\rightthreearrows			\rightthreearrows			::\rightthreearrows::?
+?		\nvleftarrow			\nvleftarrow			::\nvleftarrow::?
+?	\pfun	\nvrightarrow		\pfun	\nvrightarrow		::\pfun::?	::\nvrightarrow::?
+?		\nvleftrightarrow			\nvleftrightarrow			::\nvleftrightarrow::?
+?		\nVleftarrow			\nVleftarrow			::\nVleftarrow::?
+?	\ffun	\nVrightarrow		\ffun	\nVrightarrow		::\ffun::?	::\nVrightarrow::?
+?		\nVleftrightarrow			\nVleftrightarrow			::\nVleftrightarrow::?
+?	\leftarrowtriangle	\leftarrowtriangle		\leftarrowtriangle	\leftarrowtriangle		::\leftarrowtriangle::?	::\leftarrowtriangle::?
+?	\rightarrowtriangle	\rightarrowtriangle		\rightarrowtriangle	\rightarrowtriangle		::\rightarrowtriangle::?	::\rightarrowtriangle::?
+?	\leftrightarrowtriangle	\leftrightarrowtriangle		\leftrightarrowtriangle	\leftrightarrowtriangle		::\leftrightarrowtriangle::?	::\leftrightarrowtriangle::?
+								
+								
+								
+chr	LaTeX	unicode-math						
+?	\forall	\forall		\forall	\forall		::\forall::?	::\forall::?
+?	\complement	\complement		\complement	\complement		::\complement::?	::\complement::?
+?	\partial	\partial		\partial	\partial		::\partial::?	::\partial::?
+?	\exists	\exists		\exists	\exists		::\exists::?	::\exists::?
+?	\nexists	\nexists		\nexists	\nexists		::\nexists::?	::\nexists::?
+?	\varnothing	\varnothing		\varnothing	\varnothing		::\varnothing::?	::\varnothing::?
+?		\increment			\increment			::\increment::?
+?	\nabla	\nabla		\nabla	\nabla		::\nabla::?	::\nabla::?
+?	\in	\in		\in	\in		::\in::?	::\in::?
+?	\notin	\notin		\notin	\notin		::\notin::?	::\notin::?
+?		\smallin			\smallin			::\smallin::?
+?	\ni	\ni		\ni	\ni		::\ni::?	::\ni::?
+?	\nni	\nni		\nni	\nni		::\nni::?	::\nni::?
+?		\smallni			\smallni			::\smallni::?
+?		\QED			\QED			::\QED::?
+?	\prod	\prod		\prod	\prod		::\prod::?	::\prod::?
+?	\coprod	\coprod		\coprod	\coprod		::\coprod::?	::\coprod::?
+?	\sum	\sum		\sum	\sum		::\sum::?	::\sum::?
+?	-	\minus			\minus			::\minus::?
+?	\mp	\mp		\mp	\mp		::\mp::?	::\mp::?
+?	\dotplus	\dotplus		\dotplus	\dotplus		::\dotplus::?	::\dotplus::?
+?	\slash	\divslash		\slash	\divslash		::\slash::?	::\divslash::?
+?	\smallsetminus	\smallsetminus		\smallsetminus	\smallsetminus		::\smallsetminus::?	::\smallsetminus::?
+?	\ast	\ast		\ast	\ast		::\ast::?	::\ast::?
+?	\circ	\vysmwhtcircle		\circ	\vysmwhtcircle		::\circ::?	::\vysmwhtcircle::?
+?	\bullet	\vysmblkcircle		\bullet	\vysmblkcircle		::\bullet::?	::\vysmblkcircle::?
+?	\sqrt	\sqrt		\sqrt	\sqrt		::\sqrt::?	::\sqrt::?
+?	\sqrt[3]	\cuberoot		\sqrt[3]	\cuberoot		::\sqrt[3]::?	::\cuberoot::?
+?	\sqrt[4]	\fourthroot		\sqrt[4]	\fourthroot		::\sqrt[4]::?	::\fourthroot::?
+?	\propto	\propto		\propto	\propto		::\propto::?	::\propto::?
+?	\infty	\infty		\infty	\infty		::\infty::?	::\infty::?
+?	\rightangle	\rightangle		\rightangle	\rightangle		::\rightangle::?	::\rightangle::?
+?	\angle	\angle		\angle	\angle		::\angle::?	::\angle::?
+?	\measuredangle	\measuredangle		\measuredangle	\measuredangle		::\measuredangle::?	::\measuredangle::?
+?	\sphericalangle	\sphericalangle		\sphericalangle	\sphericalangle		::\sphericalangle::?	::\sphericalangle::?
+?	\mid	\mid		\mid	\mid		::\mid::?	::\mid::?
+?	\nmid	\nmid		\nmid	\nmid		::\nmid::?	::\nmid::?
+?	\parallel	\parallel		\parallel	\parallel		::\parallel::?	::\parallel::?
+?	\nparallel	\nparallel		\nparallel	\nparallel		::\nparallel::?	::\nparallel::?
+?	\wedge	\wedge		\wedge	\wedge		::\wedge::?	::\wedge::?
+?	\vee	\vee		\vee	\vee		::\vee::?	::\vee::?
+?	\cap	\cap		\cap	\cap		::\cap::?	::\cap::?
+?	\cup	\cup		\cup	\cup		::\cup::?	::\cup::?
+?	\int	\int		\int	\int		::\int::?	::\int::?
+?	\iint	\iint		\iint	\iint		::\iint::?	::\iint::?
+?	\iiint	\iiint		\iiint	\iiint		::\iiint::?	::\iiint::?
+?	\oint	\oint		\oint	\oint		::\oint::?	::\oint::?
+?	\oiint	\oiint		\oiint	\oiint		::\oiint::?	::\oiint::?
+?	\oiiint	\oiiint		\oiiint	\oiiint		::\oiiint::?	::\oiiint::?
+?		\intclockwise			\intclockwise			::\intclockwise::?
+?	\varointclockwise	\varointclockwise		\varointclockwise	\varointclockwise		::\varointclockwise::?	::\varointclockwise::?
+?	\ointctrclockwise	\ointctrclockwise		\ointctrclockwise	\ointctrclockwise		::\ointctrclockwise::?	::\ointctrclockwise::?
+?	\therefore	\therefore		\therefore	\therefore		::\therefore::?	::\therefore::?
+?	\because	\because		\because	\because		::\because::?	::\because::?
+?	:	\mathratio			\mathratio			::\mathratio::?
+?	\Proportion	\Colon		\Proportion	\Colon		::\Proportion::?	::\Colon::?
+?		\dotminus			\dotminus			::\dotminus::?
+?	\eqcolon	\dashcolon		\eqcolon	\dashcolon		::\eqcolon::?	::\dashcolon::?
+?		\dotsminusdots			\dotsminusdots			::\dotsminusdots::?
+?		\kernelcontraction			\kernelcontraction			::\kernelcontraction::?
+?	\sim	\sim		\sim	\sim		::\sim::?	::\sim::?
+?	\backsim	\backsim		\backsim	\backsim		::\backsim::?	::\backsim::?
+?		\invlazys			\invlazys			::\invlazys::?
+?	\AC	\sinewave		\AC	\sinewave		::\AC::?	::\sinewave::?
+?	\wr	\wr		\wr	\wr		::\wr::?	::\wr::?
+?	\nsim	\nsim		\nsim	\nsim		::\nsim::?	::\nsim::?
+?	\eqsim	\eqsim		\eqsim	\eqsim		::\eqsim::?	::\eqsim::?
+?	\simeq	\simeq		\simeq	\simeq		::\simeq::?	::\simeq::?
+?	\nsimeq	\nsime		\nsimeq	\nsime		::\nsimeq::?	::\nsime::?
+?	\cong	\cong		\cong	\cong		::\cong::?	::\cong::?
+?		\simneqq			\simneqq			::\simneqq::?
+?	\ncong	\ncong		\ncong	\ncong		::\ncong::?	::\ncong::?
+?	\approx	\approx		\approx	\approx		::\approx::?	::\approx::?
+?	\napprox	\napprox		\napprox	\napprox		::\napprox::?	::\napprox::?
+?	\approxeq	\approxeq		\approxeq	\approxeq		::\approxeq::?	::\approxeq::?
+?		\approxident			\approxident			::\approxident::?
+?		\backcong			\backcong			::\backcong::?
+?	\asymp	\asymp		\asymp	\asymp		::\asymp::?	::\asymp::?
+?	\Bumpeq	\Bumpeq		\Bumpeq	\Bumpeq		::\Bumpeq::?	::\Bumpeq::?
+?	\bumpeq	\bumpeq		\bumpeq	\bumpeq		::\bumpeq::?	::\bumpeq::?
+?	\doteq	\doteq		\doteq	\doteq		::\doteq::?	::\doteq::?
+?	\Doteq	\Doteq		\Doteq	\Doteq		::\Doteq::?	::\Doteq::?
+?	\fallingdotseq	\fallingdotseq		\fallingdotseq	\fallingdotseq		::\fallingdotseq::?	::\fallingdotseq::?
+?	\risingdotseq	\risingdotseq		\risingdotseq	\risingdotseq		::\risingdotseq::?	::\risingdotseq::?
+?	\coloneq	\coloneq		\coloneq	\coloneq		::\coloneq::?	::\coloneq::?
+?	\eqcolon	\eqcolon		\eqcolon	\eqcolon		::\eqcolon::?	::\eqcolon::?
+?	\eqcirc	\eqcirc		\eqcirc	\eqcirc		::\eqcirc::?	::\eqcirc::?
+?	\circeq	\circeq		\circeq	\circeq		::\circeq::?	::\circeq::?
+?		\arceq			\arceq			::\arceq::?
+?	\corresponds	\wedgeq		\corresponds	\wedgeq		::\corresponds::?	::\wedgeq::?
+?		\veeeq			\veeeq			::\veeeq::?
+?		\stareq			\stareq			::\stareq::?
+?	\triangleq	\triangleq		\triangleq	\triangleq		::\triangleq::?	::\triangleq::?
+?		\eqdef			\eqdef			::\eqdef::?
+?		\measeq			\measeq			::\measeq::?
+?		\questeq			\questeq			::\questeq::?
+?	\neq	\ne		\neq	\ne		::\neq::?	::\ne::?
+?	\equiv	\equiv		\equiv	\equiv		::\equiv::?	::\equiv::?
+?	\nequiv	\nequiv		\nequiv	\nequiv		::\nequiv::?	::\nequiv::?
+?		\Equiv			\Equiv			::\Equiv::?
+?	\leq	\leq		\leq	\leq		::\leq::?	::\leq::?
+?	\geq	\geq		\geq	\geq		::\geq::?	::\geq::?
+?	\leqq	\leqq		\leqq	\leqq		::\leqq::?	::\leqq::?
+?	\geqq	\geqq		\geqq	\geqq		::\geqq::?	::\geqq::?
+?	\lneqq	\lneqq		\lneqq	\lneqq		::\lneqq::?	::\lneqq::?
+?	\gneqq	\gneqq		\gneqq	\gneqq		::\gneqq::?	::\gneqq::?
+?	\ll	\ll		\ll	\ll		::\ll::?	::\ll::?
+?	\gg	\gg		\gg	\gg		::\gg::?	::\gg::?
+?	\between	\between		\between	\between		::\between::?	::\between::?
+?	\notasymp	\nasymp		\notasymp	\nasymp		::\notasymp::?	::\nasymp::?
+?	\nless	\nless		\nless	\nless		::\nless::?	::\nless::?
+?	\ngtr	\ngtr		\ngtr	\ngtr		::\ngtr::?	::\ngtr::?
+?	\nleq	\nleq		\nleq	\nleq		::\nleq::?	::\nleq::?
+?	\ngeq	\ngeq		\ngeq	\ngeq		::\ngeq::?	::\ngeq::?
+?	\lesssim	\lesssim		\lesssim	\lesssim		::\lesssim::?	::\lesssim::?
+?	\gtrsim	\gtrsim		\gtrsim	\gtrsim		::\gtrsim::?	::\gtrsim::?
+?	\NotLessTilde	\nlesssim		\NotLessTilde	\nlesssim		::\NotLessTilde::?	::\nlesssim::?
+?	\NotGreaterTilde	\ngtrsim		\NotGreaterTilde	\ngtrsim		::\NotGreaterTilde::?	::\ngtrsim::?
+?	\lessgtr	\lessgtr		\lessgtr	\lessgtr		::\lessgtr::?	::\lessgtr::?
+?	\gtrless	\gtrless		\gtrless	\gtrless		::\gtrless::?	::\gtrless::?
+?		\nlessgtr			\nlessgtr			::\nlessgtr::?
+?	\NotGreaterLess	\ngtrless		\NotGreaterLess	\ngtrless		::\NotGreaterLess::?	::\ngtrless::?
+?	\prec	\prec		\prec	\prec		::\prec::?	::\prec::?
+?	\succ	\succ		\succ	\succ		::\succ::?	::\succ::?
+?	\preccurlyeq	\preccurlyeq		\preccurlyeq	\preccurlyeq		::\preccurlyeq::?	::\preccurlyeq::?
+?	\succcurlyeq	\succcurlyeq		\succcurlyeq	\succcurlyeq		::\succcurlyeq::?	::\succcurlyeq::?
+?	\precsim	\precsim		\precsim	\precsim		::\precsim::?	::\precsim::?
+?	\succsim	\succsim		\succsim	\succsim		::\succsim::?	::\succsim::?
+?	\nprec	\nprec		\nprec	\nprec		::\nprec::?	::\nprec::?
+?	\nsucc	\nsucc		\nsucc	\nsucc		::\nsucc::?	::\nsucc::?
+?	\subset	\subset		\subset	\subset		::\subset::?	::\subset::?
+?	\supset	\supset		\supset	\supset		::\supset::?	::\supset::?
+?	\nsubset	\nsubset		\nsubset	\nsubset		::\nsubset::?	::\nsubset::?
+?	\nsupset	\nsupset		\nsupset	\nsupset		::\nsupset::?	::\nsupset::?
+?	\subseteq	\subseteq		\subseteq	\subseteq		::\subseteq::?	::\subseteq::?
+?	\supseteq	\supseteq		\supseteq	\supseteq		::\supseteq::?	::\supseteq::?
+?	\nsubseteq	\nsubseteq		\nsubseteq	\nsubseteq		::\nsubseteq::?	::\nsubseteq::?
+?	\nsupseteq	\nsupseteq		\nsupseteq	\nsupseteq		::\nsupseteq::?	::\nsupseteq::?
+?	\subsetneq	\subsetneq		\subsetneq	\subsetneq		::\subsetneq::?	::\subsetneq::?
+?	\supsetneq	\supsetneq		\supsetneq	\supsetneq		::\supsetneq::?	::\supsetneq::?
+?		\cupleftarrow			\cupleftarrow			::\cupleftarrow::?
+?		\cupdot			\cupdot			::\cupdot::?
+?	\uplus	\uplus		\uplus	\uplus		::\uplus::?	::\uplus::?
+?	\sqsubset	\sqsubset		\sqsubset	\sqsubset		::\sqsubset::?	::\sqsubset::?
+?	\sqsupset	\sqsupset		\sqsupset	\sqsupset		::\sqsupset::?	::\sqsupset::?
+?	\sqsubseteq	\sqsubseteq		\sqsubseteq	\sqsubseteq		::\sqsubseteq::?	::\sqsubseteq::?
+?	\sqsupseteq	\sqsupseteq		\sqsupseteq	\sqsupseteq		::\sqsupseteq::?	::\sqsupseteq::?
+?	\sqcap	\sqcap		\sqcap	\sqcap		::\sqcap::?	::\sqcap::?
+?	\sqcup	\sqcup		\sqcup	\sqcup		::\sqcup::?	::\sqcup::?
+?	\oplus	\oplus		\oplus	\oplus		::\oplus::?	::\oplus::?
+?	\ominus	\ominus		\ominus	\ominus		::\ominus::?	::\ominus::?
+?	\otimes	\otimes		\otimes	\otimes		::\otimes::?	::\otimes::?
+?	\oslash	\oslash		\oslash	\oslash		::\oslash::?	::\oslash::?
+?	\odot	\odot		\odot	\odot		::\odot::?	::\odot::?
+?	\circledcirc	\circledcirc		\circledcirc	\circledcirc		::\circledcirc::?	::\circledcirc::?
+?	\circledast	\circledast		\circledast	\circledast		::\circledast::?	::\circledast::?
+?		\circledequal			\circledequal			::\circledequal::?
+?	\circleddash	\circleddash		\circleddash	\circleddash		::\circleddash::?	::\circleddash::?
+?	\boxplus	\boxplus		\boxplus	\boxplus		::\boxplus::?	::\boxplus::?
+?	\boxminus	\boxminus		\boxminus	\boxminus		::\boxminus::?	::\boxminus::?
+?	\boxtimes	\boxtimes		\boxtimes	\boxtimes		::\boxtimes::?	::\boxtimes::?
+?	\boxdot	\boxdot		\boxdot	\boxdot		::\boxdot::?	::\boxdot::?
+?	\vdash	\vdash		\vdash	\vdash		::\vdash::?	::\vdash::?
+?	\dashv	\dashv		\dashv	\dashv		::\dashv::?	::\dashv::?
+?	\top	\top		\top	\top		::\top::?	::\top::?
+?	\bot	\bot		\bot	\bot		::\bot::?	::\bot::?
+?		\assert			\assert			::\assert::?
+?	\models	\models		\models	\models		::\models::?	::\models::?
+?	\vDash	\vDash		\vDash	\vDash		::\vDash::?	::\vDash::?
+?	\Vdash	\Vdash		\Vdash	\Vdash		::\Vdash::?	::\Vdash::?
+?	\Vvdash	\Vvdash		\Vvdash	\Vvdash		::\Vvdash::?	::\Vvdash::?
+?	\VDash	\VDash		\VDash	\VDash		::\VDash::?	::\VDash::?
+?	\nvdash	\nvdash		\nvdash	\nvdash		::\nvdash::?	::\nvdash::?
+?	\nvDash	\nvDash		\nvDash	\nvDash		::\nvDash::?	::\nvDash::?
+?	\nVdash	\nVdash		\nVdash	\nVdash		::\nVdash::?	::\nVdash::?
+?	\nVDash	\nVDash		\nVDash	\nVDash		::\nVDash::?	::\nVDash::?
+?		\prurel			\prurel			::\prurel::?
+?		\scurel			\scurel			::\scurel::?
+?	\vartriangleleft	\vartriangleleft		\vartriangleleft	\vartriangleleft		::\vartriangleleft::?	::\vartriangleleft::?
+?	\vartriangleright	\vartriangleright		\vartriangleright	\vartriangleright		::\vartriangleright::?	::\vartriangleright::?
+?	\trianglelefteq	\trianglelefteq		\trianglelefteq	\trianglelefteq		::\trianglelefteq::?	::\trianglelefteq::?
+?	\trianglerighteq	\trianglerighteq		\trianglerighteq	\trianglerighteq		::\trianglerighteq::?	::\trianglerighteq::?
+?	\multimapdotbothA	\origof		\multimapdotbothA	\origof		::\multimapdotbothA::?	::\origof::?
+?	\multimapdotbothB	\imageof		\multimapdotbothB	\imageof		::\multimapdotbothB::?	::\imageof::?
+?	\multimap	\multimap		\multimap	\multimap		::\multimap::?	::\multimap::?
+?		\hermitmatrix			\hermitmatrix			::\hermitmatrix::?
+?	\intercal	\intercal		\intercal	\intercal		::\intercal::?	::\intercal::?
+?	\veebar	\veebar		\veebar	\veebar		::\veebar::?	::\veebar::?
+?	\barwedge	\barwedge		\barwedge	\barwedge		::\barwedge::?	::\barwedge::?
+?		\barvee			\barvee			::\barvee::?
+?		\measuredrightangle			\measuredrightangle			::\measuredrightangle::?
+?		\varlrtriangle			\varlrtriangle			::\varlrtriangle::?
+?	\bigwedge	\bigwedge		\bigwedge	\bigwedge		::\bigwedge::?	::\bigwedge::?
+?	\bigvee	\bigvee		\bigvee	\bigvee		::\bigvee::?	::\bigvee::?
+?	\bigcap	\bigcap		\bigcap	\bigcap		::\bigcap::?	::\bigcap::?
+?	\bigcup	\bigcup		\bigcup	\bigcup		::\bigcup::?	::\bigcup::?
+?	\diamond	\smwhtdiamond		\diamond	\smwhtdiamond		::\diamond::?	::\smwhtdiamond::?
+?	\cdot	\cdot		\cdot	\cdot		::\cdot::?	::\cdot::?
+?	\star	\star		\star	\star		::\star::?	::\star::?
+?	\divideontimes	\divideontimes		\divideontimes	\divideontimes		::\divideontimes::?	::\divideontimes::?
+?	\bowtie	\bowtie		\bowtie	\bowtie		::\bowtie::?	::\bowtie::?
+?	\ltimes	\ltimes		\ltimes	\ltimes		::\ltimes::?	::\ltimes::?
+?	\rtimes	\rtimes		\rtimes	\rtimes		::\rtimes::?	::\rtimes::?
+?	\leftthreetimes	\leftthreetimes		\leftthreetimes	\leftthreetimes		::\leftthreetimes::?	::\leftthreetimes::?
+?	\rightthreetimes	\rightthreetimes		\rightthreetimes	\rightthreetimes		::\rightthreetimes::?	::\rightthreetimes::?
+?	\backsimeq	\backsimeq		\backsimeq	\backsimeq		::\backsimeq::?	::\backsimeq::?
+?	\curlyvee	\curlyvee		\curlyvee	\curlyvee		::\curlyvee::?	::\curlyvee::?
+?	\curlywedge	\curlywedge		\curlywedge	\curlywedge		::\curlywedge::?	::\curlywedge::?
+?	\Subset	\Subset		\Subset	\Subset		::\Subset::?	::\Subset::?
+?	\Supset	\Supset		\Supset	\Supset		::\Supset::?	::\Supset::?
+?	\Cap	\Cap		\Cap	\Cap		::\Cap::?	::\Cap::?
+?	\Cup	\Cup		\Cup	\Cup		::\Cup::?	::\Cup::?
+?	\pitchfork	\pitchfork		\pitchfork	\pitchfork		::\pitchfork::?	::\pitchfork::?
+?	\hash	\equalparallel		\hash	\equalparallel		::\hash::?	::\equalparallel::?
+?	\lessdot	\lessdot		\lessdot	\lessdot		::\lessdot::?	::\lessdot::?
+?	\gtrdot	\gtrdot		\gtrdot	\gtrdot		::\gtrdot::?	::\gtrdot::?
+?	\lll	\lll		\lll	\lll		::\lll::?	::\lll::?
+?	\ggg	\ggg		\ggg	\ggg		::\ggg::?	::\ggg::?
+?	\lesseqgtr	\lesseqgtr		\lesseqgtr	\lesseqgtr		::\lesseqgtr::?	::\lesseqgtr::?
+?	\gtreqless	\gtreqless		\gtreqless	\gtreqless		::\gtreqless::?	::\gtreqless::?
+?		\eqless			\eqless			::\eqless::?
+?		\eqgtr			\eqgtr			::\eqgtr::?
+?	\curlyeqprec	\curlyeqprec		\curlyeqprec	\curlyeqprec		::\curlyeqprec::?	::\curlyeqprec::?
+?	\curlyeqsucc	\curlyeqsucc		\curlyeqsucc	\curlyeqsucc		::\curlyeqsucc::?	::\curlyeqsucc::?
+?	\npreceq	\npreccurlyeq		\npreceq	\npreccurlyeq		::\npreceq::?	::\npreccurlyeq::?
+?	\nsucceq	\nsucccurlyeq		\nsucceq	\nsucccurlyeq		::\nsucceq::?	::\nsucccurlyeq::?
+?	\nsqsubseteq	\nsqsubseteq		\nsqsubseteq	\nsqsubseteq		::\nsqsubseteq::?	::\nsqsubseteq::?
+?	\nsqsupseteq	\nsqsupseteq		\nsqsupseteq	\nsqsupseteq		::\nsqsupseteq::?	::\nsqsupseteq::?
+?		\sqsubsetneq			\sqsubsetneq			::\sqsubsetneq::?
+?		\sqsupsetneq			\sqsupsetneq			::\sqsupsetneq::?
+?	\lnsim	\lnsim		\lnsim	\lnsim		::\lnsim::?	::\lnsim::?
+?	\gnsim	\gnsim		\gnsim	\gnsim		::\gnsim::?	::\gnsim::?
+?	\precnsim	\precnsim		\precnsim	\precnsim		::\precnsim::?	::\precnsim::?
+?	\succnsim	\succnsim		\succnsim	\succnsim		::\succnsim::?	::\succnsim::?
+?	\ntriangleleft	\ntriangleleft		\ntriangleleft	\ntriangleleft		::\ntriangleleft::?	::\ntriangleleft::?
+?	\ntriangleright	\ntriangleright		\ntriangleright	\ntriangleright		::\ntriangleright::?	::\ntriangleright::?
+?	\ntrianglelefteq	\ntrianglelefteq		\ntrianglelefteq	\ntrianglelefteq		::\ntrianglelefteq::?	::\ntrianglelefteq::?
+?	\ntrianglerighteq	\ntrianglerighteq		\ntrianglerighteq	\ntrianglerighteq		::\ntrianglerighteq::?	::\ntrianglerighteq::?
+?	\vdots	\vdots		\vdots	\vdots		::\vdots::?	::\vdots::?
+?	\cdots	\unicodecdots		\cdots	\unicodecdots		::\cdots::?	::\unicodecdots::?
+?	\iddots	\adots		\iddots	\adots		::\iddots::?	::\adots::?
+?	\ddots	\ddots		\ddots	\ddots		::\ddots::?	::\ddots::?
+?		\disin			\disin			::\disin::?
+?		\varisins			\varisins			::\varisins::?
+?		\isins			\isins			::\isins::?
+?		\isindot			\isindot			::\isindot::?
+?	\barin	\varisinobar		\barin	\varisinobar		::\barin::?	::\varisinobar::?
+?		\isinobar			\isinobar			::\isinobar::?
+?		\isinvb			\isinvb			::\isinvb::?
+?		\isinE			\isinE			::\isinE::?
+?		\nisd			\nisd			::\nisd::?
+?		\varnis			\varnis			::\varnis::?
+?		\nis			\nis			::\nis::?
+?		\varniobar			\varniobar			::\varniobar::?
+?		\niobar			\niobar			::\niobar::?
+?		\bagmember			\bagmember			::\bagmember::?
+								
+								
+								
+chr	LaTeX	unicode-math						
+?	\diameter	\diameter		\diameter	\diameter		::\diameter::?	::\diameter::?
+?		\house			\house			::\house::?
+?		\varbarwedge			\varbarwedge			::\varbarwedge::?
+?		\vardoublebarwedge			\vardoublebarwedge			::\vardoublebarwedge::?
+?	\lceil	\lceil		\lceil	\lceil		::\lceil::?	::\lceil::?
+?	\rceil	\rceil		\rceil	\rceil		::\rceil::?	::\rceil::?
+?	\lfloor	\lfloor		\lfloor	\lfloor		::\lfloor::?	::\lfloor::?
+?	\rfloor	\rfloor		\rfloor	\rfloor		::\rfloor::?	::\rfloor::?
+?	\invneg	\invnot		\invneg	\invnot		::\invneg::?	::\invnot::?
+?	\wasylozenge	\sqlozenge		\wasylozenge	\sqlozenge		::\wasylozenge::?	::\sqlozenge::?
+?		\profline			\profline			::\profline::?
+?		\profsurf			\profsurf			::\profsurf::?
+?		\viewdata			\viewdata			::\viewdata::?
+?		\turnednot			\turnednot			::\turnednot::?
+?	\ulcorner	\ulcorner		\ulcorner	\ulcorner		::\ulcorner::?	::\ulcorner::?
+?	\urcorner	\urcorner		\urcorner	\urcorner		::\urcorner::?	::\urcorner::?
+?	\llcorner	\llcorner		\llcorner	\llcorner		::\llcorner::?	::\llcorner::?
+?	\lrcorner	\lrcorner		\lrcorner	\lrcorner		::\lrcorner::?	::\lrcorner::?
+?		\inttop			\inttop			::\inttop::?
+?		\intbottom			\intbottom			::\intbottom::?
+?	\frown	\frown		\frown	\frown		::\frown::?	::\frown::?
+?	\smile	\smile		\smile	\smile		::\smile::?	::\smile::?
+?		\varhexagonlrbonds			\varhexagonlrbonds			::\varhexagonlrbonds::?
+?		\conictaper			\conictaper			::\conictaper::?
+?		\topbot			\topbot			::\topbot::?
+?								
+?								
+?	\APLinv			\APLinv			::\APLinv::?	
+?								
+?								
+?								
+?		\obar			\obar			::\obar::?
+?								
+?	\notslash	\APLnotslash		\notslash	\APLnotslash		::\notslash::?	::\APLnotslash::?
+?	\notbackslash	\APLnotbackslash		\notbackslash	\APLnotbackslash		::\notbackslash::?	::\APLnotbackslash::?
+?								
+?								
+?								
+?								
+?								
+?								
+?	\APLleftarrowbox			\APLleftarrowbox			::\APLleftarrowbox::?	
+?	\APLrightarrowbox			\APLrightarrowbox			::\APLrightarrowbox::?	
+?	\invdiameter			\invdiameter			::\invdiameter::?	
+?								
+?								
+?								
+?								
+?								
+?								
+?	\APLuparrowbox			\APLuparrowbox			::\APLuparrowbox::?	
+?								
+?								
+?		\APLboxupcaret			\APLboxupcaret			::\APLboxupcaret::?
+?								
+?								
+?								
+?	\APLdownarrowbox			\APLdownarrowbox			::\APLdownarrowbox::?	
+?								
+?								
+?								
+?								
+?								
+?	\APLcomment			\APLcomment			::\APLcomment::?	
+?	\APLinput			\APLinput			::\APLinput::?	
+?	\APLlog			\APLlog			::\APLlog::?	
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?		\APLboxquestion			\APLboxquestion			::\APLboxquestion::?
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?		\rangledownzigzagarrow			\rangledownzigzagarrow			::\rangledownzigzagarrow::?
+?		\hexagon			\hexagon			::\hexagon::?
+?		\lparenuend			\lparenuend			::\lparenuend::?
+?		\lparenextender			\lparenextender			::\lparenextender::?
+?		\lparenlend			\lparenlend			::\lparenlend::?
+?		\rparenuend			\rparenuend			::\rparenuend::?
+?		\rparenextender			\rparenextender			::\rparenextender::?
+?		\rparenlend			\rparenlend			::\rparenlend::?
+?		\lbrackuend			\lbrackuend			::\lbrackuend::?
+?		\lbrackextender			\lbrackextender			::\lbrackextender::?
+?		\lbracklend			\lbracklend			::\lbracklend::?
+?		\rbrackuend			\rbrackuend			::\rbrackuend::?
+?		\rbrackextender			\rbrackextender			::\rbrackextender::?
+?		\rbracklend			\rbracklend			::\rbracklend::?
+?		\lbraceuend			\lbraceuend			::\lbraceuend::?
+?		\lbracemid			\lbracemid			::\lbracemid::?
+?		\lbracelend			\lbracelend			::\lbracelend::?
+?		\vbraceextender			\vbraceextender			::\vbraceextender::?
+?		\rbraceuend			\rbraceuend			::\rbraceuend::?
+?		\rbracemid			\rbracemid			::\rbracemid::?
+?		\rbracelend			\rbracelend			::\rbracelend::?
+?		\intextender			\intextender			::\intextender::?
+?		\harrowextender			\harrowextender			::\harrowextender::?
+?		\lmoustache			\lmoustache			::\lmoustache::?
+?		\rmoustache			\rmoustache			::\rmoustache::?
+?		\sumtop			\sumtop			::\sumtop::?
+?		\sumbottom			\sumbottom			::\sumbottom::?
+?		\overbracket			\overbracket			::\overbracket::?
+?		\underbracket			\underbracket			::\underbracket::?
+?		\bbrktbrk			\bbrktbrk			::\bbrktbrk::?
+?		\sqrtbottom			\sqrtbottom			::\sqrtbottom::?
+?		\lvboxline			\lvboxline			::\lvboxline::?
+?		\rvboxline			\rvboxline			::\rvboxline::?
+?		\varcarriagereturn			\varcarriagereturn			::\varcarriagereturn::?
+?								
+?	\overparen	\overparen		\overparen	\overparen		::\overparen::?	::\overparen::?
+?	\underparen	\underparen		\underparen	\underparen		::\underparen::?	::\underparen::?
+?	\overbrace	\overbrace		\overbrace	\overbrace		::\overbrace::?	::\overbrace::?
+?	\underbrace	\underbrace		\underbrace	\underbrace		::\underbrace::?	::\underbrace::?
+?		\obrbrak			\obrbrak			::\obrbrak::?
+?		\ubrbrak			\ubrbrak			::\ubrbrak::?
+?		\trapezium			\trapezium			::\trapezium::?
+?		\benzenr			\benzenr			::\benzenr::?
+?		\strns			\strns			::\strns::?
+?		\fltns			\fltns			::\fltns::?
+?		\accurrent			\accurrent			::\accurrent::?
+?		\elinters			\elinters			::\elinters::?
+								
+								
+								
+chr	LaTeX	unicode-math						
+?								
+								
+								
+								
+chr	LaTeX	unicode-math						
+?		\bdtriplevdash			\bdtriplevdash			::\bdtriplevdash::?
+								
+								
+								
+chr	LaTeX	unicode-math						
+?		\blockuphalf			\blockuphalf			::\blockuphalf::?
+?		\blocklowhalf			\blocklowhalf			::\blocklowhalf::?
+?		\blockfull			\blockfull			::\blockfull::?
+?		\blocklefthalf			\blocklefthalf			::\blocklefthalf::?
+?		\blockrighthalf			\blockrighthalf			::\blockrighthalf::?
+?		\blockqtrshaded			\blockqtrshaded			::\blockqtrshaded::?
+?		\blockhalfshaded			\blockhalfshaded			::\blockhalfshaded::?
+?		\blockthreeqtrshaded			\blockthreeqtrshaded			::\blockthreeqtrshaded::?
+								
+								
+								
+chr	LaTeX	unicode-math						
+?		\mdlgblksquare			\mdlgblksquare			::\mdlgblksquare::?
+?		\mdlgwhtsquare			\mdlgwhtsquare			::\mdlgwhtsquare::?
+?		\squoval			\squoval			::\squoval::?
+?		\blackinwhitesquare			\blackinwhitesquare			::\blackinwhitesquare::?
+?		\squarehfill			\squarehfill			::\squarehfill::?
+?		\squarevfill			\squarevfill			::\squarevfill::?
+?		\squarehvfill			\squarehvfill			::\squarehvfill::?
+?		\squarenwsefill			\squarenwsefill			::\squarenwsefill::?
+?		\squareneswfill			\squareneswfill			::\squareneswfill::?
+?		\squarecrossfill			\squarecrossfill			::\squarecrossfill::?
+?		\smblksquare			\smblksquare			::\smblksquare::?
+?		\smwhtsquare			\smwhtsquare			::\smwhtsquare::?
+?		\hrectangleblack			\hrectangleblack			::\hrectangleblack::?
+?		\hrectangle			\hrectangle			::\hrectangle::?
+?		\vrectangleblack			\vrectangleblack			::\vrectangleblack::?
+?		\vrectangle			\vrectangle			::\vrectangle::?
+?		\parallelogramblack			\parallelogramblack			::\parallelogramblack::?
+?		\parallelogram			\parallelogram			::\parallelogram::?
+?		\bigblacktriangleup			\bigblacktriangleup			::\bigblacktriangleup::?
+?	\bigtriangleup	\bigtriangleup		\bigtriangleup	\bigtriangleup		::\bigtriangleup::?	::\bigtriangleup::?
+?	\blacktriangleup	\blacktriangle		\blacktriangleup	\blacktriangle		::\blacktriangleup::?	::\blacktriangle::?
+?	\smalltriangleup	\vartriangle		\smalltriangleup	\vartriangle		::\smalltriangleup::?	::\vartriangle::?
+?	\RHD	\blacktriangleright		\RHD	\blacktriangleright		::\RHD::?	::\blacktriangleright::?
+?	\rhd	\triangleright		\rhd	\triangleright		::\rhd::?	::\triangleright::?
+?	\blacktriangleright	\smallblacktriangleright		\blacktriangleright	\smallblacktriangleright		::\blacktriangleright::?	::\smallblacktriangleright::?
+?	\smalltriangleright	\smalltriangleright		\smalltriangleright	\smalltriangleright		::\smalltriangleright::?	::\smalltriangleright::?
+?		\blackpointerright			\blackpointerright			::\blackpointerright::?
+?		\whitepointerright			\whitepointerright			::\whitepointerright::?
+?		\bigblacktriangledown			\bigblacktriangledown			::\bigblacktriangledown::?
+?	\bigtriangledown	\bigtriangledown		\bigtriangledown	\bigtriangledown		::\bigtriangledown::?	::\bigtriangledown::?
+?	\blacktriangledown	\blacktriangledown		\blacktriangledown	\blacktriangledown		::\blacktriangledown::?	::\blacktriangledown::?
+?	\smalltriangledown	\triangledown		\smalltriangledown	\triangledown		::\smalltriangledown::?	::\triangledown::?
+?	\LHD	\blacktriangleleft		\LHD	\blacktriangleleft		::\LHD::?	::\blacktriangleleft::?
+?	\lhd	\triangleleft		\lhd	\triangleleft		::\lhd::?	::\triangleleft::?
+?	\blacktriangleleft	\smallblacktriangleleft		\blacktriangleleft	\smallblacktriangleleft		::\blacktriangleleft::?	::\smallblacktriangleleft::?
+?	\smalltriangleleft	\smalltriangleleft		\smalltriangleleft	\smalltriangleleft		::\smalltriangleleft::?	::\smalltriangleleft::?
+?		\blackpointerleft			\blackpointerleft			::\blackpointerleft::?
+?		\whitepointerleft			\whitepointerleft			::\whitepointerleft::?
+?	\Diamondblack	\mdlgblkdiamond		\Diamondblack	\mdlgblkdiamond		::\Diamondblack::?	::\mdlgblkdiamond::?
+?	\Diamond	\mdlgwhtdiamond		\Diamond	\mdlgwhtdiamond		::\Diamond::?	::\mdlgwhtdiamond::?
+?		\blackinwhitediamond			\blackinwhitediamond			::\blackinwhitediamond::?
+?		\fisheye			\fisheye			::\fisheye::?
+?	\lozenge	\mdlgwhtlozenge		\lozenge	\mdlgwhtlozenge		::\lozenge::?	::\mdlgwhtlozenge::?
+?	\Circle	\mdlgwhtcircle		\Circle	\mdlgwhtcircle		::\Circle::?	::\mdlgwhtcircle::?
+?		\dottedcircle			\dottedcircle			::\dottedcircle::?
+?		\circlevertfill			\circlevertfill			::\circlevertfill::?
+?		\bullseye			\bullseye			::\bullseye::?
+?	\CIRCLE	\mdlgblkcircle		\CIRCLE	\mdlgblkcircle		::\CIRCLE::?	::\mdlgblkcircle::?
+?	\LEFTcircle	\circlelefthalfblack		\LEFTcircle	\circlelefthalfblack		::\LEFTcircle::?	::\circlelefthalfblack::?
+?	\RIGHTcircle	\circlerighthalfblack		\RIGHTcircle	\circlerighthalfblack		::\RIGHTcircle::?	::\circlerighthalfblack::?
+?		\circlebottomhalfblack			\circlebottomhalfblack			::\circlebottomhalfblack::?
+?		\circletophalfblack			\circletophalfblack			::\circletophalfblack::?
+?		\circleurquadblack			\circleurquadblack			::\circleurquadblack::?
+?		\blackcircleulquadwhite			\blackcircleulquadwhite			::\blackcircleulquadwhite::?
+?	\LEFTCIRCLE	\blacklefthalfcircle		\LEFTCIRCLE	\blacklefthalfcircle		::\LEFTCIRCLE::?	::\blacklefthalfcircle::?
+?	\RIGHTCIRCLE	\blackrighthalfcircle		\RIGHTCIRCLE	\blackrighthalfcircle		::\RIGHTCIRCLE::?	::\blackrighthalfcircle::?
+?		\inversebullet			\inversebullet			::\inversebullet::?
+?		\inversewhitecircle			\inversewhitecircle			::\inversewhitecircle::?
+?		\invwhiteupperhalfcircle			\invwhiteupperhalfcircle			::\invwhiteupperhalfcircle::?
+?		\invwhitelowerhalfcircle			\invwhitelowerhalfcircle			::\invwhitelowerhalfcircle::?
+?		\ularc			\ularc			::\ularc::?
+?		\urarc			\urarc			::\urarc::?
+?		\lrarc			\lrarc			::\lrarc::?
+?		\llarc			\llarc			::\llarc::?
+?		\topsemicircle			\topsemicircle			::\topsemicircle::?
+?		\botsemicircle			\botsemicircle			::\botsemicircle::?
+?		\lrblacktriangle			\lrblacktriangle			::\lrblacktriangle::?
+?		\llblacktriangle			\llblacktriangle			::\llblacktriangle::?
+?		\ulblacktriangle			\ulblacktriangle			::\ulblacktriangle::?
+?		\urblacktriangle			\urblacktriangle			::\urblacktriangle::?
+?		\smwhtcircle			\smwhtcircle			::\smwhtcircle::?
+?		\squareleftblack			\squareleftblack			::\squareleftblack::?
+?		\squarerightblack			\squarerightblack			::\squarerightblack::?
+?		\squareulblack			\squareulblack			::\squareulblack::?
+?		\squarelrblack			\squarelrblack			::\squarelrblack::?
+?	\boxbar	\boxbar		\boxbar	\boxbar		::\boxbar::?	::\boxbar::?
+?		\trianglecdot			\trianglecdot			::\trianglecdot::?
+?		\triangleleftblack			\triangleleftblack			::\triangleleftblack::?
+?		\trianglerightblack			\trianglerightblack			::\trianglerightblack::?
+?		\lgwhtcircle			\lgwhtcircle			::\lgwhtcircle::?
+?		\squareulquad			\squareulquad			::\squareulquad::?
+?		\squarellquad			\squarellquad			::\squarellquad::?
+?		\squarelrquad			\squarelrquad			::\squarelrquad::?
+?		\squareurquad			\squareurquad			::\squareurquad::?
+?		\circleulquad			\circleulquad			::\circleulquad::?
+?		\circlellquad			\circlellquad			::\circlellquad::?
+?		\circlelrquad			\circlelrquad			::\circlelrquad::?
+?		\circleurquad			\circleurquad			::\circleurquad::?
+?		\ultriangle			\ultriangle			::\ultriangle::?
+?		\urtriangle			\urtriangle			::\urtriangle::?
+?		\lltriangle			\lltriangle			::\lltriangle::?
+?	\square	\mdwhtsquare		\square	\mdwhtsquare		::\square::?	::\mdwhtsquare::?
+?	\blacksquare	\mdblksquare		\blacksquare	\mdblksquare		::\blacksquare::?	::\mdblksquare::?
+?		\mdsmwhtsquare			\mdsmwhtsquare			::\mdsmwhtsquare::?
+?		\mdsmblksquare			\mdsmblksquare			::\mdsmblksquare::?
+?		\lrtriangle			\lrtriangle			::\lrtriangle::?
+								
+								
+								
+chr	LaTeX	unicode-math						
+?	\bigstar	\bigstar		\bigstar	\bigstar		::\bigstar::?	::\bigstar::?
+?		\bigwhitestar			\bigwhitestar			::\bigwhitestar::?
+?	\Sun	\astrosun		\Sun	\astrosun		::\Sun::?	::\astrosun::?
+?								
+?	\Square			\Square			::\Square::?	
+?	\CheckedBox			\CheckedBox			::\CheckedBox::?	
+?	\XBox			\XBox			::\XBox::?	
+?	\steaming			\steaming			::\steaming::?	
+?	\pointright			\pointright			::\pointright::?	
+?	\skull			\skull			::\skull::?	
+?		\danger			\danger			::\danger::?
+?	\radiation			\radiation			::\radiation::?	
+?	\biohazard			\biohazard			::\biohazard::?	
+?	\yinyang			\yinyang			::\yinyang::?	
+?	\frownie			\frownie			::\frownie::?	
+?	\smiley			\smiley			::\smiley::?	
+?	\blacksmiley	\blacksmiley		\blacksmiley	\blacksmiley		::\blacksmiley::?	::\blacksmiley::?
+?	\sun	\sun		\sun	\sun		::\sun::?	::\sun::?
+?	\rightmoon	\rightmoon		\rightmoon	\rightmoon		::\rightmoon::?	::\rightmoon::?
+?	\leftmoon	\leftmoon		\leftmoon	\leftmoon		::\leftmoon::?	::\leftmoon::?
+?	\mercury			\mercury			::\mercury::?	
+?	\female	\female		\female	\female		::\female::?	::\female::?
+?	\earth			\earth			::\earth::?	
+?	\male	\male		\male	\male		::\male::?	::\male::?
+?	\jupiter			\jupiter			::\jupiter::?	
+?	\saturn			\saturn			::\saturn::?	
+?	\uranus			\uranus			::\uranus::?	
+?	\neptune			\neptune			::\neptune::?	
+?	\pluto			\pluto			::\pluto::?	
+?	\aries			\aries			::\aries::?	
+?	\taurus			\taurus			::\taurus::?	
+?	\gemini			\gemini			::\gemini::?	
+?	\cancer			\cancer			::\cancer::?	
+?	\leo			\leo			::\leo::?	
+?	\virgo			\virgo			::\virgo::?	
+?	\libra			\libra			::\libra::?	
+?	\scorpio			\scorpio			::\scorpio::?	
+?	\sagittarius			\sagittarius			::\sagittarius::?	
+?	\capricornus			\capricornus			::\capricornus::?	
+?	\aquarius			\aquarius			::\aquarius::?	
+?	\pisces			\pisces			::\pisces::?	
+?	\spadesuit	\spadesuit		\spadesuit	\spadesuit		::\spadesuit::?	::\spadesuit::?
+?	\heartsuit	\heartsuit		\heartsuit	\heartsuit		::\heartsuit::?	::\heartsuit::?
+?	\diamondsuit	\diamondsuit		\diamondsuit	\diamondsuit		::\diamondsuit::?	::\diamondsuit::?
+?	\clubsuit	\clubsuit		\clubsuit	\clubsuit		::\clubsuit::?	::\clubsuit::?
+?	\varspadesuit	\varspadesuit		\varspadesuit	\varspadesuit		::\varspadesuit::?	::\varspadesuit::?
+?	\varheartsuit	\varheartsuit		\varheartsuit	\varheartsuit		::\varheartsuit::?	::\varheartsuit::?
+?	\vardiamondsuit	\vardiamondsuit		\vardiamondsuit	\vardiamondsuit		::\vardiamondsuit::?	::\vardiamondsuit::?
+?	\varclubsuit	\varclubsuit		\varclubsuit	\varclubsuit		::\varclubsuit::?	::\varclubsuit::?
+?	\quarternote	\quarternote		\quarternote	\quarternote		::\quarternote::?	::\quarternote::?
+?	\eighthnote	\eighthnote		\eighthnote	\eighthnote		::\eighthnote::?	::\eighthnote::?
+?	\twonotes	\twonotes		\twonotes	\twonotes		::\twonotes::?	::\twonotes::?
+?	\sixteenthnote			\sixteenthnote			::\sixteenthnote::?	
+?	\flat	\flat		\flat	\flat		::\flat::?	::\flat::?
+?	\natural	\natural		\natural	\natural		::\natural::?	::\natural::?
+?	\sharp	\sharp		\sharp	\sharp		::\sharp::?	::\sharp::?
+?	\recycle			\recycle			::\recycle::?	
+?		\acidfree			\acidfree			::\acidfree::?
+?		\dicei			\dicei			::\dicei::?
+?		\diceii			\diceii			::\diceii::?
+?		\diceiii			\diceiii			::\diceiii::?
+?		\diceiv			\diceiv			::\diceiv::?
+?		\dicev			\dicev			::\dicev::?
+?		\dicevi			\dicevi			::\dicevi::?
+?		\circledrightdot			\circledrightdot			::\circledrightdot::?
+?		\circledtwodots			\circledtwodots			::\circledtwodots::?
+?		\blackcircledrightdot			\blackcircledrightdot			::\blackcircledrightdot::?
+?		\blackcircledtwodots			\blackcircledtwodots			::\blackcircledtwodots::?
+?	\anchor			\anchor			::\anchor::?	
+?	\swords			\swords			::\swords::?	
+?	\warning			\warning			::\warning::?	
+?		\Hermaphrodite			\Hermaphrodite			::\Hermaphrodite::?
+?	\medcirc	\mdwhtcircle		\medcirc	\mdwhtcircle		::\medcirc::?	::\mdwhtcircle::?
+?	\medbullet	\mdblkcircle		\medbullet	\mdblkcircle		::\medbullet::?	::\mdblkcircle::?
+?		\mdsmwhtcircle			\mdsmwhtcircle			::\mdsmwhtcircle::?
+?		\neuter			\neuter			::\neuter::?
+								
+								
+								
+chr	LaTeX	unicode-math						
+?	\pencil			\pencil			::\pencil::?	
+?	\checkmark	\checkmark		\checkmark	\checkmark		::\checkmark::?	::\checkmark::?
+?	\ballotx			\ballotx			::\ballotx::?	
+?	\maltese	\maltese		\maltese	\maltese		::\maltese::?	::\maltese::?
+?		\circledstar			\circledstar			::\circledstar::?
+?		\varstar			\varstar			::\varstar::?
+?		\dingasterisk			\dingasterisk			::\dingasterisk::?
+?		\lbrbrak			\lbrbrak			::\lbrbrak::?
+?		\rbrbrak			\rbrbrak			::\rbrbrak::?
+?		\draftingarrow			\draftingarrow			::\draftingarrow::?
+?	\arrowbullet			\arrowbullet			::\arrowbullet::?	
+								
+								
+								
+chr	LaTeX	unicode-math						
+?		\threedangle			\threedangle			::\threedangle::?
+?		\whiteinwhitetriangle			\whiteinwhitetriangle			::\whiteinwhitetriangle::?
+?	\perp	\perp		\perp	\perp		::\perp::?	::\perp::?
+?		\subsetcirc			\subsetcirc			::\subsetcirc::?
+?		\supsetcirc			\supsetcirc			::\supsetcirc::?
+?	\Lbag	\lbag		\Lbag	\lbag		::\Lbag::?	::\lbag::?
+?	\Rbag	\rbag		\Rbag	\rbag		::\Rbag::?	::\rbag::?
+?		\veedot			\veedot			::\veedot::?
+?		\bsolhsub			\bsolhsub			::\bsolhsub::?
+?		\suphsol			\suphsol			::\suphsol::?
+?		\longdivision			\longdivision			::\longdivision::?
+?	\Diamonddot	\diamondcdot		\Diamonddot	\diamondcdot		::\Diamonddot::?	::\diamondcdot::?
+?		\wedgedot			\wedgedot			::\wedgedot::?
+?		\upin			\upin			::\upin::?
+?		\pullback			\pullback			::\pullback::?
+?		\pushout			\pushout			::\pushout::?
+?		\leftouterjoin			\leftouterjoin			::\leftouterjoin::?
+?		\rightouterjoin			\rightouterjoin			::\rightouterjoin::?
+?		\fullouterjoin			\fullouterjoin			::\fullouterjoin::?
+?		\bigbot			\bigbot			::\bigbot::?
+?		\bigtop			\bigtop			::\bigtop::?
+?		\DashVDash			\DashVDash			::\DashVDash::?
+?		\dashVdash			\dashVdash			::\dashVdash::?
+?	\multimapinv	\multimapinv		\multimapinv	\multimapinv		::\multimapinv::?	::\multimapinv::?
+?		\vlongdash			\vlongdash			::\vlongdash::?
+?		\longdashv			\longdashv			::\longdashv::?
+?		\cirbot			\cirbot			::\cirbot::?
+?		\lozengeminus			\lozengeminus			::\lozengeminus::?
+?		\concavediamond			\concavediamond			::\concavediamond::?
+?		\concavediamondtickleft			\concavediamondtickleft			::\concavediamondtickleft::?
+?		\concavediamondtickright			\concavediamondtickright			::\concavediamondtickright::?
+?		\whitesquaretickleft			\whitesquaretickleft			::\whitesquaretickleft::?
+?		\whitesquaretickright			\whitesquaretickright			::\whitesquaretickright::?
+?	\llbracket	\lBrack		\llbracket	\lBrack		::\llbracket::?	::\lBrack::?
+?	\rrbracket	\rBrack		\rrbracket	\rBrack		::\rrbracket::?	::\rBrack::?
+?	\langle	\langle		\langle	\langle		::\langle::?	::\langle::?
+?	\rangle	\rangle		\rangle	\rangle		::\rangle::?	::\rangle::?
+?	\lang	\lAngle		\lang	\lAngle		::\lang::?	::\lAngle::?
+?	\rang	\rAngle		\rang	\rAngle		::\rang::?	::\rAngle::?
+?		\Lbrbrak			\Lbrbrak			::\Lbrbrak::?
+?		\Rbrbrak			\Rbrbrak			::\Rbrbrak::?
+?	\lgroup			\lgroup			::\lgroup::?	
+?	\rgroup			\rgroup			::\rgroup::?	
+								
+								
+								
+chr	LaTeX	unicode-math						
+?		\UUparrow			\UUparrow			::\UUparrow::?
+?		\DDownarrow			\DDownarrow			::\DDownarrow::?
+?		\acwgapcirclearrow			\acwgapcirclearrow			::\acwgapcirclearrow::?
+?		\cwgapcirclearrow			\cwgapcirclearrow			::\cwgapcirclearrow::?
+?		\rightarrowonoplus			\rightarrowonoplus			::\rightarrowonoplus::?
+?	\longleftarrow	\longleftarrow		\longleftarrow	\longleftarrow		::\longleftarrow::?	::\longleftarrow::?
+?	\longrightarrow	\longrightarrow		\longrightarrow	\longrightarrow		::\longrightarrow::?	::\longrightarrow::?
+?	\longleftrightarrow	\longleftrightarrow		\longleftrightarrow	\longleftrightarrow		::\longleftrightarrow::?	::\longleftrightarrow::?
+?	\Longleftarrow	\Longleftarrow		\Longleftarrow	\Longleftarrow		::\Longleftarrow::?	::\Longleftarrow::?
+?	\Longrightarrow	\Longrightarrow		\Longrightarrow	\Longrightarrow		::\Longrightarrow::?	::\Longrightarrow::?
+?	\Longleftrightarrow	\Longleftrightarrow		\Longleftrightarrow	\Longleftrightarrow		::\Longleftrightarrow::?	::\Longleftrightarrow::?
+?	\longmapsfrom	\longmapsfrom		\longmapsfrom	\longmapsfrom		::\longmapsfrom::?	::\longmapsfrom::?
+?	\longmapsto	\longmapsto		\longmapsto	\longmapsto		::\longmapsto::?	::\longmapsto::?
+?	\Longmapsfrom	\Longmapsfrom		\Longmapsfrom	\Longmapsfrom		::\Longmapsfrom::?	::\Longmapsfrom::?
+?	\Longmapsto	\Longmapsto		\Longmapsto	\Longmapsto		::\Longmapsto::?	::\Longmapsto::?
+?		\longrightsquigarrow			\longrightsquigarrow			::\longrightsquigarrow::?
+								
+								
+								
+chr	LaTeX	unicode-math						
+?	\psur	\nvtwoheadrightarrow		\psur	\nvtwoheadrightarrow		::\psur::?	::\nvtwoheadrightarrow::?
+?		\nVtwoheadrightarrow			\nVtwoheadrightarrow			::\nVtwoheadrightarrow::?
+?		\nvLeftarrow			\nvLeftarrow			::\nvLeftarrow::?
+?		\nvRightarrow			\nvRightarrow			::\nvRightarrow::?
+?		\nvLeftrightarrow			\nvLeftrightarrow			::\nvLeftrightarrow::?
+?		\twoheadmapsto			\twoheadmapsto			::\twoheadmapsto::?
+?	\Mapsfrom	\Mapsfrom		\Mapsfrom	\Mapsfrom		::\Mapsfrom::?	::\Mapsfrom::?
+?	\Mapsto	\Mapsto		\Mapsto	\Mapsto		::\Mapsto::?	::\Mapsto::?
+?		\downarrowbarred			\downarrowbarred			::\downarrowbarred::?
+?		\uparrowbarred			\uparrowbarred			::\uparrowbarred::?
+?		\Uuparrow			\Uuparrow			::\Uuparrow::?
+?		\Ddownarrow			\Ddownarrow			::\Ddownarrow::?
+?		\leftbkarrow			\leftbkarrow			::\leftbkarrow::?
+?		\rightbkarrow			\rightbkarrow			::\rightbkarrow::?
+?		\leftdbkarrow			\leftdbkarrow			::\leftdbkarrow::?
+?		\dbkarow			\dbkarow			::\dbkarow::?
+?		\drbkarow			\drbkarow			::\drbkarow::?
+?		\rightdotarrow			\rightdotarrow			::\rightdotarrow::?
+?	\UpArrowBar	\baruparrow		\UpArrowBar	\baruparrow		::\UpArrowBar::?	::\baruparrow::?
+?	\DownArrowBar	\downarrowbar		\DownArrowBar	\downarrowbar		::\DownArrowBar::?	::\downarrowbar::?
+?	\pinj	\nvrightarrowtail		\pinj	\nvrightarrowtail		::\pinj::?	::\nvrightarrowtail::?
+?	\finj	\nVrightarrowtail		\finj	\nVrightarrowtail		::\finj::?	::\nVrightarrowtail::?
+?	\bij	\twoheadrightarrowtail		\bij	\twoheadrightarrowtail		::\bij::?	::\twoheadrightarrowtail::?
+?		\nvtwoheadrightarrowtail			\nvtwoheadrightarrowtail			::\nvtwoheadrightarrowtail::?
+?		\nVtwoheadrightarrowtail			\nVtwoheadrightarrowtail			::\nVtwoheadrightarrowtail::?
+?		\lefttail			\lefttail			::\lefttail::?
+?		\righttail			\righttail			::\righttail::?
+?		\leftdbltail			\leftdbltail			::\leftdbltail::?
+?		\rightdbltail			\rightdbltail			::\rightdbltail::?
+?		\diamondleftarrow			\diamondleftarrow			::\diamondleftarrow::?
+?		\rightarrowdiamond			\rightarrowdiamond			::\rightarrowdiamond::?
+?		\diamondleftarrowbar			\diamondleftarrowbar			::\diamondleftarrowbar::?
+?		\barrightarrowdiamond			\barrightarrowdiamond			::\barrightarrowdiamond::?
+?		\nwsearrow			\nwsearrow			::\nwsearrow::?
+?		\neswarrow			\neswarrow			::\neswarrow::?
+?		\hknwarrow			\hknwarrow			::\hknwarrow::?
+?		\hknearrow			\hknearrow			::\hknearrow::?
+?		\hksearow			\hksearow			::\hksearow::?
+?		\hkswarow			\hkswarow			::\hkswarow::?
+?		\tona			\tona			::\tona::?
+?		\toea			\toea			::\toea::?
+?		\tosa			\tosa			::\tosa::?
+?		\towa			\towa			::\towa::?
+?		\rdiagovfdiag			\rdiagovfdiag			::\rdiagovfdiag::?
+?		\fdiagovrdiag			\fdiagovrdiag			::\fdiagovrdiag::?
+?		\seovnearrow			\seovnearrow			::\seovnearrow::?
+?		\neovsearrow			\neovsearrow			::\neovsearrow::?
+?		\fdiagovnearrow			\fdiagovnearrow			::\fdiagovnearrow::?
+?		\rdiagovsearrow			\rdiagovsearrow			::\rdiagovsearrow::?
+?		\neovnwarrow			\neovnwarrow			::\neovnwarrow::?
+?		\nwovnearrow			\nwovnearrow			::\nwovnearrow::?
+?	\leadsto	\rightcurvedarrow		\leadsto	\rightcurvedarrow		::\leadsto::?	::\rightcurvedarrow::?
+?		\uprightcurvearrow			\uprightcurvearrow			::\uprightcurvearrow::?
+?		\downrightcurvedarrow			\downrightcurvedarrow			::\downrightcurvedarrow::?
+?		\leftdowncurvedarrow			\leftdowncurvedarrow			::\leftdowncurvedarrow::?
+?		\rightdowncurvedarrow			\rightdowncurvedarrow			::\rightdowncurvedarrow::?
+?		\cwrightarcarrow			\cwrightarcarrow			::\cwrightarcarrow::?
+?		\acwleftarcarrow			\acwleftarcarrow			::\acwleftarcarrow::?
+?		\acwoverarcarrow			\acwoverarcarrow			::\acwoverarcarrow::?
+?		\acwunderarcarrow			\acwunderarcarrow			::\acwunderarcarrow::?
+?		\curvearrowrightminus			\curvearrowrightminus			::\curvearrowrightminus::?
+?		\curvearrowleftplus			\curvearrowleftplus			::\curvearrowleftplus::?
+?		\cwundercurvearrow			\cwundercurvearrow			::\cwundercurvearrow::?
+?		\ccwundercurvearrow			\ccwundercurvearrow			::\ccwundercurvearrow::?
+?		\acwcirclearrow			\acwcirclearrow			::\acwcirclearrow::?
+?		\cwcirclearrow			\cwcirclearrow			::\cwcirclearrow::?
+?		\rightarrowshortleftarrow			\rightarrowshortleftarrow			::\rightarrowshortleftarrow::?
+?		\leftarrowshortrightarrow			\leftarrowshortrightarrow			::\leftarrowshortrightarrow::?
+?		\shortrightarrowleftarrow			\shortrightarrowleftarrow			::\shortrightarrowleftarrow::?
+?		\rightarrowplus			\rightarrowplus			::\rightarrowplus::?
+?		\leftarrowplus			\leftarrowplus			::\leftarrowplus::?
+?		\rightarrowx			\rightarrowx			::\rightarrowx::?
+?		\leftrightarrowcircle			\leftrightarrowcircle			::\leftrightarrowcircle::?
+?		\twoheaduparrowcircle			\twoheaduparrowcircle			::\twoheaduparrowcircle::?
+?	\leftrightharpoon	\leftrightharpoonupdown		\leftrightharpoon	\leftrightharpoonupdown		::\leftrightharpoon::?	::\leftrightharpoonupdown::?
+?	\rightleftharpoon	\leftrightharpoondownup		\rightleftharpoon	\leftrightharpoondownup		::\rightleftharpoon::?	::\leftrightharpoondownup::?
+?		\updownharpoonrightleft			\updownharpoonrightleft			::\updownharpoonrightleft::?
+?		\updownharpoonleftright			\updownharpoonleftright			::\updownharpoonleftright::?
+?	\leftrightharpoonup	\leftrightharpoonupup		\leftrightharpoonup	\leftrightharpoonupup		::\leftrightharpoonup::?	::\leftrightharpoonupup::?
+?	\rightupdownharpoon	\updownharpoonrightright		\rightupdownharpoon	\updownharpoonrightright		::\rightupdownharpoon::?	::\updownharpoonrightright::?
+?	\leftrightharpoondown	\leftrightharpoondowndown		\leftrightharpoondown	\leftrightharpoondowndown		::\leftrightharpoondown::?	::\leftrightharpoondowndown::?
+?	\leftupdownharpoon	\updownharpoonleftleft		\leftupdownharpoon	\updownharpoonleftleft		::\leftupdownharpoon::?	::\updownharpoonleftleft::?
+?	\LeftVectorBar	\barleftharpoonup		\LeftVectorBar	\barleftharpoonup		::\LeftVectorBar::?	::\barleftharpoonup::?
+?	\RightVectorBar	\rightharpoonupbar		\RightVectorBar	\rightharpoonupbar		::\RightVectorBar::?	::\rightharpoonupbar::?
+?	\RightUpVectorBar	\barupharpoonright		\RightUpVectorBar	\barupharpoonright		::\RightUpVectorBar::?	::\barupharpoonright::?
+?	\RightDownVectorBar	\downharpoonrightbar		\RightDownVectorBar	\downharpoonrightbar		::\RightDownVectorBar::?	::\downharpoonrightbar::?
+?	\DownLeftVectorBar	\barleftharpoondown		\DownLeftVectorBar	\barleftharpoondown		::\DownLeftVectorBar::?	::\barleftharpoondown::?
+?	\DownRightVectorBar	\rightharpoondownbar		\DownRightVectorBar	\rightharpoondownbar		::\DownRightVectorBar::?	::\rightharpoondownbar::?
+?	\LeftUpVectorBar	\barupharpoonleft		\LeftUpVectorBar	\barupharpoonleft		::\LeftUpVectorBar::?	::\barupharpoonleft::?
+?	\LeftDownVectorBar	\downharpoonleftbar		\LeftDownVectorBar	\downharpoonleftbar		::\LeftDownVectorBar::?	::\downharpoonleftbar::?
+?	\LeftTeeVector	\leftharpoonupbar		\LeftTeeVector	\leftharpoonupbar		::\LeftTeeVector::?	::\leftharpoonupbar::?
+?	\RightTeeVector	\barrightharpoonup		\RightTeeVector	\barrightharpoonup		::\RightTeeVector::?	::\barrightharpoonup::?
+?	\RightUpTeeVector	\upharpoonrightbar		\RightUpTeeVector	\upharpoonrightbar		::\RightUpTeeVector::?	::\upharpoonrightbar::?
+?	\RightDownTeeVector	\bardownharpoonright		\RightDownTeeVector	\bardownharpoonright		::\RightDownTeeVector::?	::\bardownharpoonright::?
+?	\DownLeftTeeVector	\leftharpoondownbar		\DownLeftTeeVector	\leftharpoondownbar		::\DownLeftTeeVector::?	::\leftharpoondownbar::?
+?	\DownRightTeeVector	\barrightharpoondown		\DownRightTeeVector	\barrightharpoondown		::\DownRightTeeVector::?	::\barrightharpoondown::?
+?	\LeftUpTeeVector	\upharpoonleftbar		\LeftUpTeeVector	\upharpoonleftbar		::\LeftUpTeeVector::?	::\upharpoonleftbar::?
+?	\LeftDownTeeVector	\bardownharpoonleft		\LeftDownTeeVector	\bardownharpoonleft		::\LeftDownTeeVector::?	::\bardownharpoonleft::?
+?	\leftleftharpoons	\leftharpoonsupdown		\leftleftharpoons	\leftharpoonsupdown		::\leftleftharpoons::?	::\leftharpoonsupdown::?
+?	\upupharpoons	\upharpoonsleftright		\upupharpoons	\upharpoonsleftright		::\upupharpoons::?	::\upharpoonsleftright::?
+?	\rightrightharpoons	\rightharpoonsupdown		\rightrightharpoons	\rightharpoonsupdown		::\rightrightharpoons::?	::\rightharpoonsupdown::?
+?	\downdownharpoons	\downharpoonsleftright		\downdownharpoons	\downharpoonsleftright		::\downdownharpoons::?	::\downharpoonsleftright::?
+?		\leftrightharpoonsup			\leftrightharpoonsup			::\leftrightharpoonsup::?
+?		\leftrightharpoonsdown			\leftrightharpoonsdown			::\leftrightharpoonsdown::?
+?		\rightleftharpoonsup			\rightleftharpoonsup			::\rightleftharpoonsup::?
+?		\rightleftharpoonsdown			\rightleftharpoonsdown			::\rightleftharpoonsdown::?
+?	\leftbarharpoon	\leftharpoonupdash		\leftbarharpoon	\leftharpoonupdash		::\leftbarharpoon::?	::\leftharpoonupdash::?
+?	\barleftharpoon	\dashleftharpoondown		\barleftharpoon	\dashleftharpoondown		::\barleftharpoon::?	::\dashleftharpoondown::?
+?	\rightbarharpoon	\rightharpoonupdash		\rightbarharpoon	\rightharpoonupdash		::\rightbarharpoon::?	::\rightharpoonupdash::?
+?	\barrightharpoon	\dashrightharpoondown		\barrightharpoon	\dashrightharpoondown		::\barrightharpoon::?	::\dashrightharpoondown::?
+?	\updownharpoons	\updownharpoonsleftright		\updownharpoons	\updownharpoonsleftright		::\updownharpoons::?	::\updownharpoonsleftright::?
+?	\downupharpoons	\downupharpoonsleftright		\downupharpoons	\downupharpoonsleftright		::\downupharpoons::?	::\downupharpoonsleftright::?
+?		\rightimply			\rightimply			::\rightimply::?
+?		\equalrightarrow			\equalrightarrow			::\equalrightarrow::?
+?		\similarrightarrow			\similarrightarrow			::\similarrightarrow::?
+?		\leftarrowsimilar			\leftarrowsimilar			::\leftarrowsimilar::?
+?		\rightarrowsimilar			\rightarrowsimilar			::\rightarrowsimilar::?
+?		\rightarrowapprox			\rightarrowapprox			::\rightarrowapprox::?
+?		\ltlarr			\ltlarr			::\ltlarr::?
+?		\leftarrowless			\leftarrowless			::\leftarrowless::?
+?		\gtrarr			\gtrarr			::\gtrarr::?
+?		\subrarr			\subrarr			::\subrarr::?
+?		\leftarrowsubset			\leftarrowsubset			::\leftarrowsubset::?
+?		\suplarr			\suplarr			::\suplarr::?
+?	\strictfi	\leftfishtail		\strictfi	\leftfishtail		::\strictfi::?	::\leftfishtail::?
+?	\strictif	\rightfishtail		\strictif	\rightfishtail		::\strictif::?	::\rightfishtail::?
+?		\upfishtail			\upfishtail			::\upfishtail::?
+?		\downfishtail			\downfishtail			::\downfishtail::?
+								
+								
+								
+chr	LaTeX	unicode-math						
+?	\VERT	\Vvert		\VERT	\Vvert		::\VERT::?	::\Vvert::?
+?	\spot	\mdsmblkcircle		\spot	\mdsmblkcircle		::\spot::?	::\mdsmblkcircle::?
+?		\typecolon			\typecolon			::\typecolon::?
+?		\lBrace			\lBrace			::\lBrace::?
+?		\rBrace			\rBrace			::\rBrace::?
+?	\Lparen	\lParen		\Lparen	\lParen		::\Lparen::?	::\lParen::?
+?	\Rparen	\rParen		\Rparen	\rParen		::\Rparen::?	::\rParen::?
+?	\limg	\llparenthesis		\limg	\llparenthesis		::\limg::?	::\llparenthesis::?
+?	\rimg	\rrparenthesis		\rimg	\rrparenthesis		::\rimg::?	::\rrparenthesis::?
+?	\lblot	\llangle		\lblot	\llangle		::\lblot::?	::\llangle::?
+?	\rblot	\rrangle		\rblot	\rrangle		::\rblot::?	::\rrangle::?
+?		\lbrackubar			\lbrackubar			::\lbrackubar::?
+?		\rbrackubar			\rbrackubar			::\rbrackubar::?
+?		\lbrackultick			\lbrackultick			::\lbrackultick::?
+?		\rbracklrtick			\rbracklrtick			::\rbracklrtick::?
+?		\lbracklltick			\lbracklltick			::\lbracklltick::?
+?		\rbrackurtick			\rbrackurtick			::\rbrackurtick::?
+?		\langledot			\langledot			::\langledot::?
+?		\rangledot			\rangledot			::\rangledot::?
+?		\lparenless			\lparenless			::\lparenless::?
+?		\rparengtr			\rparengtr			::\rparengtr::?
+?		\Lparengtr			\Lparengtr			::\Lparengtr::?
+?		\Rparenless			\Rparenless			::\Rparenless::?
+?		\lblkbrbrak			\lblkbrbrak			::\lblkbrbrak::?
+?		\rblkbrbrak			\rblkbrbrak			::\rblkbrbrak::?
+?		\fourvdots			\fourvdots			::\fourvdots::?
+?		\vzigzag			\vzigzag			::\vzigzag::?
+?		\measuredangleleft			\measuredangleleft			::\measuredangleleft::?
+?		\rightanglesqr			\rightanglesqr			::\rightanglesqr::?
+?		\rightanglemdot			\rightanglemdot			::\rightanglemdot::?
+?		\angles			\angles			::\angles::?
+?		\angdnr			\angdnr			::\angdnr::?
+?		\gtlpar			\gtlpar			::\gtlpar::?
+?		\sphericalangleup			\sphericalangleup			::\sphericalangleup::?
+?		\turnangle			\turnangle			::\turnangle::?
+?		\revangle			\revangle			::\revangle::?
+?		\angleubar			\angleubar			::\angleubar::?
+?		\revangleubar			\revangleubar			::\revangleubar::?
+?		\wideangledown			\wideangledown			::\wideangledown::?
+?		\wideangleup			\wideangleup			::\wideangleup::?
+?		\measanglerutone			\measanglerutone			::\measanglerutone::?
+?		\measanglelutonw			\measanglelutonw			::\measanglelutonw::?
+?		\measanglerdtose			\measanglerdtose			::\measanglerdtose::?
+?		\measangleldtosw			\measangleldtosw			::\measangleldtosw::?
+?		\measangleurtone			\measangleurtone			::\measangleurtone::?
+?		\measangleultonw			\measangleultonw			::\measangleultonw::?
+?		\measangledrtose			\measangledrtose			::\measangledrtose::?
+?		\measangledltosw			\measangledltosw			::\measangledltosw::?
+?		\revemptyset			\revemptyset			::\revemptyset::?
+?		\emptysetobar			\emptysetobar			::\emptysetobar::?
+?		\emptysetocirc			\emptysetocirc			::\emptysetocirc::?
+?		\emptysetoarr			\emptysetoarr			::\emptysetoarr::?
+?		\emptysetoarrl			\emptysetoarrl			::\emptysetoarrl::?
+?		\circlehbar			\circlehbar			::\circlehbar::?
+?		\circledvert			\circledvert			::\circledvert::?
+?		\circledparallel			\circledparallel			::\circledparallel::?
+?	\circledbslash	\obslash		\circledbslash	\obslash		::\circledbslash::?	::\obslash::?
+?		\operp			\operp			::\operp::?
+?		\obot			\obot			::\obot::?
+?		\olcross			\olcross			::\olcross::?
+?		\odotslashdot			\odotslashdot			::\odotslashdot::?
+?		\uparrowoncircle			\uparrowoncircle			::\uparrowoncircle::?
+?		\circledwhitebullet			\circledwhitebullet			::\circledwhitebullet::?
+?		\circledbullet			\circledbullet			::\circledbullet::?
+?	\circledless	\olessthan		\circledless	\olessthan		::\circledless::?	::\olessthan::?
+?	\circledgtr	\ogreaterthan		\circledgtr	\ogreaterthan		::\circledgtr::?	::\ogreaterthan::?
+?		\cirscir			\cirscir			::\cirscir::?
+?		\cirE			\cirE			::\cirE::?
+?	\boxslash	\boxdiag		\boxslash	\boxdiag		::\boxslash::?	::\boxdiag::?
+?	\boxbslash	\boxbslash		\boxbslash	\boxbslash		::\boxbslash::?	::\boxbslash::?
+?	\boxast	\boxast		\boxast	\boxast		::\boxast::?	::\boxast::?
+?	\boxcircle	\boxcircle		\boxcircle	\boxcircle		::\boxcircle::?	::\boxcircle::?
+?	\boxbox	\boxbox		\boxbox	\boxbox		::\boxbox::?	::\boxbox::?
+?		\boxonbox			\boxonbox			::\boxonbox::?
+?		\triangleodot			\triangleodot			::\triangleodot::?
+?		\triangleubar			\triangleubar			::\triangleubar::?
+?		\triangles			\triangles			::\triangles::?
+?		\triangleserifs			\triangleserifs			::\triangleserifs::?
+?		\rtriltri			\rtriltri			::\rtriltri::?
+?	\LeftTriangleBar	\ltrivb		\LeftTriangleBar	\ltrivb		::\LeftTriangleBar::?	::\ltrivb::?
+?	\RightTriangleBar	\vbrtri		\RightTriangleBar	\vbrtri		::\RightTriangleBar::?	::\vbrtri::?
+?		\lfbowtie			\lfbowtie			::\lfbowtie::?
+?		\rfbowtie			\rfbowtie			::\rfbowtie::?
+?		\fbowtie			\fbowtie			::\fbowtie::?
+?		\lftimes			\lftimes			::\lftimes::?
+?		\rftimes			\rftimes			::\rftimes::?
+?		\hourglass			\hourglass			::\hourglass::?
+?		\blackhourglass			\blackhourglass			::\blackhourglass::?
+?		\lvzigzag			\lvzigzag			::\lvzigzag::?
+?		\rvzigzag			\rvzigzag			::\rvzigzag::?
+?		\Lvzigzag			\Lvzigzag			::\Lvzigzag::?
+?		\Rvzigzag			\Rvzigzag			::\Rvzigzag::?
+?		\iinfin			\iinfin			::\iinfin::?
+?		\tieinfty			\tieinfty			::\tieinfty::?
+?		\nvinfty			\nvinfty			::\nvinfty::?
+?	\multimapboth	\dualmap		\multimapboth	\dualmap		::\multimapboth::?	::\dualmap::?
+?		\laplac			\laplac			::\laplac::?
+?		\lrtriangleeq			\lrtriangleeq			::\lrtriangleeq::?
+?		\shuffle			\shuffle			::\shuffle::?
+?		\eparsl			\eparsl			::\eparsl::?
+?		\smeparsl			\smeparsl			::\smeparsl::?
+?		\eqvparsl			\eqvparsl			::\eqvparsl::?
+?		\gleichstark			\gleichstark			::\gleichstark::?
+?		\thermod			\thermod			::\thermod::?
+?		\downtriangleleftblack			\downtriangleleftblack			::\downtriangleleftblack::?
+?		\downtrianglerightblack			\downtrianglerightblack			::\downtrianglerightblack::?
+?		\blackdiamonddownarrow			\blackdiamonddownarrow			::\blackdiamonddownarrow::?
+?	\blacklozenge	\mdlgblklozenge		\blacklozenge	\mdlgblklozenge		::\blacklozenge::?	::\mdlgblklozenge::?
+?		\circledownarrow			\circledownarrow			::\circledownarrow::?
+?		\blackcircledownarrow			\blackcircledownarrow			::\blackcircledownarrow::?
+?		\errbarsquare			\errbarsquare			::\errbarsquare::?
+?		\errbarblacksquare			\errbarblacksquare			::\errbarblacksquare::?
+?		\errbardiamond			\errbardiamond			::\errbardiamond::?
+?		\errbarblackdiamond			\errbarblackdiamond			::\errbarblackdiamond::?
+?		\errbarcircle			\errbarcircle			::\errbarcircle::?
+?		\errbarblackcircle			\errbarblackcircle			::\errbarblackcircle::?
+?		\ruledelayed			\ruledelayed			::\ruledelayed::?
+?	\setminus	\setminus		\setminus	\setminus		::\setminus::?	::\setminus::?
+?		\dsol			\dsol			::\dsol::?
+?		\rsolbar			\rsolbar			::\rsolbar::?
+?		\xsol			\xsol			::\xsol::?
+?	\zhide	\xbsol		\zhide	\xbsol		::\zhide::?	::\xbsol::?
+?		\doubleplus			\doubleplus			::\doubleplus::?
+?		\tripleplus			\tripleplus			::\tripleplus::?
+?		\lcurvyangle			\lcurvyangle			::\lcurvyangle::?
+?		\rcurvyangle			\rcurvyangle			::\rcurvyangle::?
+?		\tplus			\tplus			::\tplus::?
+?		\tminus			\tminus			::\tminus::?
+								
+								
+								
+chr	LaTeX	unicode-math						
+?	\bigodot	\bigodot		\bigodot	\bigodot		::\bigodot::?	::\bigodot::?
+?	\bigoplus	\bigoplus		\bigoplus	\bigoplus		::\bigoplus::?	::\bigoplus::?
+?	\bigotimes	\bigotimes		\bigotimes	\bigotimes		::\bigotimes::?	::\bigotimes::?
+?		\bigcupdot			\bigcupdot			::\bigcupdot::?
+?	\biguplus	\biguplus		\biguplus	\biguplus		::\biguplus::?	::\biguplus::?
+?	\bigsqcap	\bigsqcap		\bigsqcap	\bigsqcap		::\bigsqcap::?	::\bigsqcap::?
+?	\bigsqcup	\bigsqcup		\bigsqcup	\bigsqcup		::\bigsqcup::?	::\bigsqcup::?
+?		\conjquant			\conjquant			::\conjquant::?
+?		\disjquant			\disjquant			::\disjquant::?
+?	\varprod	\bigtimes		\varprod	\bigtimes		::\varprod::?	::\bigtimes::?
+?		\modtwosum			\modtwosum			::\modtwosum::?
+?		\sumint			\sumint			::\sumint::?
+?	\iiiint	\iiiint		\iiiint	\iiiint		::\iiiint::?	::\iiiint::?
+?		\intbar			\intbar			::\intbar::?
+?		\intBar			\intBar			::\intBar::?
+?	\fint	\fint		\fint	\fint		::\fint::?	::\fint::?
+?		\cirfnint			\cirfnint			::\cirfnint::?
+?		\awint			\awint			::\awint::?
+?		\rppolint			\rppolint			::\rppolint::?
+?		\scpolint			\scpolint			::\scpolint::?
+?		\npolint			\npolint			::\npolint::?
+?		\pointint			\pointint			::\pointint::?
+?	\sqint	\sqint		\sqint	\sqint		::\sqint::?	::\sqint::?
+?		\intlarhk			\intlarhk			::\intlarhk::?
+?		\intx			\intx			::\intx::?
+?		\intcap			\intcap			::\intcap::?
+?		\intcup			\intcup			::\intcup::?
+?		\upint			\upint			::\upint::?
+?		\lowint			\lowint			::\lowint::?
+?	\Join	\Join		\Join	\Join		::\Join::?	::\Join::?
+?		\bigtriangleleft			\bigtriangleleft			::\bigtriangleleft::?
+?	\zcmp	\zcmp		\zcmp	\zcmp		::\zcmp::?	::\zcmp::?
+?	\zpipe	\zpipe		\zpipe	\zpipe		::\zpipe::?	::\zpipe::?
+?	\zproject	\zproject		\zproject	\zproject		::\zproject::?	::\zproject::?
+?		\ringplus			\ringplus			::\ringplus::?
+?		\plushat			\plushat			::\plushat::?
+?		\simplus			\simplus			::\simplus::?
+?		\plusdot			\plusdot			::\plusdot::?
+?		\plussim			\plussim			::\plussim::?
+?		\plussubtwo			\plussubtwo			::\plussubtwo::?
+?		\plustrif			\plustrif			::\plustrif::?
+?		\commaminus			\commaminus			::\commaminus::?
+?		\minusdot			\minusdot			::\minusdot::?
+?		\minusfdots			\minusfdots			::\minusfdots::?
+?		\minusrdots			\minusrdots			::\minusrdots::?
+?		\opluslhrim			\opluslhrim			::\opluslhrim::?
+?		\oplusrhrim			\oplusrhrim			::\oplusrhrim::?
+?		\vectimes			\vectimes			::\vectimes::?
+?		\dottimes			\dottimes			::\dottimes::?
+?		\timesbar			\timesbar			::\timesbar::?
+?		\btimes			\btimes			::\btimes::?
+?		\smashtimes			\smashtimes			::\smashtimes::?
+?		\otimeslhrim			\otimeslhrim			::\otimeslhrim::?
+?		\otimesrhrim			\otimesrhrim			::\otimesrhrim::?
+?		\otimeshat			\otimeshat			::\otimeshat::?
+?		\Otimes			\Otimes			::\Otimes::?
+?		\odiv			\odiv			::\odiv::?
+?		\triangleplus			\triangleplus			::\triangleplus::?
+?		\triangleminus			\triangleminus			::\triangleminus::?
+?		\triangletimes			\triangletimes			::\triangletimes::?
+?		\intprod			\intprod			::\intprod::?
+?		\intprodr			\intprodr			::\intprodr::?
+?	\fcmp	\fcmp		\fcmp	\fcmp		::\fcmp::?	::\fcmp::?
+?	\amalg	\amalg		\amalg	\amalg		::\amalg::?	::\amalg::?
+?		\capdot			\capdot			::\capdot::?
+?		\uminus			\uminus			::\uminus::?
+?		\barcup			\barcup			::\barcup::?
+?		\barcap			\barcap			::\barcap::?
+?		\capwedge			\capwedge			::\capwedge::?
+?		\cupvee			\cupvee			::\cupvee::?
+?		\cupovercap			\cupovercap			::\cupovercap::?
+?		\capovercup			\capovercup			::\capovercup::?
+?		\cupbarcap			\cupbarcap			::\cupbarcap::?
+?		\capbarcup			\capbarcup			::\capbarcup::?
+?		\twocups			\twocups			::\twocups::?
+?		\twocaps			\twocaps			::\twocaps::?
+?		\closedvarcup			\closedvarcup			::\closedvarcup::?
+?		\closedvarcap			\closedvarcap			::\closedvarcap::?
+?		\Sqcap			\Sqcap			::\Sqcap::?
+?		\Sqcup			\Sqcup			::\Sqcup::?
+?		\closedvarcupsmashprod			\closedvarcupsmashprod			::\closedvarcupsmashprod::?
+?		\wedgeodot			\wedgeodot			::\wedgeodot::?
+?		\veeodot			\veeodot			::\veeodot::?
+?		\Wedge			\Wedge			::\Wedge::?
+?		\Vee			\Vee			::\Vee::?
+?		\wedgeonwedge			\wedgeonwedge			::\wedgeonwedge::?
+?		\veeonvee			\veeonvee			::\veeonvee::?
+?		\bigslopedvee			\bigslopedvee			::\bigslopedvee::?
+?		\bigslopedwedge			\bigslopedwedge			::\bigslopedwedge::?
+?		\veeonwedge			\veeonwedge			::\veeonwedge::?
+?		\wedgemidvert			\wedgemidvert			::\wedgemidvert::?
+?		\veemidvert			\veemidvert			::\veemidvert::?
+?		\midbarwedge			\midbarwedge			::\midbarwedge::?
+?		\midbarvee			\midbarvee			::\midbarvee::?
+?	\doublebarwedge	\doublebarwedge		\doublebarwedge	\doublebarwedge		::\doublebarwedge::?	::\doublebarwedge::?
+?		\wedgebar			\wedgebar			::\wedgebar::?
+?		\wedgedoublebar			\wedgedoublebar			::\wedgedoublebar::?
+?		\varveebar			\varveebar			::\varveebar::?
+?		\doublebarvee			\doublebarvee			::\doublebarvee::?
+?		\veedoublebar			\veedoublebar			::\veedoublebar::?
+?	\dsub	\dsub		\dsub	\dsub		::\dsub::?	::\dsub::?
+?	\rsub	\rsub		\rsub	\rsub		::\rsub::?	::\rsub::?
+?		\eqdot			\eqdot			::\eqdot::?
+?		\dotequiv			\dotequiv			::\dotequiv::?
+?		\equivVert			\equivVert			::\equivVert::?
+?		\equivVvert			\equivVvert			::\equivVvert::?
+?		\dotsim			\dotsim			::\dotsim::?
+?		\simrdots			\simrdots			::\simrdots::?
+?		\simminussim			\simminussim			::\simminussim::?
+?		\congdot			\congdot			::\congdot::?
+?		\asteq			\asteq			::\asteq::?
+?		\hatapprox			\hatapprox			::\hatapprox::?
+?		\approxeqq			\approxeqq			::\approxeqq::?
+?		\eqqplus			\eqqplus			::\eqqplus::?
+?		\pluseqq			\pluseqq			::\pluseqq::?
+?		\eqqsim			\eqqsim			::\eqqsim::?
+?	\Coloneqq	\Coloneq		\Coloneqq	\Coloneq		::\Coloneqq::?	::\Coloneq::?
+?	\Equal	\eqeq		\Equal	\eqeq		::\Equal::?	::\eqeq::?
+?	\Same	\eqeqeq		\Same	\eqeqeq		::\Same::?	::\eqeqeq::?
+?		\ddotseq			\ddotseq			::\ddotseq::?
+?		\equivDD			\equivDD			::\equivDD::?
+?		\ltcir			\ltcir			::\ltcir::?
+?		\gtcir			\gtcir			::\gtcir::?
+?		\ltquest			\ltquest			::\ltquest::?
+?		\gtquest			\gtquest			::\gtquest::?
+?	\leqslant	\leqslant		\leqslant	\leqslant		::\leqslant::?	::\leqslant::?
+?	\geqslant	\geqslant		\geqslant	\geqslant		::\geqslant::?	::\geqslant::?
+?		\lesdot			\lesdot			::\lesdot::?
+?		\gesdot			\gesdot			::\gesdot::?
+?		\lesdoto			\lesdoto			::\lesdoto::?
+?		\gesdoto			\gesdoto			::\gesdoto::?
+?		\lesdotor			\lesdotor			::\lesdotor::?
+?		\gesdotol			\gesdotol			::\gesdotol::?
+?	\lessapprox	\lessapprox		\lessapprox	\lessapprox		::\lessapprox::?	::\lessapprox::?
+?	\gtrapprox	\gtrapprox		\gtrapprox	\gtrapprox		::\gtrapprox::?	::\gtrapprox::?
+?	\lneq	\lneq		\lneq	\lneq		::\lneq::?	::\lneq::?
+?	\gneq	\gneq		\gneq	\gneq		::\gneq::?	::\gneq::?
+?	\lnapprox	\lnapprox		\lnapprox	\lnapprox		::\lnapprox::?	::\lnapprox::?
+?	\gnapprox	\gnapprox		\gnapprox	\gnapprox		::\gnapprox::?	::\gnapprox::?
+?	\lesseqqgtr	\lesseqqgtr		\lesseqqgtr	\lesseqqgtr		::\lesseqqgtr::?	::\lesseqqgtr::?
+?	\gtreqqless	\gtreqqless		\gtreqqless	\gtreqqless		::\gtreqqless::?	::\gtreqqless::?
+?		\lsime			\lsime			::\lsime::?
+?		\gsime			\gsime			::\gsime::?
+?		\lsimg			\lsimg			::\lsimg::?
+?		\gsiml			\gsiml			::\gsiml::?
+?		\lgE			\lgE			::\lgE::?
+?		\glE			\glE			::\glE::?
+?		\lesges			\lesges			::\lesges::?
+?		\gesles			\gesles			::\gesles::?
+?	\eqslantless	\eqslantless		\eqslantless	\eqslantless		::\eqslantless::?	::\eqslantless::?
+?	\eqslantgtr	\eqslantgtr		\eqslantgtr	\eqslantgtr		::\eqslantgtr::?	::\eqslantgtr::?
+?		\elsdot			\elsdot			::\elsdot::?
+?		\egsdot			\egsdot			::\egsdot::?
+?		\eqqless			\eqqless			::\eqqless::?
+?		\eqqgtr			\eqqgtr			::\eqqgtr::?
+?		\eqqslantless			\eqqslantless			::\eqqslantless::?
+?		\eqqslantgtr			\eqqslantgtr			::\eqqslantgtr::?
+?		\simless			\simless			::\simless::?
+?		\simgtr			\simgtr			::\simgtr::?
+?		\simlE			\simlE			::\simlE::?
+?		\simgE			\simgE			::\simgE::?
+?	\NestedLessLess	\Lt		\NestedLessLess	\Lt		::\NestedLessLess::?	::\Lt::?
+?	\NestedGreaterGreater	\Gt		\NestedGreaterGreater	\Gt		::\NestedGreaterGreater::?	::\Gt::?
+?		\partialmeetcontraction			\partialmeetcontraction			::\partialmeetcontraction::?
+?		\glj			\glj			::\glj::?
+?		\gla			\gla			::\gla::?
+?	\leftslice	\ltcc		\leftslice	\ltcc		::\leftslice::?	::\ltcc::?
+?	\rightslice	\gtcc		\rightslice	\gtcc		::\rightslice::?	::\gtcc::?
+?		\lescc			\lescc			::\lescc::?
+?		\gescc			\gescc			::\gescc::?
+?		\smt			\smt			::\smt::?
+?		\lat			\lat			::\lat::?
+?		\smte			\smte			::\smte::?
+?		\late			\late			::\late::?
+?		\bumpeqq			\bumpeqq			::\bumpeqq::?
+?	\preceq	\preceq		\preceq	\preceq		::\preceq::?	::\preceq::?
+?	\succeq	\succeq		\succeq	\succeq		::\succeq::?	::\succeq::?
+?		\precneq			\precneq			::\precneq::?
+?		\succneq			\succneq			::\succneq::?
+?	\preceqq	\preceqq		\preceqq	\preceqq		::\preceqq::?	::\preceqq::?
+?	\succeqq	\succeqq		\succeqq	\succeqq		::\succeqq::?	::\succeqq::?
+?		\precneqq			\precneqq			::\precneqq::?
+?		\succneqq			\succneqq			::\succneqq::?
+?	\precapprox	\precapprox		\precapprox	\precapprox		::\precapprox::?	::\precapprox::?
+?	\succapprox	\succapprox		\succapprox	\succapprox		::\succapprox::?	::\succapprox::?
+?	\precnapprox	\precnapprox		\precnapprox	\precnapprox		::\precnapprox::?	::\precnapprox::?
+?	\succnapprox	\succnapprox		\succnapprox	\succnapprox		::\succnapprox::?	::\succnapprox::?
+?	\llcurly	\Prec		\llcurly	\Prec		::\llcurly::?	::\Prec::?
+?	\ggcurly	\Succ		\ggcurly	\Succ		::\ggcurly::?	::\Succ::?
+?		\subsetdot			\subsetdot			::\subsetdot::?
+?		\supsetdot			\supsetdot			::\supsetdot::?
+?		\subsetplus			\subsetplus			::\subsetplus::?
+?		\supsetplus			\supsetplus			::\supsetplus::?
+?		\submult			\submult			::\submult::?
+?		\supmult			\supmult			::\supmult::?
+?		\subedot			\subedot			::\subedot::?
+?		\supedot			\supedot			::\supedot::?
+?	\subseteqq	\subseteqq		\subseteqq	\subseteqq		::\subseteqq::?	::\subseteqq::?
+?	\supseteqq	\supseteqq		\supseteqq	\supseteqq		::\supseteqq::?	::\supseteqq::?
+?		\subsim			\subsim			::\subsim::?
+?		\supsim			\supsim			::\supsim::?
+?		\subsetapprox			\subsetapprox			::\subsetapprox::?
+?		\supsetapprox			\supsetapprox			::\supsetapprox::?
+?	\subsetneqq	\subsetneqq		\subsetneqq	\subsetneqq		::\subsetneqq::?	::\subsetneqq::?
+?	\supsetneqq	\supsetneqq		\supsetneqq	\supsetneqq		::\supsetneqq::?	::\supsetneqq::?
+?		\lsqhook			\lsqhook			::\lsqhook::?
+?		\rsqhook			\rsqhook			::\rsqhook::?
+?		\csub			\csub			::\csub::?
+?		\csup			\csup			::\csup::?
+?		\csube			\csube			::\csube::?
+?		\csupe			\csupe			::\csupe::?
+?		\subsup			\subsup			::\subsup::?
+?		\supsub			\supsub			::\supsub::?
+?		\subsub			\subsub			::\subsub::?
+?		\supsup			\supsup			::\supsup::?
+?		\suphsub			\suphsub			::\suphsub::?
+?		\supdsub			\supdsub			::\supdsub::?
+?		\forkv			\forkv			::\forkv::?
+?		\topfork			\topfork			::\topfork::?
+?		\mlcp			\mlcp			::\mlcp::?
+?		\forks			\forks			::\forks::?
+?		\forksnot			\forksnot			::\forksnot::?
+?		\shortlefttack			\shortlefttack			::\shortlefttack::?
+?		\shortdowntack			\shortdowntack			::\shortdowntack::?
+?		\shortuptack			\shortuptack			::\shortuptack::?
+?		\perps			\perps			::\perps::?
+?		\vDdash			\vDdash			::\vDdash::?
+?		\dashV			\dashV			::\dashV::?
+?		\Dashv			\Dashv			::\Dashv::?
+?		\DashV			\DashV			::\DashV::?
+?		\varVdash			\varVdash			::\varVdash::?
+?		\Barv			\Barv			::\Barv::?
+?		\vBar			\vBar			::\vBar::?
+?		\vBarv			\vBarv			::\vBarv::?
+?	\Top	\barV		\Top	\barV		::\Top::?	::\barV::?
+?	\Bot	\Vbar		\Bot	\Vbar		::\Bot::?	::\Vbar::?
+?		\Not			\Not			::\Not::?
+?		\bNot			\bNot			::\bNot::?
+?		\revnmid			\revnmid			::\revnmid::?
+?		\cirmid			\cirmid			::\cirmid::?
+?		\midcir			\midcir			::\midcir::?
+?		\topcir			\topcir			::\topcir::?
+?		\nhpar			\nhpar			::\nhpar::?
+?		\parsim			\parsim			::\parsim::?
+?	\interleave	\interleave		\interleave	\interleave		::\interleave::?	::\interleave::?
+?		\nhVvert			\nhVvert			::\nhVvert::?
+?		\threedotcolon			\threedotcolon			::\threedotcolon::?
+?		\lllnest			\lllnest			::\lllnest::?
+?		\gggnest			\gggnest			::\gggnest::?
+?		\leqqslant			\leqqslant			::\leqqslant::?
+?		\geqqslant			\geqqslant			::\geqqslant::?
+?		\trslash			\trslash			::\trslash::?
+?	\biginterleave	\biginterleave		\biginterleave	\biginterleave		::\biginterleave::?	::\biginterleave::?
+?	\sslash	\sslash		\sslash	\sslash		::\sslash::?	::\sslash::?
+?	\talloblong	\talloblong		\talloblong	\talloblong		::\talloblong::?	::\talloblong::?
+?		\bigtalloblong			\bigtalloblong			::\bigtalloblong::?
+								
+								
+								
+chr	LaTeX	unicode-math						
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?		\squaretopblack			\squaretopblack			::\squaretopblack::?
+?		\squarebotblack			\squarebotblack			::\squarebotblack::?
+?		\squareurblack			\squareurblack			::\squareurblack::?
+?		\squarellblack			\squarellblack			::\squarellblack::?
+?		\diamondleftblack			\diamondleftblack			::\diamondleftblack::?
+?		\diamondrightblack			\diamondrightblack			::\diamondrightblack::?
+?		\diamondtopblack			\diamondtopblack			::\diamondtopblack::?
+?		\diamondbotblack			\diamondbotblack			::\diamondbotblack::?
+?		\dottedsquare			\dottedsquare			::\dottedsquare::?
+?	\blacksquare	\lgblksquare		\blacksquare	\lgblksquare		::\blacksquare::?	::\lgblksquare::?
+?	\square	\lgwhtsquare		\square	\lgwhtsquare		::\square::?	::\lgwhtsquare::?
+?		\vysmblksquare			\vysmblksquare			::\vysmblksquare::?
+?		\vysmwhtsquare			\vysmwhtsquare			::\vysmwhtsquare::?
+?		\pentagonblack			\pentagonblack			::\pentagonblack::?
+?		\pentagon			\pentagon			::\pentagon::?
+?		\varhexagon			\varhexagon			::\varhexagon::?
+?		\varhexagonblack			\varhexagonblack			::\varhexagonblack::?
+?		\hexagonblack			\hexagonblack			::\hexagonblack::?
+?		\lgblkcircle			\lgblkcircle			::\lgblkcircle::?
+?		\mdblkdiamond			\mdblkdiamond			::\mdblkdiamond::?
+?		\mdwhtdiamond			\mdwhtdiamond			::\mdwhtdiamond::?
+?		\mdblklozenge			\mdblklozenge			::\mdblklozenge::?
+?		\mdwhtlozenge			\mdwhtlozenge			::\mdwhtlozenge::?
+?		\smblkdiamond			\smblkdiamond			::\smblkdiamond::?
+?		\smblklozenge			\smblklozenge			::\smblklozenge::?
+?		\smwhtlozenge			\smwhtlozenge			::\smwhtlozenge::?
+?		\blkhorzoval			\blkhorzoval			::\blkhorzoval::?
+?		\whthorzoval			\whthorzoval			::\whthorzoval::?
+?		\blkvertoval			\blkvertoval			::\blkvertoval::?
+?		\whtvertoval			\whtvertoval			::\whtvertoval::?
+?		\circleonleftarrow			\circleonleftarrow			::\circleonleftarrow::?
+?		\leftthreearrows			\leftthreearrows			::\leftthreearrows::?
+?		\leftarrowonoplus			\leftarrowonoplus			::\leftarrowonoplus::?
+?		\longleftsquigarrow			\longleftsquigarrow			::\longleftsquigarrow::?
+?		\nvtwoheadleftarrow			\nvtwoheadleftarrow			::\nvtwoheadleftarrow::?
+?		\nVtwoheadleftarrow			\nVtwoheadleftarrow			::\nVtwoheadleftarrow::?
+?		\twoheadmapsfrom			\twoheadmapsfrom			::\twoheadmapsfrom::?
+?		\twoheadleftdbkarrow			\twoheadleftdbkarrow			::\twoheadleftdbkarrow::?
+?		\leftdotarrow			\leftdotarrow			::\leftdotarrow::?
+?		\nvleftarrowtail			\nvleftarrowtail			::\nvleftarrowtail::?
+?		\nVleftarrowtail			\nVleftarrowtail			::\nVleftarrowtail::?
+?		\twoheadleftarrowtail			\twoheadleftarrowtail			::\twoheadleftarrowtail::?
+?		\nvtwoheadleftarrowtail			\nvtwoheadleftarrowtail			::\nvtwoheadleftarrowtail::?
+?		\nVtwoheadleftarrowtail			\nVtwoheadleftarrowtail			::\nVtwoheadleftarrowtail::?
+?		\leftarrowx			\leftarrowx			::\leftarrowx::?
+?		\leftcurvedarrow			\leftcurvedarrow			::\leftcurvedarrow::?
+?		\equalleftarrow			\equalleftarrow			::\equalleftarrow::?
+?		\bsimilarleftarrow			\bsimilarleftarrow			::\bsimilarleftarrow::?
+?		\leftarrowbackapprox			\leftarrowbackapprox			::\leftarrowbackapprox::?
+?		\rightarrowgtr			\rightarrowgtr			::\rightarrowgtr::?
+?		\rightarrowsupset			\rightarrowsupset			::\rightarrowsupset::?
+?		\LLeftarrow			\LLeftarrow			::\LLeftarrow::?
+?		\RRightarrow			\RRightarrow			::\RRightarrow::?
+?		\bsimilarrightarrow			\bsimilarrightarrow			::\bsimilarrightarrow::?
+?		\rightarrowbackapprox			\rightarrowbackapprox			::\rightarrowbackapprox::?
+?		\similarleftarrow			\similarleftarrow			::\similarleftarrow::?
+?		\leftarrowapprox			\leftarrowapprox			::\leftarrowapprox::?
+?		\leftarrowbsimilar			\leftarrowbsimilar			::\leftarrowbsimilar::?
+?		\rightarrowbsimilar			\rightarrowbsimilar			::\rightarrowbsimilar::?
+?		\medwhitestar			\medwhitestar			::\medwhitestar::?
+?		\medblackstar			\medblackstar			::\medblackstar::?
+?		\smwhitestar			\smwhitestar			::\smwhitestar::?
+?		\rightpentagonblack			\rightpentagonblack			::\rightpentagonblack::?
+?		\rightpentagon			\rightpentagon			::\rightpentagon::?
+								
+								
+								
+chr	LaTeX	unicode-math						
+?								
+?								
+?		\postalmark			\postalmark			::\postalmark::?
+?		\lbrbrak			\lbrbrak			::\lbrbrak::?
+?		\rbrbrak			\rbrbrak			::\rbrbrak::?
+?		\Lbrbrak			\Lbrbrak			::\Lbrbrak::?
+?		\Rbrbrak			\Rbrbrak			::\Rbrbrak::?
+?								
+?								
+?		\hzigzag			\hzigzag			::\hzigzag::?
+								
+								
+								
+chr	LaTeX	unicode-math						
+?								
+								
+								
+								
+chr	LaTeX	unicode-math						
+?								
+								
+								
+								
+chr	LaTeX	unicode-math						
+?								
+								
+								
+								
+chr	LaTeX	unicode-math						
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+								
+								
+								
+chr	LaTeX	unicode-math						
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+?								
+								
+								
+								
+chr	LaTeX	unicode-math						
+??	\mathbf{A}	\mbfA		\mathbfA	\mbfA		::\mathbfA::??	::\mbfA::??
+??	\mathbf{B}	\mbfB		\mathbfB	\mbfB		::\mathbfB::??	::\mbfB::??
+??	\mathbf{C}	\mbfC		\mathbfC	\mbfC		::\mathbfC::??	::\mbfC::??
+??	\mathbf{D}	\mbfD		\mathbfD	\mbfD		::\mathbfD::??	::\mbfD::??
+??	\mathbf{E}	\mbfE		\mathbfE	\mbfE		::\mathbfE::??	::\mbfE::??
+??	\mathbf{F}	\mbfF		\mathbfF	\mbfF		::\mathbfF::??	::\mbfF::??
+??	\mathbf{G}	\mbfG		\mathbfG	\mbfG		::\mathbfG::??	::\mbfG::??
+??	\mathbf{H}	\mbfH		\mathbfH	\mbfH		::\mathbfH::??	::\mbfH::??
+??	\mathbf{I}	\mbfI		\mathbfI	\mbfI		::\mathbfI::??	::\mbfI::??
+??	\mathbf{J}	\mbfJ		\mathbfJ	\mbfJ		::\mathbfJ::??	::\mbfJ::??
+??	\mathbf{K}	\mbfK		\mathbfK	\mbfK		::\mathbfK::??	::\mbfK::??
+??	\mathbf{L}	\mbfL		\mathbfL	\mbfL		::\mathbfL::??	::\mbfL::??
+??	\mathbf{M}	\mbfM		\mathbfM	\mbfM		::\mathbfM::??	::\mbfM::??
+??	\mathbf{N}	\mbfN		\mathbfN	\mbfN		::\mathbfN::??	::\mbfN::??
+??	\mathbf{O}	\mbfO		\mathbfO	\mbfO		::\mathbfO::??	::\mbfO::??
+??	\mathbf{P}	\mbfP		\mathbfP	\mbfP		::\mathbfP::??	::\mbfP::??
+??	\mathbf{Q}	\mbfQ		\mathbfQ	\mbfQ		::\mathbfQ::??	::\mbfQ::??
+??	\mathbf{R}	\mbfR		\mathbfR	\mbfR		::\mathbfR::??	::\mbfR::??
+??	\mathbf{S}	\mbfS		\mathbfS	\mbfS		::\mathbfS::??	::\mbfS::??
+??	\mathbf{T}	\mbfT		\mathbfT	\mbfT		::\mathbfT::??	::\mbfT::??
+??	\mathbf{U}	\mbfU		\mathbfU	\mbfU		::\mathbfU::??	::\mbfU::??
+??	\mathbf{V}	\mbfV		\mathbfV	\mbfV		::\mathbfV::??	::\mbfV::??
+??	\mathbf{W}	\mbfW		\mathbfW	\mbfW		::\mathbfW::??	::\mbfW::??
+??	\mathbf{X}	\mbfX		\mathbfX	\mbfX		::\mathbfX::??	::\mbfX::??
+??	\mathbf{Y}	\mbfY		\mathbfY	\mbfY		::\mathbfY::??	::\mbfY::??
+??	\mathbf{Z}	\mbfZ		\mathbfZ	\mbfZ		::\mathbfZ::??	::\mbfZ::??
+??	\mathbf{a}	\mbfa		\mathbfa	\mbfa		::\mathbfa::??	::\mbfa::??
+??	\mathbf{b}	\mbfb		\mathbfb	\mbfb		::\mathbfb::??	::\mbfb::??
+??	\mathbf{c}	\mbfc		\mathbfc	\mbfc		::\mathbfc::??	::\mbfc::??
+??	\mathbf{d}	\mbfd		\mathbfd	\mbfd		::\mathbfd::??	::\mbfd::??
+??	\mathbf{e}	\mbfe		\mathbfe	\mbfe		::\mathbfe::??	::\mbfe::??
+??	\mathbf{f}	\mbff		\mathbff	\mbff		::\mathbff::??	::\mbff::??
+??	\mathbf{g}	\mbfg		\mathbfg	\mbfg		::\mathbfg::??	::\mbfg::??
+??	\mathbf{h}	\mbfh		\mathbfh	\mbfh		::\mathbfh::??	::\mbfh::??
+??	\mathbf{i}	\mbfi		\mathbfi	\mbfi		::\mathbfi::??	::\mbfi::??
+??	\mathbf{j}	\mbfj		\mathbfj	\mbfj		::\mathbfj::??	::\mbfj::??
+??	\mathbf{k}	\mbfk		\mathbfk	\mbfk		::\mathbfk::??	::\mbfk::??
+??	\mathbf{l}	\mbfl		\mathbfl	\mbfl		::\mathbfl::??	::\mbfl::??
+??	\mathbf{m}	\mbfm		\mathbfm	\mbfm		::\mathbfm::??	::\mbfm::??
+??	\mathbf{n}	\mbfn		\mathbfn	\mbfn		::\mathbfn::??	::\mbfn::??
+??	\mathbf{o}	\mbfo		\mathbfo	\mbfo		::\mathbfo::??	::\mbfo::??
+??	\mathbf{p}	\mbfp		\mathbfp	\mbfp		::\mathbfp::??	::\mbfp::??
+??	\mathbf{q}	\mbfq		\mathbfq	\mbfq		::\mathbfq::??	::\mbfq::??
+??	\mathbf{r}	\mbfr		\mathbfr	\mbfr		::\mathbfr::??	::\mbfr::??
+??	\mathbf{s}	\mbfs		\mathbfs	\mbfs		::\mathbfs::??	::\mbfs::??
+??	\mathbf{t}	\mbft		\mathbft	\mbft		::\mathbft::??	::\mbft::??
+??	\mathbf{u}	\mbfu		\mathbfu	\mbfu		::\mathbfu::??	::\mbfu::??
+??	\mathbf{v}	\mbfv		\mathbfv	\mbfv		::\mathbfv::??	::\mbfv::??
+??	\mathbf{w}	\mbfw		\mathbfw	\mbfw		::\mathbfw::??	::\mbfw::??
+??	\mathbf{x}	\mbfx		\mathbfx	\mbfx		::\mathbfx::??	::\mbfx::??
+??	\mathbf{y}	\mbfy		\mathbfy	\mbfy		::\mathbfy::??	::\mbfy::??
+??	\mathbf{z}	\mbfz		\mathbfz	\mbfz		::\mathbfz::??	::\mbfz::??
+??	A	\mitA			\mitA			::\mitA::??
+??	B	\mitB			\mitB			::\mitB::??
+??	C	\mitC			\mitC			::\mitC::??
+??	D	\mitD			\mitD			::\mitD::??
+??	E	\mitE			\mitE			::\mitE::??
+??	F	\mitF			\mitF			::\mitF::??
+??	G	\mitG			\mitG			::\mitG::??
+??	H	\mitH			\mitH			::\mitH::??
+??	I	\mitI			\mitI			::\mitI::??
+??	J	\mitJ			\mitJ			::\mitJ::??
+??	K	\mitK			\mitK			::\mitK::??
+??	L	\mitL			\mitL			::\mitL::??
+??	M	\mitM			\mitM			::\mitM::??
+??	N	\mitN			\mitN			::\mitN::??
+??	O	\mitO			\mitO			::\mitO::??
+??	P	\mitP			\mitP			::\mitP::??
+??	Q	\mitQ			\mitQ			::\mitQ::??
+??	R	\mitR			\mitR			::\mitR::??
+??	S	\mitS			\mitS			::\mitS::??
+??	T	\mitT			\mitT			::\mitT::??
+??	U	\mitU			\mitU			::\mitU::??
+??	V	\mitV			\mitV			::\mitV::??
+??	W	\mitW			\mitW			::\mitW::??
+??	X	\mitX			\mitX			::\mitX::??
+??	Y	\mitY			\mitY			::\mitY::??
+??	Z	\mitZ			\mitZ			::\mitZ::??
+??	a	\mita			\mita			::\mita::??
+??	b	\mitb			\mitb			::\mitb::??
+??	c	\mitc			\mitc			::\mitc::??
+??	d	\mitd			\mitd			::\mitd::??
+??	e	\mite			\mite			::\mite::??
+??	f	\mitf			\mitf			::\mitf::??
+??	g	\mitg			\mitg			::\mitg::??
+??	i	\miti			\miti			::\miti::??
+??	j	\mitj			\mitj			::\mitj::??
+??	k	\mitk			\mitk			::\mitk::??
+??	l	\mitl			\mitl			::\mitl::??
+??	m	\mitm			\mitm			::\mitm::??
+??	n	\mitn			\mitn			::\mitn::??
+??	o	\mito			\mito			::\mito::??
+??	p	\mitp			\mitp			::\mitp::??
+??	q	\mitq			\mitq			::\mitq::??
+??	r	\mitr			\mitr			::\mitr::??
+??	s	\mits			\mits			::\mits::??
+??	t	\mitt			\mitt			::\mitt::??
+??	u	\mitu			\mitu			::\mitu::??
+??	v	\mitv			\mitv			::\mitv::??
+??	w	\mitw			\mitw			::\mitw::??
+??	x	\mitx			\mitx			::\mitx::??
+??	y	\mity			\mity			::\mity::??
+??	z	\mitz			\mitz			::\mitz::??
+??	\mathbfit{A}	\mbfitA		\mathbfitA	\mbfitA		::\mathbfitA::??	::\mbfitA::??
+??	\mathbfit{B}	\mbfitB		\mathbfitB	\mbfitB		::\mathbfitB::??	::\mbfitB::??
+??	\mathbfit{C}	\mbfitC		\mathbfitC	\mbfitC		::\mathbfitC::??	::\mbfitC::??
+??	\mathbfit{D}	\mbfitD		\mathbfitD	\mbfitD		::\mathbfitD::??	::\mbfitD::??
+??	\mathbfit{E}	\mbfitE		\mathbfitE	\mbfitE		::\mathbfitE::??	::\mbfitE::??
+??	\mathbfit{F}	\mbfitF		\mathbfitF	\mbfitF		::\mathbfitF::??	::\mbfitF::??
+??	\mathbfit{G}	\mbfitG		\mathbfitG	\mbfitG		::\mathbfitG::??	::\mbfitG::??
+??	\mathbfit{H}	\mbfitH		\mathbfitH	\mbfitH		::\mathbfitH::??	::\mbfitH::??
+??	\mathbfit{I}	\mbfitI		\mathbfitI	\mbfitI		::\mathbfitI::??	::\mbfitI::??
+??	\mathbfit{J}	\mbfitJ		\mathbfitJ	\mbfitJ		::\mathbfitJ::??	::\mbfitJ::??
+??	\mathbfit{K}	\mbfitK		\mathbfitK	\mbfitK		::\mathbfitK::??	::\mbfitK::??
+??	\mathbfit{L}	\mbfitL		\mathbfitL	\mbfitL		::\mathbfitL::??	::\mbfitL::??
+??	\mathbfit{M}	\mbfitM		\mathbfitM	\mbfitM		::\mathbfitM::??	::\mbfitM::??
+??	\mathbfit{N}	\mbfitN		\mathbfitN	\mbfitN		::\mathbfitN::??	::\mbfitN::??
+??	\mathbfit{O}	\mbfitO		\mathbfitO	\mbfitO		::\mathbfitO::??	::\mbfitO::??
+??	\mathbfit{P}	\mbfitP		\mathbfitP	\mbfitP		::\mathbfitP::??	::\mbfitP::??
+??	\mathbfit{Q}	\mbfitQ		\mathbfitQ	\mbfitQ		::\mathbfitQ::??	::\mbfitQ::??
+??	\mathbfit{R}	\mbfitR		\mathbfitR	\mbfitR		::\mathbfitR::??	::\mbfitR::??
+??	\mathbfit{S}	\mbfitS		\mathbfitS	\mbfitS		::\mathbfitS::??	::\mbfitS::??
+??	\mathbfit{T}	\mbfitT		\mathbfitT	\mbfitT		::\mathbfitT::??	::\mbfitT::??
+??	\mathbfit{U}	\mbfitU		\mathbfitU	\mbfitU		::\mathbfitU::??	::\mbfitU::??
+??	\mathbfit{V}	\mbfitV		\mathbfitV	\mbfitV		::\mathbfitV::??	::\mbfitV::??
+??	\mathbfit{W}	\mbfitW		\mathbfitW	\mbfitW		::\mathbfitW::??	::\mbfitW::??
+??	\mathbfit{X}	\mbfitX		\mathbfitX	\mbfitX		::\mathbfitX::??	::\mbfitX::??
+??	\mathbfit{Y}	\mbfitY		\mathbfitY	\mbfitY		::\mathbfitY::??	::\mbfitY::??
+??	\mathbfit{Z}	\mbfitZ		\mathbfitZ	\mbfitZ		::\mathbfitZ::??	::\mbfitZ::??
+??	\mathbfit{a}	\mbfita		\mathbfita	\mbfita		::\mathbfita::??	::\mbfita::??
+??	\mathbfit{b}	\mbfitb		\mathbfitb	\mbfitb		::\mathbfitb::??	::\mbfitb::??
+??	\mathbfit{c}	\mbfitc		\mathbfitc	\mbfitc		::\mathbfitc::??	::\mbfitc::??
+??	\mathbfit{d}	\mbfitd		\mathbfitd	\mbfitd		::\mathbfitd::??	::\mbfitd::??
+??	\mathbfit{e}	\mbfite		\mathbfite	\mbfite		::\mathbfite::??	::\mbfite::??
+??	\mathbfit{f}	\mbfitf		\mathbfitf	\mbfitf		::\mathbfitf::??	::\mbfitf::??
+??	\mathbfit{g}	\mbfitg		\mathbfitg	\mbfitg		::\mathbfitg::??	::\mbfitg::??
+??	\mathbfit{h}	\mbfith		\mathbfith	\mbfith		::\mathbfith::??	::\mbfith::??
+??	\mathbfit{i}	\mbfiti		\mathbfiti	\mbfiti		::\mathbfiti::??	::\mbfiti::??
+??	\mathbfit{j}	\mbfitj		\mathbfitj	\mbfitj		::\mathbfitj::??	::\mbfitj::??
+??	\mathbfit{k}	\mbfitk		\mathbfitk	\mbfitk		::\mathbfitk::??	::\mbfitk::??
+??	\mathbfit{l}	\mbfitl		\mathbfitl	\mbfitl		::\mathbfitl::??	::\mbfitl::??
+??	\mathbfit{m}	\mbfitm		\mathbfitm	\mbfitm		::\mathbfitm::??	::\mbfitm::??
+??	\mathbfit{n}	\mbfitn		\mathbfitn	\mbfitn		::\mathbfitn::??	::\mbfitn::??
+??	\mathbfit{o}	\mbfito		\mathbfito	\mbfito		::\mathbfito::??	::\mbfito::??
+??	\mathbfit{p}	\mbfitp		\mathbfitp	\mbfitp		::\mathbfitp::??	::\mbfitp::??
+??	\mathbfit{q}	\mbfitq		\mathbfitq	\mbfitq		::\mathbfitq::??	::\mbfitq::??
+??	\mathbfit{r}	\mbfitr		\mathbfitr	\mbfitr		::\mathbfitr::??	::\mbfitr::??
+??	\mathbfit{s}	\mbfits		\mathbfits	\mbfits		::\mathbfits::??	::\mbfits::??
+??	\mathbfit{t}	\mbfitt		\mathbfitt	\mbfitt		::\mathbfitt::??	::\mbfitt::??
+??	\mathbfit{u}	\mbfitu		\mathbfitu	\mbfitu		::\mathbfitu::??	::\mbfitu::??
+??	\mathbfit{v}	\mbfitv		\mathbfitv	\mbfitv		::\mathbfitv::??	::\mbfitv::??
+??	\mathbfit{w}	\mbfitw		\mathbfitw	\mbfitw		::\mathbfitw::??	::\mbfitw::??
+??	\mathbfit{x}	\mbfitx		\mathbfitx	\mbfitx		::\mathbfitx::??	::\mbfitx::??
+??	\mathbfit{y}	\mbfity		\mathbfity	\mbfity		::\mathbfity::??	::\mbfity::??
+??	\mathbfit{z}	\mbfitz		\mathbfitz	\mbfitz		::\mathbfitz::??	::\mbfitz::??
+??	\mathcal{A}	\mscrA		\mathcalA	\mscrA		::\mathcalA::??	::\mscrA::??
+??	\mathcal{C}	\mscrC		\mathcalC	\mscrC		::\mathcalC::??	::\mscrC::??
+??	\mathcal{D}	\mscrD		\mathcalD	\mscrD		::\mathcalD::??	::\mscrD::??
+??	\mathcal{G}	\mscrG		\mathcalG	\mscrG		::\mathcalG::??	::\mscrG::??
+??	\mathcal{J}	\mscrJ		\mathcalJ	\mscrJ		::\mathcalJ::??	::\mscrJ::??
+??	\mathcal{K}	\mscrK		\mathcalK	\mscrK		::\mathcalK::??	::\mscrK::??
+??	\mathcal{N}	\mscrN		\mathcalN	\mscrN		::\mathcalN::??	::\mscrN::??
+??	\mathcal{O}	\mscrO		\mathcalO	\mscrO		::\mathcalO::??	::\mscrO::??
+??	\mathcal{P}	\mscrP		\mathcalP	\mscrP		::\mathcalP::??	::\mscrP::??
+??	\mathcal{Q}	\mscrQ		\mathcalQ	\mscrQ		::\mathcalQ::??	::\mscrQ::??
+??	\mathcal{S}	\mscrS		\mathcalS	\mscrS		::\mathcalS::??	::\mscrS::??
+??	\mathcal{T}	\mscrT		\mathcalT	\mscrT		::\mathcalT::??	::\mscrT::??
+??	\mathcal{U}	\mscrU		\mathcalU	\mscrU		::\mathcalU::??	::\mscrU::??
+??	\mathcal{V}	\mscrV		\mathcalV	\mscrV		::\mathcalV::??	::\mscrV::??
+??	\mathcal{W}	\mscrW		\mathcalW	\mscrW		::\mathcalW::??	::\mscrW::??
+??	\mathcal{X}	\mscrX		\mathcalX	\mscrX		::\mathcalX::??	::\mscrX::??
+??	\mathcal{Y}	\mscrY		\mathcalY	\mscrY		::\mathcalY::??	::\mscrY::??
+??	\mathcal{Z}	\mscrZ		\mathcalZ	\mscrZ		::\mathcalZ::??	::\mscrZ::??
+??	\mathcal{a}	\mscra		\mathcala	\mscra		::\mathcala::??	::\mscra::??
+??	\mathcal{b}	\mscrb		\mathcalb	\mscrb		::\mathcalb::??	::\mscrb::??
+??	\mathcal{c}	\mscrc		\mathcalc	\mscrc		::\mathcalc::??	::\mscrc::??
+??	\mathcal{d}	\mscrd		\mathcald	\mscrd		::\mathcald::??	::\mscrd::??
+??	\mathcal{f}	\mscrf		\mathcalf	\mscrf		::\mathcalf::??	::\mscrf::??
+??	\mathcal{h}	\mscrh		\mathcalh	\mscrh		::\mathcalh::??	::\mscrh::??
+??	\mathcal{i}	\mscri		\mathcali	\mscri		::\mathcali::??	::\mscri::??
+??	\mathcal{j}	\mscrj		\mathcalj	\mscrj		::\mathcalj::??	::\mscrj::??
+??	\mathcal{k}	\mscrk		\mathcalk	\mscrk		::\mathcalk::??	::\mscrk::??
+??	\mathcal{l}	\mscrl		\mathcall	\mscrl		::\mathcall::??	::\mscrl::??
+??	\mathcal{m}	\mscrm		\mathcalm	\mscrm		::\mathcalm::??	::\mscrm::??
+??	\mathcal{n}	\mscrn		\mathcaln	\mscrn		::\mathcaln::??	::\mscrn::??
+??	\mathcal{p}	\mscrp		\mathcalp	\mscrp		::\mathcalp::??	::\mscrp::??
+??	\mathcal{q}	\mscrq		\mathcalq	\mscrq		::\mathcalq::??	::\mscrq::??
+??	\mathcal{r}	\mscrr		\mathcalr	\mscrr		::\mathcalr::??	::\mscrr::??
+??	\mathcal{s}	\mscrs		\mathcals	\mscrs		::\mathcals::??	::\mscrs::??
+??	\mathcal{t}	\mscrt		\mathcalt	\mscrt		::\mathcalt::??	::\mscrt::??
+??	\mathcal{u}	\mscru		\mathcalu	\mscru		::\mathcalu::??	::\mscru::??
+??	\mathcal{v}	\mscrv		\mathcalv	\mscrv		::\mathcalv::??	::\mscrv::??
+??	\mathcal{w}	\mscrw		\mathcalw	\mscrw		::\mathcalw::??	::\mscrw::??
+??	\mathcal{x}	\mscrx		\mathcalx	\mscrx		::\mathcalx::??	::\mscrx::??
+??	\mathcal{y}	\mscry		\mathcaly	\mscry		::\mathcaly::??	::\mscry::??
+??	\mathcal{z}	\mscrz		\mathcalz	\mscrz		::\mathcalz::??	::\mscrz::??
+??		\mbfscrA			\mbfscrA			::\mbfscrA::??
+??		\mbfscrB			\mbfscrB			::\mbfscrB::??
+??		\mbfscrC			\mbfscrC			::\mbfscrC::??
+??		\mbfscrD			\mbfscrD			::\mbfscrD::??
+??		\mbfscrE			\mbfscrE			::\mbfscrE::??
+??		\mbfscrF			\mbfscrF			::\mbfscrF::??
+??		\mbfscrG			\mbfscrG			::\mbfscrG::??
+??		\mbfscrH			\mbfscrH			::\mbfscrH::??
+??		\mbfscrI			\mbfscrI			::\mbfscrI::??
+??		\mbfscrJ			\mbfscrJ			::\mbfscrJ::??
+??		\mbfscrK			\mbfscrK			::\mbfscrK::??
+??		\mbfscrL			\mbfscrL			::\mbfscrL::??
+??		\mbfscrM			\mbfscrM			::\mbfscrM::??
+??		\mbfscrN			\mbfscrN			::\mbfscrN::??
+??		\mbfscrO			\mbfscrO			::\mbfscrO::??
+??		\mbfscrP			\mbfscrP			::\mbfscrP::??
+??		\mbfscrQ			\mbfscrQ			::\mbfscrQ::??
+??		\mbfscrR			\mbfscrR			::\mbfscrR::??
+??		\mbfscrS			\mbfscrS			::\mbfscrS::??
+??		\mbfscrT			\mbfscrT			::\mbfscrT::??
+??		\mbfscrU			\mbfscrU			::\mbfscrU::??
+??		\mbfscrV			\mbfscrV			::\mbfscrV::??
+??		\mbfscrW			\mbfscrW			::\mbfscrW::??
+??		\mbfscrX			\mbfscrX			::\mbfscrX::??
+??		\mbfscrY			\mbfscrY			::\mbfscrY::??
+??		\mbfscrZ			\mbfscrZ			::\mbfscrZ::??
+??		\mbfscra			\mbfscra			::\mbfscra::??
+??		\mbfscrb			\mbfscrb			::\mbfscrb::??
+??		\mbfscrc			\mbfscrc			::\mbfscrc::??
+??		\mbfscrd			\mbfscrd			::\mbfscrd::??
+??		\mbfscre			\mbfscre			::\mbfscre::??
+??		\mbfscrf			\mbfscrf			::\mbfscrf::??
+??		\mbfscrg			\mbfscrg			::\mbfscrg::??
+??		\mbfscrh			\mbfscrh			::\mbfscrh::??
+??		\mbfscri			\mbfscri			::\mbfscri::??
+??		\mbfscrj			\mbfscrj			::\mbfscrj::??
+??		\mbfscrk			\mbfscrk			::\mbfscrk::??
+??		\mbfscrl			\mbfscrl			::\mbfscrl::??
+??		\mbfscrm			\mbfscrm			::\mbfscrm::??
+??		\mbfscrn			\mbfscrn			::\mbfscrn::??
+??		\mbfscro			\mbfscro			::\mbfscro::??
+??		\mbfscrp			\mbfscrp			::\mbfscrp::??
+??		\mbfscrq			\mbfscrq			::\mbfscrq::??
+??		\mbfscrr			\mbfscrr			::\mbfscrr::??
+??		\mbfscrs			\mbfscrs			::\mbfscrs::??
+??		\mbfscrt			\mbfscrt			::\mbfscrt::??
+??		\mbfscru			\mbfscru			::\mbfscru::??
+??		\mbfscrv			\mbfscrv			::\mbfscrv::??
+??		\mbfscrw			\mbfscrw			::\mbfscrw::??
+??		\mbfscrx			\mbfscrx			::\mbfscrx::??
+??		\mbfscry			\mbfscry			::\mbfscry::??
+??		\mbfscrz			\mbfscrz			::\mbfscrz::??
+??	\mathfrak{A}	\mfrakA		\mathfrakA	\mfrakA		::\mathfrakA::??	::\mfrakA::??
+??	\mathfrak{B}	\mfrakB		\mathfrakB	\mfrakB		::\mathfrakB::??	::\mfrakB::??
+??	\mathfrak{D}	\mfrakD		\mathfrakD	\mfrakD		::\mathfrakD::??	::\mfrakD::??
+??	\mathfrak{E}	\mfrakE		\mathfrakE	\mfrakE		::\mathfrakE::??	::\mfrakE::??
+??	\mathfrak{F}	\mfrakF		\mathfrakF	\mfrakF		::\mathfrakF::??	::\mfrakF::??
+??	\mathfrak{G}	\mfrakG		\mathfrakG	\mfrakG		::\mathfrakG::??	::\mfrakG::??
+??	\mathfrak{J}	\mfrakJ		\mathfrakJ	\mfrakJ		::\mathfrakJ::??	::\mfrakJ::??
+??	\mathfrak{K}	\mfrakK		\mathfrakK	\mfrakK		::\mathfrakK::??	::\mfrakK::??
+??	\mathfrak{L}	\mfrakL		\mathfrakL	\mfrakL		::\mathfrakL::??	::\mfrakL::??
+??	\mathfrak{M}	\mfrakM		\mathfrakM	\mfrakM		::\mathfrakM::??	::\mfrakM::??
+??	\mathfrak{N}	\mfrakN		\mathfrakN	\mfrakN		::\mathfrakN::??	::\mfrakN::??
+??	\mathfrak{O}	\mfrakO		\mathfrakO	\mfrakO		::\mathfrakO::??	::\mfrakO::??
+??	\mathfrak{P}	\mfrakP		\mathfrakP	\mfrakP		::\mathfrakP::??	::\mfrakP::??
+??	\mathfrak{Q}	\mfrakQ		\mathfrakQ	\mfrakQ		::\mathfrakQ::??	::\mfrakQ::??
+??	\mathfrak{S}	\mfrakS		\mathfrakS	\mfrakS		::\mathfrakS::??	::\mfrakS::??
+??	\mathfrak{T}	\mfrakT		\mathfrakT	\mfrakT		::\mathfrakT::??	::\mfrakT::??
+??	\mathfrak{U}	\mfrakU		\mathfrakU	\mfrakU		::\mathfrakU::??	::\mfrakU::??
+??	\mathfrak{V}	\mfrakV		\mathfrakV	\mfrakV		::\mathfrakV::??	::\mfrakV::??
+??	\mathfrak{W}	\mfrakW		\mathfrakW	\mfrakW		::\mathfrakW::??	::\mfrakW::??
+??	\mathfrak{X}	\mfrakX		\mathfrakX	\mfrakX		::\mathfrakX::??	::\mfrakX::??
+??	\mathfrak{Y}	\mfrakY		\mathfrakY	\mfrakY		::\mathfrakY::??	::\mfrakY::??
+??	\mathfrak{a}	\mfraka		\mathfraka	\mfraka		::\mathfraka::??	::\mfraka::??
+??	\mathfrak{b}	\mfrakb		\mathfrakb	\mfrakb		::\mathfrakb::??	::\mfrakb::??
+??	\mathfrak{c}	\mfrakc		\mathfrakc	\mfrakc		::\mathfrakc::??	::\mfrakc::??
+??	\mathfrak{d}	\mfrakd		\mathfrakd	\mfrakd		::\mathfrakd::??	::\mfrakd::??
+??	\mathfrak{e}	\mfrake		\mathfrake	\mfrake		::\mathfrake::??	::\mfrake::??
+??	\mathfrak{f}	\mfrakf		\mathfrakf	\mfrakf		::\mathfrakf::??	::\mfrakf::??
+??	\mathfrak{g}	\mfrakg		\mathfrakg	\mfrakg		::\mathfrakg::??	::\mfrakg::??
+??	\mathfrak{h}	\mfrakh		\mathfrakh	\mfrakh		::\mathfrakh::??	::\mfrakh::??
+??	\mathfrak{i}	\mfraki		\mathfraki	\mfraki		::\mathfraki::??	::\mfraki::??
+??	\mathfrak{j}	\mfrakj		\mathfrakj	\mfrakj		::\mathfrakj::??	::\mfrakj::??
+??	\mathfrak{k}	\mfrakk		\mathfrakk	\mfrakk		::\mathfrakk::??	::\mfrakk::??
+??	\mathfrak{l}	\mfrakl		\mathfrakl	\mfrakl		::\mathfrakl::??	::\mfrakl::??
+??	\mathfrak{m}	\mfrakm		\mathfrakm	\mfrakm		::\mathfrakm::??	::\mfrakm::??
+??	\mathfrak{n}	\mfrakn		\mathfrakn	\mfrakn		::\mathfrakn::??	::\mfrakn::??
+??	\mathfrak{o}	\mfrako		\mathfrako	\mfrako		::\mathfrako::??	::\mfrako::??
+??	\mathfrak{p}	\mfrakp		\mathfrakp	\mfrakp		::\mathfrakp::??	::\mfrakp::??
+??	\mathfrak{q}	\mfrakq		\mathfrakq	\mfrakq		::\mathfrakq::??	::\mfrakq::??
+??	\mathfrak{r}	\mfrakr		\mathfrakr	\mfrakr		::\mathfrakr::??	::\mfrakr::??
+??	\mathfrak{s}	\mfraks		\mathfraks	\mfraks		::\mathfraks::??	::\mfraks::??
+??	\mathfrak{t}	\mfrakt		\mathfrakt	\mfrakt		::\mathfrakt::??	::\mfrakt::??
+??	\mathfrak{u}	\mfraku		\mathfraku	\mfraku		::\mathfraku::??	::\mfraku::??
+??	\mathfrak{v}	\mfrakv		\mathfrakv	\mfrakv		::\mathfrakv::??	::\mfrakv::??
+??	\mathfrak{w}	\mfrakw		\mathfrakw	\mfrakw		::\mathfrakw::??	::\mfrakw::??
+??	\mathfrak{x}	\mfrakx		\mathfrakx	\mfrakx		::\mathfrakx::??	::\mfrakx::??
+??	\mathfrak{y}	\mfraky		\mathfraky	\mfraky		::\mathfraky::??	::\mfraky::??
+??	\mathfrak{z}	\mfrakz		\mathfrakz	\mfrakz		::\mathfrakz::??	::\mfrakz::??
+??	\mathbb{A}	\BbbA		\mathbbA	\BbbA		::\mathbbA::??	::\BbbA::??
+??	\mathbb{B}	\BbbB		\mathbbB	\BbbB		::\mathbbB::??	::\BbbB::??
+??	\mathbb{D}	\BbbD		\mathbbD	\BbbD		::\mathbbD::??	::\BbbD::??
+??	\mathbb{E}	\BbbE		\mathbbE	\BbbE		::\mathbbE::??	::\BbbE::??
+??	\mathbb{F}	\BbbF		\mathbbF	\BbbF		::\mathbbF::??	::\BbbF::??
+??	\mathbb{G}	\BbbG		\mathbbG	\BbbG		::\mathbbG::??	::\BbbG::??
+??	\mathbb{I}	\BbbI		\mathbbI	\BbbI		::\mathbbI::??	::\BbbI::??
+??	\mathbb{J}	\BbbJ		\mathbbJ	\BbbJ		::\mathbbJ::??	::\BbbJ::??
+??	\mathbb{K}	\BbbK		\mathbbK	\BbbK		::\mathbbK::??	::\BbbK::??
+??	\mathbb{L}	\BbbL		\mathbbL	\BbbL		::\mathbbL::??	::\BbbL::??
+??	\mathbb{M}	\BbbM		\mathbbM	\BbbM		::\mathbbM::??	::\BbbM::??
+??	\mathbb{O}	\BbbO		\mathbbO	\BbbO		::\mathbbO::??	::\BbbO::??
+??	\mathbb{S}	\BbbS		\mathbbS	\BbbS		::\mathbbS::??	::\BbbS::??
+??	\mathbb{T}	\BbbT		\mathbbT	\BbbT		::\mathbbT::??	::\BbbT::??
+??	\mathbb{U}	\BbbU		\mathbbU	\BbbU		::\mathbbU::??	::\BbbU::??
+??	\mathbb{V}	\BbbV		\mathbbV	\BbbV		::\mathbbV::??	::\BbbV::??
+??	\mathbb{W}	\BbbW		\mathbbW	\BbbW		::\mathbbW::??	::\BbbW::??
+??	\mathbb{X}	\BbbX		\mathbbX	\BbbX		::\mathbbX::??	::\BbbX::??
+??	\mathbb{Y}	\BbbY		\mathbbY	\BbbY		::\mathbbY::??	::\BbbY::??
+??	\mathbb{a}	\Bbba		\mathbba	\Bbba		::\mathbba::??	::\Bbba::??
+??	\mathbb{b}	\Bbbb		\mathbbb	\Bbbb		::\mathbbb::??	::\Bbbb::??
+??	\mathbb{c}	\Bbbc		\mathbbc	\Bbbc		::\mathbbc::??	::\Bbbc::??
+??	\mathbb{d}	\Bbbd		\mathbbd	\Bbbd		::\mathbbd::??	::\Bbbd::??
+??	\mathbb{e}	\Bbbe		\mathbbe	\Bbbe		::\mathbbe::??	::\Bbbe::??
+??	\mathbb{f}	\Bbbf		\mathbbf	\Bbbf		::\mathbbf::??	::\Bbbf::??
+??	\mathbb{g}	\Bbbg		\mathbbg	\Bbbg		::\mathbbg::??	::\Bbbg::??
+??	\mathbb{h}	\Bbbh		\mathbbh	\Bbbh		::\mathbbh::??	::\Bbbh::??
+??	\mathbb{i}	\Bbbi		\mathbbi	\Bbbi		::\mathbbi::??	::\Bbbi::??
+??	\mathbb{j}	\Bbbj		\mathbbj	\Bbbj		::\mathbbj::??	::\Bbbj::??
+??	\mathbb{k}	\Bbbk		\mathbbk	\Bbbk		::\mathbbk::??	::\Bbbk::??
+??	\mathbb{l}	\Bbbl		\mathbbl	\Bbbl		::\mathbbl::??	::\Bbbl::??
+??	\mathbb{m}	\Bbbm		\mathbbm	\Bbbm		::\mathbbm::??	::\Bbbm::??
+??	\mathbb{n}	\Bbbn		\mathbbn	\Bbbn		::\mathbbn::??	::\Bbbn::??
+??	\mathbb{o}	\Bbbo		\mathbbo	\Bbbo		::\mathbbo::??	::\Bbbo::??
+??	\mathbb{p}	\Bbbp		\mathbbp	\Bbbp		::\mathbbp::??	::\Bbbp::??
+??	\mathbb{q}	\Bbbq		\mathbbq	\Bbbq		::\mathbbq::??	::\Bbbq::??
+??	\mathbb{r}	\Bbbr		\mathbbr	\Bbbr		::\mathbbr::??	::\Bbbr::??
+??	\mathbb{s}	\Bbbs		\mathbbs	\Bbbs		::\mathbbs::??	::\Bbbs::??
+??	\mathbb{t}	\Bbbt		\mathbbt	\Bbbt		::\mathbbt::??	::\Bbbt::??
+??	\mathbb{u}	\Bbbu		\mathbbu	\Bbbu		::\mathbbu::??	::\Bbbu::??
+??	\mathbb{v}	\Bbbv		\mathbbv	\Bbbv		::\mathbbv::??	::\Bbbv::??
+??	\mathbb{w}	\Bbbw		\mathbbw	\Bbbw		::\mathbbw::??	::\Bbbw::??
+??	\mathbb{x}	\Bbbx		\mathbbx	\Bbbx		::\mathbbx::??	::\Bbbx::??
+??	\mathbb{y}	\Bbby		\mathbby	\Bbby		::\mathbby::??	::\Bbby::??
+??	\mathbb{z}	\Bbbz		\mathbbz	\Bbbz		::\mathbbz::??	::\Bbbz::??
+??		\mbffrakA			\mbffrakA			::\mbffrakA::??
+??		\mbffrakB			\mbffrakB			::\mbffrakB::??
+??		\mbffrakC			\mbffrakC			::\mbffrakC::??
+??		\mbffrakD			\mbffrakD			::\mbffrakD::??
+??		\mbffrakE			\mbffrakE			::\mbffrakE::??
+??		\mbffrakF			\mbffrakF			::\mbffrakF::??
+??		\mbffrakG			\mbffrakG			::\mbffrakG::??
+??		\mbffrakH			\mbffrakH			::\mbffrakH::??
+??		\mbffrakI			\mbffrakI			::\mbffrakI::??
+??		\mbffrakJ			\mbffrakJ			::\mbffrakJ::??
+??		\mbffrakK			\mbffrakK			::\mbffrakK::??
+??		\mbffrakL			\mbffrakL			::\mbffrakL::??
+??		\mbffrakM			\mbffrakM			::\mbffrakM::??
+??		\mbffrakN			\mbffrakN			::\mbffrakN::??
+??		\mbffrakO			\mbffrakO			::\mbffrakO::??
+??		\mbffrakP			\mbffrakP			::\mbffrakP::??
+??		\mbffrakQ			\mbffrakQ			::\mbffrakQ::??
+??		\mbffrakR			\mbffrakR			::\mbffrakR::??
+??		\mbffrakS			\mbffrakS			::\mbffrakS::??
+??		\mbffrakT			\mbffrakT			::\mbffrakT::??
+??		\mbffrakU			\mbffrakU			::\mbffrakU::??
+??		\mbffrakV			\mbffrakV			::\mbffrakV::??
+??		\mbffrakW			\mbffrakW			::\mbffrakW::??
+??		\mbffrakX			\mbffrakX			::\mbffrakX::??
+??		\mbffrakY			\mbffrakY			::\mbffrakY::??
+??		\mbffrakZ			\mbffrakZ			::\mbffrakZ::??
+??		\mbffraka			\mbffraka			::\mbffraka::??
+??		\mbffrakb			\mbffrakb			::\mbffrakb::??
+??		\mbffrakc			\mbffrakc			::\mbffrakc::??
+??		\mbffrakd			\mbffrakd			::\mbffrakd::??
+??		\mbffrake			\mbffrake			::\mbffrake::??
+??		\mbffrakf			\mbffrakf			::\mbffrakf::??
+??		\mbffrakg			\mbffrakg			::\mbffrakg::??
+??		\mbffrakh			\mbffrakh			::\mbffrakh::??
+??		\mbffraki			\mbffraki			::\mbffraki::??
+??		\mbffrakj			\mbffrakj			::\mbffrakj::??
+??		\mbffrakk			\mbffrakk			::\mbffrakk::??
+??		\mbffrakl			\mbffrakl			::\mbffrakl::??
+??		\mbffrakm			\mbffrakm			::\mbffrakm::??
+??		\mbffrakn			\mbffrakn			::\mbffrakn::??
+??		\mbffrako			\mbffrako			::\mbffrako::??
+??		\mbffrakp			\mbffrakp			::\mbffrakp::??
+??		\mbffrakq			\mbffrakq			::\mbffrakq::??
+??		\mbffrakr			\mbffrakr			::\mbffrakr::??
+??		\mbffraks			\mbffraks			::\mbffraks::??
+??		\mbffrakt			\mbffrakt			::\mbffrakt::??
+??		\mbffraku			\mbffraku			::\mbffraku::??
+??		\mbffrakv			\mbffrakv			::\mbffrakv::??
+??		\mbffrakw			\mbffrakw			::\mbffrakw::??
+??		\mbffrakx			\mbffrakx			::\mbffrakx::??
+??		\mbffraky			\mbffraky			::\mbffraky::??
+??		\mbffrakz			\mbffrakz			::\mbffrakz::??
+??	\mathsf{A}	\msansA		\mathsfA	\msansA		::\mathsfA::??	::\msansA::??
+??	\mathsf{B}	\msansB		\mathsfB	\msansB		::\mathsfB::??	::\msansB::??
+??	\mathsf{C}	\msansC		\mathsfC	\msansC		::\mathsfC::??	::\msansC::??
+??	\mathsf{D}	\msansD		\mathsfD	\msansD		::\mathsfD::??	::\msansD::??
+??	\mathsf{E}	\msansE		\mathsfE	\msansE		::\mathsfE::??	::\msansE::??
+??	\mathsf{F}	\msansF		\mathsfF	\msansF		::\mathsfF::??	::\msansF::??
+??	\mathsf{G}	\msansG		\mathsfG	\msansG		::\mathsfG::??	::\msansG::??
+??	\mathsf{H}	\msansH		\mathsfH	\msansH		::\mathsfH::??	::\msansH::??
+??	\mathsf{I}	\msansI		\mathsfI	\msansI		::\mathsfI::??	::\msansI::??
+??	\mathsf{J}	\msansJ		\mathsfJ	\msansJ		::\mathsfJ::??	::\msansJ::??
+??	\mathsf{K}	\msansK		\mathsfK	\msansK		::\mathsfK::??	::\msansK::??
+??	\mathsf{L}	\msansL		\mathsfL	\msansL		::\mathsfL::??	::\msansL::??
+??	\mathsf{M}	\msansM		\mathsfM	\msansM		::\mathsfM::??	::\msansM::??
+??	\mathsf{N}	\msansN		\mathsfN	\msansN		::\mathsfN::??	::\msansN::??
+??	\mathsf{O}	\msansO		\mathsfO	\msansO		::\mathsfO::??	::\msansO::??
+??	\mathsf{P}	\msansP		\mathsfP	\msansP		::\mathsfP::??	::\msansP::??
+??	\mathsf{Q}	\msansQ		\mathsfQ	\msansQ		::\mathsfQ::??	::\msansQ::??
+??	\mathsf{R}	\msansR		\mathsfR	\msansR		::\mathsfR::??	::\msansR::??
+??	\mathsf{S}	\msansS		\mathsfS	\msansS		::\mathsfS::??	::\msansS::??
+??	\mathsf{T}	\msansT		\mathsfT	\msansT		::\mathsfT::??	::\msansT::??
+??	\mathsf{U}	\msansU		\mathsfU	\msansU		::\mathsfU::??	::\msansU::??
+??	\mathsf{V}	\msansV		\mathsfV	\msansV		::\mathsfV::??	::\msansV::??
+??	\mathsf{W}	\msansW		\mathsfW	\msansW		::\mathsfW::??	::\msansW::??
+??	\mathsf{X}	\msansX		\mathsfX	\msansX		::\mathsfX::??	::\msansX::??
+??	\mathsf{Y}	\msansY		\mathsfY	\msansY		::\mathsfY::??	::\msansY::??
+??	\mathsf{Z}	\msansZ		\mathsfZ	\msansZ		::\mathsfZ::??	::\msansZ::??
+??	\mathsf{a}	\msansa		\mathsfa	\msansa		::\mathsfa::??	::\msansa::??
+??	\mathsf{b}	\msansb		\mathsfb	\msansb		::\mathsfb::??	::\msansb::??
+??	\mathsf{c}	\msansc		\mathsfc	\msansc		::\mathsfc::??	::\msansc::??
+??	\mathsf{d}	\msansd		\mathsfd	\msansd		::\mathsfd::??	::\msansd::??
+??	\mathsf{e}	\msanse		\mathsfe	\msanse		::\mathsfe::??	::\msanse::??
+??	\mathsf{f}	\msansf		\mathsff	\msansf		::\mathsff::??	::\msansf::??
+??	\mathsf{g}	\msansg		\mathsfg	\msansg		::\mathsfg::??	::\msansg::??
+??	\mathsf{h}	\msansh		\mathsfh	\msansh		::\mathsfh::??	::\msansh::??
+??	\mathsf{i}	\msansi		\mathsfi	\msansi		::\mathsfi::??	::\msansi::??
+??	\mathsf{j}	\msansj		\mathsfj	\msansj		::\mathsfj::??	::\msansj::??
+??	\mathsf{k}	\msansk		\mathsfk	\msansk		::\mathsfk::??	::\msansk::??
+??	\mathsf{l}	\msansl		\mathsfl	\msansl		::\mathsfl::??	::\msansl::??
+??	\mathsf{m}	\msansm		\mathsfm	\msansm		::\mathsfm::??	::\msansm::??
+??	\mathsf{n}	\msansn		\mathsfn	\msansn		::\mathsfn::??	::\msansn::??
+??	\mathsf{o}	\msanso		\mathsfo	\msanso		::\mathsfo::??	::\msanso::??
+??	\mathsf{p}	\msansp		\mathsfp	\msansp		::\mathsfp::??	::\msansp::??
+??	\mathsf{q}	\msansq		\mathsfq	\msansq		::\mathsfq::??	::\msansq::??
+??	\mathsf{r}	\msansr		\mathsfr	\msansr		::\mathsfr::??	::\msansr::??
+??	\mathsf{s}	\msanss		\mathsfs	\msanss		::\mathsfs::??	::\msanss::??
+??	\mathsf{t}	\msanst		\mathsft	\msanst		::\mathsft::??	::\msanst::??
+??	\mathsf{u}	\msansu		\mathsfu	\msansu		::\mathsfu::??	::\msansu::??
+??	\mathsf{v}	\msansv		\mathsfv	\msansv		::\mathsfv::??	::\msansv::??
+??	\mathsf{w}	\msansw		\mathsfw	\msansw		::\mathsfw::??	::\msansw::??
+??	\mathsf{x}	\msansx		\mathsfx	\msansx		::\mathsfx::??	::\msansx::??
+??	\mathsf{y}	\msansy		\mathsfy	\msansy		::\mathsfy::??	::\msansy::??
+??	\mathsf{z}	\msansz		\mathsfz	\msansz		::\mathsfz::??	::\msansz::??
+??	\mathsfbf{A}	\mbfsansA		\mathsfbfA	\mbfsansA		::\mathsfbfA::??	::\mbfsansA::??
+??	\mathsfbf{B}	\mbfsansB		\mathsfbfB	\mbfsansB		::\mathsfbfB::??	::\mbfsansB::??
+??	\mathsfbf{C}	\mbfsansC		\mathsfbfC	\mbfsansC		::\mathsfbfC::??	::\mbfsansC::??
+??	\mathsfbf{D}	\mbfsansD		\mathsfbfD	\mbfsansD		::\mathsfbfD::??	::\mbfsansD::??
+??	\mathsfbf{E}	\mbfsansE		\mathsfbfE	\mbfsansE		::\mathsfbfE::??	::\mbfsansE::??
+??	\mathsfbf{F}	\mbfsansF		\mathsfbfF	\mbfsansF		::\mathsfbfF::??	::\mbfsansF::??
+??	\mathsfbf{G}	\mbfsansG		\mathsfbfG	\mbfsansG		::\mathsfbfG::??	::\mbfsansG::??
+??	\mathsfbf{H}	\mbfsansH		\mathsfbfH	\mbfsansH		::\mathsfbfH::??	::\mbfsansH::??
+??	\mathsfbf{I}	\mbfsansI		\mathsfbfI	\mbfsansI		::\mathsfbfI::??	::\mbfsansI::??
+??	\mathsfbf{J}	\mbfsansJ		\mathsfbfJ	\mbfsansJ		::\mathsfbfJ::??	::\mbfsansJ::??
+??	\mathsfbf{K}	\mbfsansK		\mathsfbfK	\mbfsansK		::\mathsfbfK::??	::\mbfsansK::??
+??	\mathsfbf{L}	\mbfsansL		\mathsfbfL	\mbfsansL		::\mathsfbfL::??	::\mbfsansL::??
+??	\mathsfbf{M}	\mbfsansM		\mathsfbfM	\mbfsansM		::\mathsfbfM::??	::\mbfsansM::??
+??	\mathsfbf{N}	\mbfsansN		\mathsfbfN	\mbfsansN		::\mathsfbfN::??	::\mbfsansN::??
+??	\mathsfbf{O}	\mbfsansO		\mathsfbfO	\mbfsansO		::\mathsfbfO::??	::\mbfsansO::??
+??	\mathsfbf{P}	\mbfsansP		\mathsfbfP	\mbfsansP		::\mathsfbfP::??	::\mbfsansP::??
+??	\mathsfbf{Q}	\mbfsansQ		\mathsfbfQ	\mbfsansQ		::\mathsfbfQ::??	::\mbfsansQ::??
+??	\mathsfbf{R}	\mbfsansR		\mathsfbfR	\mbfsansR		::\mathsfbfR::??	::\mbfsansR::??
+??	\mathsfbf{S}	\mbfsansS		\mathsfbfS	\mbfsansS		::\mathsfbfS::??	::\mbfsansS::??
+??	\mathsfbf{T}	\mbfsansT		\mathsfbfT	\mbfsansT		::\mathsfbfT::??	::\mbfsansT::??
+??	\mathsfbf{U}	\mbfsansU		\mathsfbfU	\mbfsansU		::\mathsfbfU::??	::\mbfsansU::??
+??	\mathsfbf{V}	\mbfsansV		\mathsfbfV	\mbfsansV		::\mathsfbfV::??	::\mbfsansV::??
+??	\mathsfbf{W}	\mbfsansW		\mathsfbfW	\mbfsansW		::\mathsfbfW::??	::\mbfsansW::??
+??	\mathsfbf{X}	\mbfsansX		\mathsfbfX	\mbfsansX		::\mathsfbfX::??	::\mbfsansX::??
+??	\mathsfbf{Y}	\mbfsansY		\mathsfbfY	\mbfsansY		::\mathsfbfY::??	::\mbfsansY::??
+??	\mathsfbf{Z}	\mbfsansZ		\mathsfbfZ	\mbfsansZ		::\mathsfbfZ::??	::\mbfsansZ::??
+??	\mathsfbf{a}	\mbfsansa		\mathsfbfa	\mbfsansa		::\mathsfbfa::??	::\mbfsansa::??
+??	\mathsfbf{b}	\mbfsansb		\mathsfbfb	\mbfsansb		::\mathsfbfb::??	::\mbfsansb::??
+??	\mathsfbf{c}	\mbfsansc		\mathsfbfc	\mbfsansc		::\mathsfbfc::??	::\mbfsansc::??
+??	\mathsfbf{d}	\mbfsansd		\mathsfbfd	\mbfsansd		::\mathsfbfd::??	::\mbfsansd::??
+??	\mathsfbf{e}	\mbfsanse		\mathsfbfe	\mbfsanse		::\mathsfbfe::??	::\mbfsanse::??
+??	\mathsfbf{f}	\mbfsansf		\mathsfbff	\mbfsansf		::\mathsfbff::??	::\mbfsansf::??
+??	\mathsfbf{g}	\mbfsansg		\mathsfbfg	\mbfsansg		::\mathsfbfg::??	::\mbfsansg::??
+??	\mathsfbf{h}	\mbfsansh		\mathsfbfh	\mbfsansh		::\mathsfbfh::??	::\mbfsansh::??
+??	\mathsfbf{i}	\mbfsansi		\mathsfbfi	\mbfsansi		::\mathsfbfi::??	::\mbfsansi::??
+??	\mathsfbf{j}	\mbfsansj		\mathsfbfj	\mbfsansj		::\mathsfbfj::??	::\mbfsansj::??
+??	\mathsfbf{k}	\mbfsansk		\mathsfbfk	\mbfsansk		::\mathsfbfk::??	::\mbfsansk::??
+??	\mathsfbf{l}	\mbfsansl		\mathsfbfl	\mbfsansl		::\mathsfbfl::??	::\mbfsansl::??
+??	\mathsfbf{m}	\mbfsansm		\mathsfbfm	\mbfsansm		::\mathsfbfm::??	::\mbfsansm::??
+??	\mathsfbf{n}	\mbfsansn		\mathsfbfn	\mbfsansn		::\mathsfbfn::??	::\mbfsansn::??
+??	\mathsfbf{o}	\mbfsanso		\mathsfbfo	\mbfsanso		::\mathsfbfo::??	::\mbfsanso::??
+??	\mathsfbf{p}	\mbfsansp		\mathsfbfp	\mbfsansp		::\mathsfbfp::??	::\mbfsansp::??
+??	\mathsfbf{q}	\mbfsansq		\mathsfbfq	\mbfsansq		::\mathsfbfq::??	::\mbfsansq::??
+??	\mathsfbf{r}	\mbfsansr		\mathsfbfr	\mbfsansr		::\mathsfbfr::??	::\mbfsansr::??
+??	\mathsfbf{s}	\mbfsanss		\mathsfbfs	\mbfsanss		::\mathsfbfs::??	::\mbfsanss::??
+??	\mathsfbf{t}	\mbfsanst		\mathsfbft	\mbfsanst		::\mathsfbft::??	::\mbfsanst::??
+??	\mathsfbf{u}	\mbfsansu		\mathsfbfu	\mbfsansu		::\mathsfbfu::??	::\mbfsansu::??
+??	\mathsfbf{v}	\mbfsansv		\mathsfbfv	\mbfsansv		::\mathsfbfv::??	::\mbfsansv::??
+??	\mathsfbf{w}	\mbfsansw		\mathsfbfw	\mbfsansw		::\mathsfbfw::??	::\mbfsansw::??
+??	\mathsfbf{x}	\mbfsansx		\mathsfbfx	\mbfsansx		::\mathsfbfx::??	::\mbfsansx::??
+??	\mathsfbf{y}	\mbfsansy		\mathsfbfy	\mbfsansy		::\mathsfbfy::??	::\mbfsansy::??
+??	\mathsfbf{z}	\mbfsansz		\mathsfbfz	\mbfsansz		::\mathsfbfz::??	::\mbfsansz::??
+??	\mathsfit{A}	\mitsansA		\mathsfitA	\mitsansA		::\mathsfitA::??	::\mitsansA::??
+??	\mathsfit{B}	\mitsansB		\mathsfitB	\mitsansB		::\mathsfitB::??	::\mitsansB::??
+??	\mathsfit{C}	\mitsansC		\mathsfitC	\mitsansC		::\mathsfitC::??	::\mitsansC::??
+??	\mathsfit{D}	\mitsansD		\mathsfitD	\mitsansD		::\mathsfitD::??	::\mitsansD::??
+??	\mathsfit{E}	\mitsansE		\mathsfitE	\mitsansE		::\mathsfitE::??	::\mitsansE::??
+??	\mathsfit{F}	\mitsansF		\mathsfitF	\mitsansF		::\mathsfitF::??	::\mitsansF::??
+??	\mathsfit{G}	\mitsansG		\mathsfitG	\mitsansG		::\mathsfitG::??	::\mitsansG::??
+??	\mathsfit{H}	\mitsansH		\mathsfitH	\mitsansH		::\mathsfitH::??	::\mitsansH::??
+??	\mathsfit{I}	\mitsansI		\mathsfitI	\mitsansI		::\mathsfitI::??	::\mitsansI::??
+??	\mathsfit{J}	\mitsansJ		\mathsfitJ	\mitsansJ		::\mathsfitJ::??	::\mitsansJ::??
+??	\mathsfit{K}	\mitsansK		\mathsfitK	\mitsansK		::\mathsfitK::??	::\mitsansK::??
+??	\mathsfit{L}	\mitsansL		\mathsfitL	\mitsansL		::\mathsfitL::??	::\mitsansL::??
+??	\mathsfit{M}	\mitsansM		\mathsfitM	\mitsansM		::\mathsfitM::??	::\mitsansM::??
+??	\mathsfit{N}	\mitsansN		\mathsfitN	\mitsansN		::\mathsfitN::??	::\mitsansN::??
+??	\mathsfit{O}	\mitsansO		\mathsfitO	\mitsansO		::\mathsfitO::??	::\mitsansO::??
+??	\mathsfit{P}	\mitsansP		\mathsfitP	\mitsansP		::\mathsfitP::??	::\mitsansP::??
+??	\mathsfit{Q}	\mitsansQ		\mathsfitQ	\mitsansQ		::\mathsfitQ::??	::\mitsansQ::??
+??	\mathsfit{R}	\mitsansR		\mathsfitR	\mitsansR		::\mathsfitR::??	::\mitsansR::??
+??	\mathsfit{S}	\mitsansS		\mathsfitS	\mitsansS		::\mathsfitS::??	::\mitsansS::??
+??	\mathsfit{T}	\mitsansT		\mathsfitT	\mitsansT		::\mathsfitT::??	::\mitsansT::??
+??	\mathsfit{U}	\mitsansU		\mathsfitU	\mitsansU		::\mathsfitU::??	::\mitsansU::??
+??	\mathsfit{V}	\mitsansV		\mathsfitV	\mitsansV		::\mathsfitV::??	::\mitsansV::??
+??	\mathsfit{W}	\mitsansW		\mathsfitW	\mitsansW		::\mathsfitW::??	::\mitsansW::??
+??	\mathsfit{X}	\mitsansX		\mathsfitX	\mitsansX		::\mathsfitX::??	::\mitsansX::??
+??	\mathsfit{Y}	\mitsansY		\mathsfitY	\mitsansY		::\mathsfitY::??	::\mitsansY::??
+??	\mathsfit{Z}	\mitsansZ		\mathsfitZ	\mitsansZ		::\mathsfitZ::??	::\mitsansZ::??
+??	\mathsfit{a}	\mitsansa		\mathsfita	\mitsansa		::\mathsfita::??	::\mitsansa::??
+??	\mathsfit{b}	\mitsansb		\mathsfitb	\mitsansb		::\mathsfitb::??	::\mitsansb::??
+??	\mathsfit{c}	\mitsansc		\mathsfitc	\mitsansc		::\mathsfitc::??	::\mitsansc::??
+??	\mathsfit{d}	\mitsansd		\mathsfitd	\mitsansd		::\mathsfitd::??	::\mitsansd::??
+??	\mathsfit{e}	\mitsanse		\mathsfite	\mitsanse		::\mathsfite::??	::\mitsanse::??
+??	\mathsfit{f}	\mitsansf		\mathsfitf	\mitsansf		::\mathsfitf::??	::\mitsansf::??
+??	\mathsfit{g}	\mitsansg		\mathsfitg	\mitsansg		::\mathsfitg::??	::\mitsansg::??
+??	\mathsfit{h}	\mitsansh		\mathsfith	\mitsansh		::\mathsfith::??	::\mitsansh::??
+??	\mathsfit{i}	\mitsansi		\mathsfiti	\mitsansi		::\mathsfiti::??	::\mitsansi::??
+??	\mathsfit{j}	\mitsansj		\mathsfitj	\mitsansj		::\mathsfitj::??	::\mitsansj::??
+??	\mathsfit{k}	\mitsansk		\mathsfitk	\mitsansk		::\mathsfitk::??	::\mitsansk::??
+??	\mathsfit{l}	\mitsansl		\mathsfitl	\mitsansl		::\mathsfitl::??	::\mitsansl::??
+??	\mathsfit{m}	\mitsansm		\mathsfitm	\mitsansm		::\mathsfitm::??	::\mitsansm::??
+??	\mathsfit{n}	\mitsansn		\mathsfitn	\mitsansn		::\mathsfitn::??	::\mitsansn::??
+??	\mathsfit{o}	\mitsanso		\mathsfito	\mitsanso		::\mathsfito::??	::\mitsanso::??
+??	\mathsfit{p}	\mitsansp		\mathsfitp	\mitsansp		::\mathsfitp::??	::\mitsansp::??
+??	\mathsfit{q}	\mitsansq		\mathsfitq	\mitsansq		::\mathsfitq::??	::\mitsansq::??
+??	\mathsfit{r}	\mitsansr		\mathsfitr	\mitsansr		::\mathsfitr::??	::\mitsansr::??
+??	\mathsfit{s}	\mitsanss		\mathsfits	\mitsanss		::\mathsfits::??	::\mitsanss::??
+??	\mathsfit{t}	\mitsanst		\mathsfitt	\mitsanst		::\mathsfitt::??	::\mitsanst::??
+??	\mathsfit{u}	\mitsansu		\mathsfitu	\mitsansu		::\mathsfitu::??	::\mitsansu::??
+??	\mathsfit{v}	\mitsansv		\mathsfitv	\mitsansv		::\mathsfitv::??	::\mitsansv::??
+??	\mathsfit{w}	\mitsansw		\mathsfitw	\mitsansw		::\mathsfitw::??	::\mitsansw::??
+??	\mathsfit{x}	\mitsansx		\mathsfitx	\mitsansx		::\mathsfitx::??	::\mitsansx::??
+??	\mathsfit{y}	\mitsansy		\mathsfity	\mitsansy		::\mathsfity::??	::\mitsansy::??
+??	\mathsfit{z}	\mitsansz		\mathsfitz	\mitsansz		::\mathsfitz::??	::\mitsansz::??
+??	\mathsfbfit{A}	\mbfitsansA		\mathsfbfitA	\mbfitsansA		::\mathsfbfitA::??	::\mbfitsansA::??
+??	\mathsfbfit{B}	\mbfitsansB		\mathsfbfitB	\mbfitsansB		::\mathsfbfitB::??	::\mbfitsansB::??
+??	\mathsfbfit{C}	\mbfitsansC		\mathsfbfitC	\mbfitsansC		::\mathsfbfitC::??	::\mbfitsansC::??
+??	\mathsfbfit{D}	\mbfitsansD		\mathsfbfitD	\mbfitsansD		::\mathsfbfitD::??	::\mbfitsansD::??
+??	\mathsfbfit{E}	\mbfitsansE		\mathsfbfitE	\mbfitsansE		::\mathsfbfitE::??	::\mbfitsansE::??
+??	\mathsfbfit{F}	\mbfitsansF		\mathsfbfitF	\mbfitsansF		::\mathsfbfitF::??	::\mbfitsansF::??
+??	\mathsfbfit{G}	\mbfitsansG		\mathsfbfitG	\mbfitsansG		::\mathsfbfitG::??	::\mbfitsansG::??
+??	\mathsfbfit{H}	\mbfitsansH		\mathsfbfitH	\mbfitsansH		::\mathsfbfitH::??	::\mbfitsansH::??
+??	\mathsfbfit{I}	\mbfitsansI		\mathsfbfitI	\mbfitsansI		::\mathsfbfitI::??	::\mbfitsansI::??
+??	\mathsfbfit{J}	\mbfitsansJ		\mathsfbfitJ	\mbfitsansJ		::\mathsfbfitJ::??	::\mbfitsansJ::??
+??	\mathsfbfit{K}	\mbfitsansK		\mathsfbfitK	\mbfitsansK		::\mathsfbfitK::??	::\mbfitsansK::??
+??	\mathsfbfit{L}	\mbfitsansL		\mathsfbfitL	\mbfitsansL		::\mathsfbfitL::??	::\mbfitsansL::??
+??	\mathsfbfit{M}	\mbfitsansM		\mathsfbfitM	\mbfitsansM		::\mathsfbfitM::??	::\mbfitsansM::??
+??	\mathsfbfit{N}	\mbfitsansN		\mathsfbfitN	\mbfitsansN		::\mathsfbfitN::??	::\mbfitsansN::??
+??	\mathsfbfit{O}	\mbfitsansO		\mathsfbfitO	\mbfitsansO		::\mathsfbfitO::??	::\mbfitsansO::??
+??	\mathsfbfit{P}	\mbfitsansP		\mathsfbfitP	\mbfitsansP		::\mathsfbfitP::??	::\mbfitsansP::??
+??	\mathsfbfit{Q}	\mbfitsansQ		\mathsfbfitQ	\mbfitsansQ		::\mathsfbfitQ::??	::\mbfitsansQ::??
+??	\mathsfbfit{R}	\mbfitsansR		\mathsfbfitR	\mbfitsansR		::\mathsfbfitR::??	::\mbfitsansR::??
+??	\mathsfbfit{S}	\mbfitsansS		\mathsfbfitS	\mbfitsansS		::\mathsfbfitS::??	::\mbfitsansS::??
+??	\mathsfbfit{T}	\mbfitsansT		\mathsfbfitT	\mbfitsansT		::\mathsfbfitT::??	::\mbfitsansT::??
+??	\mathsfbfit{U}	\mbfitsansU		\mathsfbfitU	\mbfitsansU		::\mathsfbfitU::??	::\mbfitsansU::??
+??	\mathsfbfit{V}	\mbfitsansV		\mathsfbfitV	\mbfitsansV		::\mathsfbfitV::??	::\mbfitsansV::??
+??	\mathsfbfit{W}	\mbfitsansW		\mathsfbfitW	\mbfitsansW		::\mathsfbfitW::??	::\mbfitsansW::??
+??	\mathsfbfit{X}	\mbfitsansX		\mathsfbfitX	\mbfitsansX		::\mathsfbfitX::??	::\mbfitsansX::??
+??	\mathsfbfit{Y}	\mbfitsansY		\mathsfbfitY	\mbfitsansY		::\mathsfbfitY::??	::\mbfitsansY::??
+??	\mathsfbfit{Z}	\mbfitsansZ		\mathsfbfitZ	\mbfitsansZ		::\mathsfbfitZ::??	::\mbfitsansZ::??
+??	\mathsfbfit{a}	\mbfitsansa		\mathsfbfita	\mbfitsansa		::\mathsfbfita::??	::\mbfitsansa::??
+??	\mathsfbfit{b}	\mbfitsansb		\mathsfbfitb	\mbfitsansb		::\mathsfbfitb::??	::\mbfitsansb::??
+??	\mathsfbfit{c}	\mbfitsansc		\mathsfbfitc	\mbfitsansc		::\mathsfbfitc::??	::\mbfitsansc::??
+??	\mathsfbfit{d}	\mbfitsansd		\mathsfbfitd	\mbfitsansd		::\mathsfbfitd::??	::\mbfitsansd::??
+??	\mathsfbfit{e}	\mbfitsanse		\mathsfbfite	\mbfitsanse		::\mathsfbfite::??	::\mbfitsanse::??
+??	\mathsfbfit{f}	\mbfitsansf		\mathsfbfitf	\mbfitsansf		::\mathsfbfitf::??	::\mbfitsansf::??
+??	\mathsfbfit{g}	\mbfitsansg		\mathsfbfitg	\mbfitsansg		::\mathsfbfitg::??	::\mbfitsansg::??
+??	\mathsfbfit{h}	\mbfitsansh		\mathsfbfith	\mbfitsansh		::\mathsfbfith::??	::\mbfitsansh::??
+??	\mathsfbfit{i}	\mbfitsansi		\mathsfbfiti	\mbfitsansi		::\mathsfbfiti::??	::\mbfitsansi::??
+??	\mathsfbfit{j}	\mbfitsansj		\mathsfbfitj	\mbfitsansj		::\mathsfbfitj::??	::\mbfitsansj::??
+??	\mathsfbfit{k}	\mbfitsansk		\mathsfbfitk	\mbfitsansk		::\mathsfbfitk::??	::\mbfitsansk::??
+??	\mathsfbfit{l}	\mbfitsansl		\mathsfbfitl	\mbfitsansl		::\mathsfbfitl::??	::\mbfitsansl::??
+??	\mathsfbfit{m}	\mbfitsansm		\mathsfbfitm	\mbfitsansm		::\mathsfbfitm::??	::\mbfitsansm::??
+??	\mathsfbfit{n}	\mbfitsansn		\mathsfbfitn	\mbfitsansn		::\mathsfbfitn::??	::\mbfitsansn::??
+??	\mathsfbfit{o}	\mbfitsanso		\mathsfbfito	\mbfitsanso		::\mathsfbfito::??	::\mbfitsanso::??
+??	\mathsfbfit{p}	\mbfitsansp		\mathsfbfitp	\mbfitsansp		::\mathsfbfitp::??	::\mbfitsansp::??
+??	\mathsfbfit{q}	\mbfitsansq		\mathsfbfitq	\mbfitsansq		::\mathsfbfitq::??	::\mbfitsansq::??
+??	\mathsfbfit{r}	\mbfitsansr		\mathsfbfitr	\mbfitsansr		::\mathsfbfitr::??	::\mbfitsansr::??
+??	\mathsfbfit{s}	\mbfitsanss		\mathsfbfits	\mbfitsanss		::\mathsfbfits::??	::\mbfitsanss::??
+??	\mathsfbfit{t}	\mbfitsanst		\mathsfbfitt	\mbfitsanst		::\mathsfbfitt::??	::\mbfitsanst::??
+??	\mathsfbfit{u}	\mbfitsansu		\mathsfbfitu	\mbfitsansu		::\mathsfbfitu::??	::\mbfitsansu::??
+??	\mathsfbfit{v}	\mbfitsansv		\mathsfbfitv	\mbfitsansv		::\mathsfbfitv::??	::\mbfitsansv::??
+??	\mathsfbfit{w}	\mbfitsansw		\mathsfbfitw	\mbfitsansw		::\mathsfbfitw::??	::\mbfitsansw::??
+??	\mathsfbfit{x}	\mbfitsansx		\mathsfbfitx	\mbfitsansx		::\mathsfbfitx::??	::\mbfitsansx::??
+??	\mathsfbfit{y}	\mbfitsansy		\mathsfbfity	\mbfitsansy		::\mathsfbfity::??	::\mbfitsansy::??
+??	\mathsfbfit{z}	\mbfitsansz		\mathsfbfitz	\mbfitsansz		::\mathsfbfitz::??	::\mbfitsansz::??
+??	\mathtt{A}	\mttA		\mathttA	\mttA		::\mathttA::??	::\mttA::??
+??	\mathtt{B}	\mttB		\mathttB	\mttB		::\mathttB::??	::\mttB::??
+??	\mathtt{C}	\mttC		\mathttC	\mttC		::\mathttC::??	::\mttC::??
+??	\mathtt{D}	\mttD		\mathttD	\mttD		::\mathttD::??	::\mttD::??
+??	\mathtt{E}	\mttE		\mathttE	\mttE		::\mathttE::??	::\mttE::??
+??	\mathtt{F}	\mttF		\mathttF	\mttF		::\mathttF::??	::\mttF::??
+??	\mathtt{G}	\mttG		\mathttG	\mttG		::\mathttG::??	::\mttG::??
+??	\mathtt{H}	\mttH		\mathttH	\mttH		::\mathttH::??	::\mttH::??
+??	\mathtt{I}	\mttI		\mathttI	\mttI		::\mathttI::??	::\mttI::??
+??	\mathtt{J}	\mttJ		\mathttJ	\mttJ		::\mathttJ::??	::\mttJ::??
+??	\mathtt{K}	\mttK		\mathttK	\mttK		::\mathttK::??	::\mttK::??
+??	\mathtt{L}	\mttL		\mathttL	\mttL		::\mathttL::??	::\mttL::??
+??	\mathtt{M}	\mttM		\mathttM	\mttM		::\mathttM::??	::\mttM::??
+??	\mathtt{N}	\mttN		\mathttN	\mttN		::\mathttN::??	::\mttN::??
+??	\mathtt{O}	\mttO		\mathttO	\mttO		::\mathttO::??	::\mttO::??
+??	\mathtt{P}	\mttP		\mathttP	\mttP		::\mathttP::??	::\mttP::??
+??	\mathtt{Q}	\mttQ		\mathttQ	\mttQ		::\mathttQ::??	::\mttQ::??
+??	\mathtt{R}	\mttR		\mathttR	\mttR		::\mathttR::??	::\mttR::??
+??	\mathtt{S}	\mttS		\mathttS	\mttS		::\mathttS::??	::\mttS::??
+??	\mathtt{T}	\mttT		\mathttT	\mttT		::\mathttT::??	::\mttT::??
+??	\mathtt{U}	\mttU		\mathttU	\mttU		::\mathttU::??	::\mttU::??
+??	\mathtt{V}	\mttV		\mathttV	\mttV		::\mathttV::??	::\mttV::??
+??	\mathtt{W}	\mttW		\mathttW	\mttW		::\mathttW::??	::\mttW::??
+??	\mathtt{X}	\mttX		\mathttX	\mttX		::\mathttX::??	::\mttX::??
+??	\mathtt{Y}	\mttY		\mathttY	\mttY		::\mathttY::??	::\mttY::??
+??	\mathtt{Z}	\mttZ		\mathttZ	\mttZ		::\mathttZ::??	::\mttZ::??
+??	\mathtt{a}	\mtta		\mathtta	\mtta		::\mathtta::??	::\mtta::??
+??	\mathtt{b}	\mttb		\mathttb	\mttb		::\mathttb::??	::\mttb::??
+??	\mathtt{c}	\mttc		\mathttc	\mttc		::\mathttc::??	::\mttc::??
+??	\mathtt{d}	\mttd		\mathttd	\mttd		::\mathttd::??	::\mttd::??
+??	\mathtt{e}	\mtte		\mathtte	\mtte		::\mathtte::??	::\mtte::??
+??	\mathtt{f}	\mttf		\mathttf	\mttf		::\mathttf::??	::\mttf::??
+??	\mathtt{g}	\mttg		\mathttg	\mttg		::\mathttg::??	::\mttg::??
+??	\mathtt{h}	\mtth		\mathtth	\mtth		::\mathtth::??	::\mtth::??
+??	\mathtt{i}	\mtti		\mathtti	\mtti		::\mathtti::??	::\mtti::??
+??	\mathtt{j}	\mttj		\mathttj	\mttj		::\mathttj::??	::\mttj::??
+??	\mathtt{k}	\mttk		\mathttk	\mttk		::\mathttk::??	::\mttk::??
+??	\mathtt{l}	\mttl		\mathttl	\mttl		::\mathttl::??	::\mttl::??
+??	\mathtt{m}	\mttm		\mathttm	\mttm		::\mathttm::??	::\mttm::??
+??	\mathtt{n}	\mttn		\mathttn	\mttn		::\mathttn::??	::\mttn::??
+??	\mathtt{o}	\mtto		\mathtto	\mtto		::\mathtto::??	::\mtto::??
+??	\mathtt{p}	\mttp		\mathttp	\mttp		::\mathttp::??	::\mttp::??
+??	\mathtt{q}	\mttq		\mathttq	\mttq		::\mathttq::??	::\mttq::??
+??	\mathtt{r}	\mttr		\mathttr	\mttr		::\mathttr::??	::\mttr::??
+??	\mathtt{s}	\mtts		\mathtts	\mtts		::\mathtts::??	::\mtts::??
+??	\mathtt{t}	\mttt		\mathttt	\mttt		::\mathttt::??	::\mttt::??
+??	\mathtt{u}	\mttu		\mathttu	\mttu		::\mathttu::??	::\mttu::??
+??	\mathtt{v}	\mttv		\mathttv	\mttv		::\mathttv::??	::\mttv::??
+??	\mathtt{w}	\mttw		\mathttw	\mttw		::\mathttw::??	::\mttw::??
+??	\mathtt{x}	\mttx		\mathttx	\mttx		::\mathttx::??	::\mttx::??
+??	\mathtt{y}	\mtty		\mathtty	\mtty		::\mathtty::??	::\mtty::??
+??	\mathtt{z}	\mttz		\mathttz	\mttz		::\mathttz::??	::\mttz::??
+??	\imath	\imath		\imath	\imath		::\imath::??	::\imath::??
+??	\jmath	\jmath		\jmath	\jmath		::\jmath::??	::\jmath::??
+??		\mbfAlpha			\mbfAlpha			::\mbfAlpha::??
+??		\mbfBeta			\mbfBeta			::\mbfBeta::??
+??	\mathbf{Gamma}	\mbfGamma		\mathbfGamma	\mbfGamma		::\mathbfGamma::??	::\mbfGamma::??
+??	\mathbf{Delta}	\mbfDelta		\mathbfDelta	\mbfDelta		::\mathbfDelta::??	::\mbfDelta::??
+??		\mbfEpsilon			\mbfEpsilon			::\mbfEpsilon::??
+??		\mbfZeta			\mbfZeta			::\mbfZeta::??
+??		\mbfEta			\mbfEta			::\mbfEta::??
+??	\mathbf{Theta}	\mbfTheta		\mathbfTheta	\mbfTheta		::\mathbfTheta::??	::\mbfTheta::??
+??		\mbfIota			\mbfIota			::\mbfIota::??
+??		\mbfKappa			\mbfKappa			::\mbfKappa::??
+??	\mathbf{Lambda}	\mbfLambda		\mathbfLambda	\mbfLambda		::\mathbfLambda::??	::\mbfLambda::??
+??		\mbfMu			\mbfMu			::\mbfMu::??
+??		\mbfNu			\mbfNu			::\mbfNu::??
+??	\mathbf{Xi}	\mbfXi		\mathbfXi	\mbfXi		::\mathbfXi::??	::\mbfXi::??
+??		\mbfOmicron			\mbfOmicron			::\mbfOmicron::??
+??	\mathbf{Pi}	\mbfPi		\mathbfPi	\mbfPi		::\mathbfPi::??	::\mbfPi::??
+??		\mbfRho			\mbfRho			::\mbfRho::??
+??		\mbfvarTheta			\mbfvarTheta			::\mbfvarTheta::??
+??	\mathbf{Sigma}	\mbfSigma		\mathbfSigma	\mbfSigma		::\mathbfSigma::??	::\mbfSigma::??
+??		\mbfTau			\mbfTau			::\mbfTau::??
+??	\mathbf{Upsilon}	\mbfUpsilon		\mathbfUpsilon	\mbfUpsilon		::\mathbfUpsilon::??	::\mbfUpsilon::??
+??	\mathbf{Phi}	\mbfPhi		\mathbfPhi	\mbfPhi		::\mathbfPhi::??	::\mbfPhi::??
+??		\mbfChi			\mbfChi			::\mbfChi::??
+??	\mathbf{Psi}	\mbfPsi		\mathbfPsi	\mbfPsi		::\mathbfPsi::??	::\mbfPsi::??
+??	\mathbf{Omega}	\mbfOmega		\mathbfOmega	\mbfOmega		::\mathbfOmega::??	::\mbfOmega::??
+??		\mbfnabla			\mbfnabla			::\mbfnabla::??
+??	\mathbf{alpha}	\mbfalpha		\mathbfalpha	\mbfalpha		::\mathbfalpha::??	::\mbfalpha::??
+??	\mathbf{beta}	\mbfbeta		\mathbfbeta	\mbfbeta		::\mathbfbeta::??	::\mbfbeta::??
+??	\mathbf{gamma}	\mbfgamma		\mathbfgamma	\mbfgamma		::\mathbfgamma::??	::\mbfgamma::??
+??	\mathbf{delta}	\mbfdelta		\mathbfdelta	\mbfdelta		::\mathbfdelta::??	::\mbfdelta::??
+??	\mathbf{varepsilon}	\mbfepsilon		\mathbfvarepsilon	\mbfepsilon		::\mathbfvarepsilon::??	::\mbfepsilon::??
+??	\mathbf{zeta}	\mbfzeta		\mathbfzeta	\mbfzeta		::\mathbfzeta::??	::\mbfzeta::??
+??	\mathbf{eta}	\mbfeta		\mathbfeta	\mbfeta		::\mathbfeta::??	::\mbfeta::??
+??	\mathbf{theta}	\mbftheta		\mathbftheta	\mbftheta		::\mathbftheta::??	::\mbftheta::??
+??	\mathbf{iota}	\mbfiota		\mathbfiota	\mbfiota		::\mathbfiota::??	::\mbfiota::??
+??	\mathbf{kappa}	\mbfkappa		\mathbfkappa	\mbfkappa		::\mathbfkappa::??	::\mbfkappa::??
+??	\mathbf{lambda}	\mbflambda		\mathbflambda	\mbflambda		::\mathbflambda::??	::\mbflambda::??
+??	\mathbf{mu}	\mbfmu		\mathbfmu	\mbfmu		::\mathbfmu::??	::\mbfmu::??
+??	\mathbf{nu}	\mbfnu		\mathbfnu	\mbfnu		::\mathbfnu::??	::\mbfnu::??
+??	\mathbf{xi}	\mbfxi		\mathbfxi	\mbfxi		::\mathbfxi::??	::\mbfxi::??
+??		\mbfomicron			\mbfomicron			::\mbfomicron::??
+??	\mathbf{pi}	\mbfpi		\mathbfpi	\mbfpi		::\mathbfpi::??	::\mbfpi::??
+??	\mathbf{rho}	\mbfrho		\mathbfrho	\mbfrho		::\mathbfrho::??	::\mbfrho::??
+??	\mathbf{varsigma}	\mbfvarsigma		\mathbfvarsigma	\mbfvarsigma		::\mathbfvarsigma::??	::\mbfvarsigma::??
+??	\mathbf{sigma}	\mbfsigma		\mathbfsigma	\mbfsigma		::\mathbfsigma::??	::\mbfsigma::??
+??	\mathbf{tau}	\mbftau		\mathbftau	\mbftau		::\mathbftau::??	::\mbftau::??
+??	\mathbf{upsilon}	\mbfupsilon		\mathbfupsilon	\mbfupsilon		::\mathbfupsilon::??	::\mbfupsilon::??
+??	\mathbf{varphi}	\mbfvarphi		\mathbfvarphi	\mbfvarphi		::\mathbfvarphi::??	::\mbfvarphi::??
+??	\mathbf{chi}	\mbfchi		\mathbfchi	\mbfchi		::\mathbfchi::??	::\mbfchi::??
+??	\mathbf{psi}	\mbfpsi		\mathbfpsi	\mbfpsi		::\mathbfpsi::??	::\mbfpsi::??
+??	\mathbf{omega}	\mbfomega		\mathbfomega	\mbfomega		::\mathbfomega::??	::\mbfomega::??
+??		\mbfpartial			\mbfpartial			::\mbfpartial::??
+??	\mathbf{epsilon}	\mbfvarepsilon		\mathbfepsilon	\mbfvarepsilon		::\mathbfepsilon::??	::\mbfvarepsilon::??
+??	\mathbf{vartheta}	\mbfvartheta		\mathbfvartheta	\mbfvartheta		::\mathbfvartheta::??	::\mbfvartheta::??
+??		\mbfvarkappa			\mbfvarkappa			::\mbfvarkappa::??
+??	\mathbf{phi}	\mbfphi		\mathbfphi	\mbfphi		::\mathbfphi::??	::\mbfphi::??
+??	\mathbf{varrho}	\mbfvarrho		\mathbfvarrho	\mbfvarrho		::\mathbfvarrho::??	::\mbfvarrho::??
+??	\mathbf{varpi}	\mbfvarpi		\mathbfvarpi	\mbfvarpi		::\mathbfvarpi::??	::\mbfvarpi::??
+??		\mitAlpha			\mitAlpha			::\mitAlpha::??
+??		\mitBeta			\mitBeta			::\mitBeta::??
+??	\Gamma	\mitGamma		\Gamma	\mitGamma		::\Gamma::??	::\mitGamma::??
+??	\Delta	\mitDelta		\Delta	\mitDelta		::\Delta::??	::\mitDelta::??
+??		\mitEpsilon			\mitEpsilon			::\mitEpsilon::??
+??		\mitZeta			\mitZeta			::\mitZeta::??
+??		\mitEta			\mitEta			::\mitEta::??
+??	\Theta	\mitTheta		\Theta	\mitTheta		::\Theta::??	::\mitTheta::??
+??		\mitIota			\mitIota			::\mitIota::??
+??		\mitKappa			\mitKappa			::\mitKappa::??
+??	\Lambda	\mitLambda		\Lambda	\mitLambda		::\Lambda::??	::\mitLambda::??
+??		\mitMu			\mitMu			::\mitMu::??
+??		\mitNu			\mitNu			::\mitNu::??
+??	\Xi	\mitXi		\Xi	\mitXi		::\Xi::??	::\mitXi::??
+??		\mitOmicron			\mitOmicron			::\mitOmicron::??
+??	\Pi	\mitPi		\Pi	\mitPi		::\Pi::??	::\mitPi::??
+??		\mitRho			\mitRho			::\mitRho::??
+??		\mitvarTheta			\mitvarTheta			::\mitvarTheta::??
+??	\Sigma	\mitSigma		\Sigma	\mitSigma		::\Sigma::??	::\mitSigma::??
+??		\mitTau			\mitTau			::\mitTau::??
+??	\Upsilon	\mitUpsilon		\Upsilon	\mitUpsilon		::\Upsilon::??	::\mitUpsilon::??
+??	\Phi	\mitPhi		\Phi	\mitPhi		::\Phi::??	::\mitPhi::??
+??		\mitChi			\mitChi			::\mitChi::??
+??	\Psi	\mitPsi		\Psi	\mitPsi		::\Psi::??	::\mitPsi::??
+??	\Omega	\mitOmega		\Omega	\mitOmega		::\Omega::??	::\mitOmega::??
+??		\mitnabla			\mitnabla			::\mitnabla::??
+??	\alpha	\mitalpha		\alpha	\mitalpha		::\alpha::??	::\mitalpha::??
+??	\beta	\mitbeta		\beta	\mitbeta		::\beta::??	::\mitbeta::??
+??	\gamma	\mitgamma		\gamma	\mitgamma		::\gamma::??	::\mitgamma::??
+??	\delta	\mitdelta		\delta	\mitdelta		::\delta::??	::\mitdelta::??
+??	\varepsilon	\mitepsilon		\varepsilon	\mitepsilon		::\varepsilon::??	::\mitepsilon::??
+??	\zeta	\mitzeta		\zeta	\mitzeta		::\zeta::??	::\mitzeta::??
+??	\eta	\miteta		\eta	\miteta		::\eta::??	::\miteta::??
+??	\theta	\mittheta		\theta	\mittheta		::\theta::??	::\mittheta::??
+??	\iota	\mitiota		\iota	\mitiota		::\iota::??	::\mitiota::??
+??	\kappa	\mitkappa		\kappa	\mitkappa		::\kappa::??	::\mitkappa::??
+??	\lambda	\mitlambda		\lambda	\mitlambda		::\lambda::??	::\mitlambda::??
+??	\mu	\mitmu		\mu	\mitmu		::\mu::??	::\mitmu::??
+??	\nu	\mitnu		\nu	\mitnu		::\nu::??	::\mitnu::??
+??	\xi	\mitxi		\xi	\mitxi		::\xi::??	::\mitxi::??
+??		\mitomicron			\mitomicron			::\mitomicron::??
+??	\pi	\mitpi		\pi	\mitpi		::\pi::??	::\mitpi::??
+??	\rho	\mitrho		\rho	\mitrho		::\rho::??	::\mitrho::??
+??	\varsigma	\mitvarsigma		\varsigma	\mitvarsigma		::\varsigma::??	::\mitvarsigma::??
+??	\sigma	\mitsigma		\sigma	\mitsigma		::\sigma::??	::\mitsigma::??
+??	\tau	\mittau		\tau	\mittau		::\tau::??	::\mittau::??
+??	\upsilon	\mitupsilon		\upsilon	\mitupsilon		::\upsilon::??	::\mitupsilon::??
+??	\varphi	\mitphi		\varphi	\mitphi		::\varphi::??	::\mitphi::??
+??	\chi	\mitchi		\chi	\mitchi		::\chi::??	::\mitchi::??
+??	\psi	\mitpsi		\psi	\mitpsi		::\psi::??	::\mitpsi::??
+??	\omega	\mitomega		\omega	\mitomega		::\omega::??	::\mitomega::??
+??	\partial	\mitpartial		\partial	\mitpartial		::\partial::??	::\mitpartial::??
+??	\epsilon	\mitvarepsilon		\epsilon	\mitvarepsilon		::\epsilon::??	::\mitvarepsilon::??
+??	\vartheta	\mitvartheta		\vartheta	\mitvartheta		::\vartheta::??	::\mitvartheta::??
+??	\varkappa	\mitvarkappa		\varkappa	\mitvarkappa		::\varkappa::??	::\mitvarkappa::??
+??	\phi	\mitvarphi		\phi	\mitvarphi		::\phi::??	::\mitvarphi::??
+??	\varrho	\mitvarrho		\varrho	\mitvarrho		::\varrho::??	::\mitvarrho::??
+??	\varpi	\mitvarpi		\varpi	\mitvarpi		::\varpi::??	::\mitvarpi::??
+??		\mbfitAlpha			\mbfitAlpha			::\mbfitAlpha::??
+??		\mbfitBeta			\mbfitBeta			::\mbfitBeta::??
+??	\mathbfit{Gamma}	\mbfitGamma		\mathbfitGamma	\mbfitGamma		::\mathbfitGamma::??	::\mbfitGamma::??
+??	\mathbfit{Delta}	\mbfitDelta		\mathbfitDelta	\mbfitDelta		::\mathbfitDelta::??	::\mbfitDelta::??
+??		\mbfitEpsilon			\mbfitEpsilon			::\mbfitEpsilon::??
+??		\mbfitZeta			\mbfitZeta			::\mbfitZeta::??
+??		\mbfitEta			\mbfitEta			::\mbfitEta::??
+??	\mathbfit{Theta}	\mbfitTheta		\mathbfitTheta	\mbfitTheta		::\mathbfitTheta::??	::\mbfitTheta::??
+??		\mbfitIota			\mbfitIota			::\mbfitIota::??
+??		\mbfitKappa			\mbfitKappa			::\mbfitKappa::??
+??	\mathbfit{Lambda}	\mbfitLambda		\mathbfitLambda	\mbfitLambda		::\mathbfitLambda::??	::\mbfitLambda::??
+??		\mbfitMu			\mbfitMu			::\mbfitMu::??
+??		\mbfitNu			\mbfitNu			::\mbfitNu::??
+??	\mathbfit{Xi}	\mbfitXi		\mathbfitXi	\mbfitXi		::\mathbfitXi::??	::\mbfitXi::??
+??		\mbfitOmicron			\mbfitOmicron			::\mbfitOmicron::??
+??	\mathbfit{Pi}	\mbfitPi		\mathbfitPi	\mbfitPi		::\mathbfitPi::??	::\mbfitPi::??
+??		\mbfitRho			\mbfitRho			::\mbfitRho::??
+??		\mbfitvarTheta			\mbfitvarTheta			::\mbfitvarTheta::??
+??	\mathbfit{Sigma}	\mbfitSigma		\mathbfitSigma	\mbfitSigma		::\mathbfitSigma::??	::\mbfitSigma::??
+??		\mbfitTau			\mbfitTau			::\mbfitTau::??
+??	\mathbfit{Upsilon}	\mbfitUpsilon		\mathbfitUpsilon	\mbfitUpsilon		::\mathbfitUpsilon::??	::\mbfitUpsilon::??
+??	\mathbfit{Phi}	\mbfitPhi		\mathbfitPhi	\mbfitPhi		::\mathbfitPhi::??	::\mbfitPhi::??
+??		\mbfitChi			\mbfitChi			::\mbfitChi::??
+??	\mathbfit{Psi}	\mbfitPsi		\mathbfitPsi	\mbfitPsi		::\mathbfitPsi::??	::\mbfitPsi::??
+??	\mathbfit{Omega}	\mbfitOmega		\mathbfitOmega	\mbfitOmega		::\mathbfitOmega::??	::\mbfitOmega::??
+??		\mbfitnabla			\mbfitnabla			::\mbfitnabla::??
+??	\mathbfit{alpha}	\mbfitalpha		\mathbfitalpha	\mbfitalpha		::\mathbfitalpha::??	::\mbfitalpha::??
+??	\mathbfit{beta}	\mbfitbeta		\mathbfitbeta	\mbfitbeta		::\mathbfitbeta::??	::\mbfitbeta::??
+??	\mathbfit{gamma}	\mbfitgamma		\mathbfitgamma	\mbfitgamma		::\mathbfitgamma::??	::\mbfitgamma::??
+??	\mathbfit{delta}	\mbfitdelta		\mathbfitdelta	\mbfitdelta		::\mathbfitdelta::??	::\mbfitdelta::??
+??	\mathbfit{varepsilon}	\mbfitepsilon		\mathbfitvarepsilon	\mbfitepsilon		::\mathbfitvarepsilon::??	::\mbfitepsilon::??
+??	\mathbfit{zeta}	\mbfitzeta		\mathbfitzeta	\mbfitzeta		::\mathbfitzeta::??	::\mbfitzeta::??
+??	\mathbfit{eta}	\mbfiteta		\mathbfiteta	\mbfiteta		::\mathbfiteta::??	::\mbfiteta::??
+??	\mathbfit{theta}	\mbfittheta		\mathbfittheta	\mbfittheta		::\mathbfittheta::??	::\mbfittheta::??
+??	\mathbfit{iota}	\mbfitiota		\mathbfitiota	\mbfitiota		::\mathbfitiota::??	::\mbfitiota::??
+??	\mathbfit{kappa}	\mbfitkappa		\mathbfitkappa	\mbfitkappa		::\mathbfitkappa::??	::\mbfitkappa::??
+??	\mathbfit{lambda}	\mbfitlambda		\mathbfitlambda	\mbfitlambda		::\mathbfitlambda::??	::\mbfitlambda::??
+??	\mathbfit{mu}	\mbfitmu		\mathbfitmu	\mbfitmu		::\mathbfitmu::??	::\mbfitmu::??
+??	\mathbfit{nu}	\mbfitnu		\mathbfitnu	\mbfitnu		::\mathbfitnu::??	::\mbfitnu::??
+??	\mathbfit{xi}	\mbfitxi		\mathbfitxi	\mbfitxi		::\mathbfitxi::??	::\mbfitxi::??
+??		\mbfitomicron			\mbfitomicron			::\mbfitomicron::??
+??	\mathbfit{pi}	\mbfitpi		\mathbfitpi	\mbfitpi		::\mathbfitpi::??	::\mbfitpi::??
+??	\mathbfit{rho}	\mbfitrho		\mathbfitrho	\mbfitrho		::\mathbfitrho::??	::\mbfitrho::??
+??	\mathbfit{varsigma}	\mbfitvarsigma		\mathbfitvarsigma	\mbfitvarsigma		::\mathbfitvarsigma::??	::\mbfitvarsigma::??
+??	\mathbfit{sigma}	\mbfitsigma		\mathbfitsigma	\mbfitsigma		::\mathbfitsigma::??	::\mbfitsigma::??
+??	\mathbfit{tau}	\mbfittau		\mathbfittau	\mbfittau		::\mathbfittau::??	::\mbfittau::??
+??	\mathbfit{upsilon}	\mbfitupsilon		\mathbfitupsilon	\mbfitupsilon		::\mathbfitupsilon::??	::\mbfitupsilon::??
+??	\mathbfit{varphi}	\mbfitphi		\mathbfitvarphi	\mbfitphi		::\mathbfitvarphi::??	::\mbfitphi::??
+??	\mathbfit{chi}	\mbfitchi		\mathbfitchi	\mbfitchi		::\mathbfitchi::??	::\mbfitchi::??
+??	\mathbfit{psi}	\mbfitpsi		\mathbfitpsi	\mbfitpsi		::\mathbfitpsi::??	::\mbfitpsi::??
+??	\mathbfit{omega}	\mbfitomega		\mathbfitomega	\mbfitomega		::\mathbfitomega::??	::\mbfitomega::??
+??		\mbfitpartial			\mbfitpartial			::\mbfitpartial::??
+??	\mathbfit{epsilon}	\mbfitvarepsilon		\mathbfitepsilon	\mbfitvarepsilon		::\mathbfitepsilon::??	::\mbfitvarepsilon::??
+??	\mathbfit{vartheta}	\mbfitvartheta		\mathbfitvartheta	\mbfitvartheta		::\mathbfitvartheta::??	::\mbfitvartheta::??
+??		\mbfitvarkappa			\mbfitvarkappa			::\mbfitvarkappa::??
+??	\mathbfit{phi}	\mbfitvarphi		\mathbfitphi	\mbfitvarphi		::\mathbfitphi::??	::\mbfitvarphi::??
+??	\mathbfit{varrho}	\mbfitvarrho		\mathbfitvarrho	\mbfitvarrho		::\mathbfitvarrho::??	::\mbfitvarrho::??
+??	\mathbfit{varpi}	\mbfitvarpi		\mathbfitvarpi	\mbfitvarpi		::\mathbfitvarpi::??	::\mbfitvarpi::??
+??		\mbfsansAlpha			\mbfsansAlpha			::\mbfsansAlpha::??
+??		\mbfsansBeta			\mbfsansBeta			::\mbfsansBeta::??
+??	\mathsfbf{Gamma}	\mbfsansGamma		\mathsfbfGamma	\mbfsansGamma		::\mathsfbfGamma::??	::\mbfsansGamma::??
+??	\mathsfbf{Delta}	\mbfsansDelta		\mathsfbfDelta	\mbfsansDelta		::\mathsfbfDelta::??	::\mbfsansDelta::??
+??		\mbfsansEpsilon			\mbfsansEpsilon			::\mbfsansEpsilon::??
+??		\mbfsansZeta			\mbfsansZeta			::\mbfsansZeta::??
+??		\mbfsansEta			\mbfsansEta			::\mbfsansEta::??
+??	\mathsfbf{Theta}	\mbfsansTheta		\mathsfbfTheta	\mbfsansTheta		::\mathsfbfTheta::??	::\mbfsansTheta::??
+??		\mbfsansIota			\mbfsansIota			::\mbfsansIota::??
+??		\mbfsansKappa			\mbfsansKappa			::\mbfsansKappa::??
+??	\mathsfbf{Lambda}	\mbfsansLambda		\mathsfbfLambda	\mbfsansLambda		::\mathsfbfLambda::??	::\mbfsansLambda::??
+??		\mbfsansMu			\mbfsansMu			::\mbfsansMu::??
+??		\mbfsansNu			\mbfsansNu			::\mbfsansNu::??
+??	\mathsfbf{Xi}	\mbfsansXi		\mathsfbfXi	\mbfsansXi		::\mathsfbfXi::??	::\mbfsansXi::??
+??		\mbfsansOmicron			\mbfsansOmicron			::\mbfsansOmicron::??
+??	\mathsfbf{Pi}	\mbfsansPi		\mathsfbfPi	\mbfsansPi		::\mathsfbfPi::??	::\mbfsansPi::??
+??		\mbfsansRho			\mbfsansRho			::\mbfsansRho::??
+??		\mbfsansvarTheta			\mbfsansvarTheta			::\mbfsansvarTheta::??
+??	\mathsfbf{Sigma}	\mbfsansSigma		\mathsfbfSigma	\mbfsansSigma		::\mathsfbfSigma::??	::\mbfsansSigma::??
+??		\mbfsansTau			\mbfsansTau			::\mbfsansTau::??
+??	\mathsfbf{Upsilon}	\mbfsansUpsilon		\mathsfbfUpsilon	\mbfsansUpsilon		::\mathsfbfUpsilon::??	::\mbfsansUpsilon::??
+??	\mathsfbf{Phi}	\mbfsansPhi		\mathsfbfPhi	\mbfsansPhi		::\mathsfbfPhi::??	::\mbfsansPhi::??
+??		\mbfsansChi			\mbfsansChi			::\mbfsansChi::??
+??	\mathsfbf{Psi}	\mbfsansPsi		\mathsfbfPsi	\mbfsansPsi		::\mathsfbfPsi::??	::\mbfsansPsi::??
+??	\mathsfbf{Omega}	\mbfsansOmega		\mathsfbfOmega	\mbfsansOmega		::\mathsfbfOmega::??	::\mbfsansOmega::??
+??		\mbfsansnabla			\mbfsansnabla			::\mbfsansnabla::??
+??	\mathsfbf{alpha}	\mbfsansalpha		\mathsfbfalpha	\mbfsansalpha		::\mathsfbfalpha::??	::\mbfsansalpha::??
+??	\mathsfbf{beta}	\mbfsansbeta		\mathsfbfbeta	\mbfsansbeta		::\mathsfbfbeta::??	::\mbfsansbeta::??
+??	\mathsfbf{gamma}	\mbfsansgamma		\mathsfbfgamma	\mbfsansgamma		::\mathsfbfgamma::??	::\mbfsansgamma::??
+??	\mathsfbf{delta}	\mbfsansdelta		\mathsfbfdelta	\mbfsansdelta		::\mathsfbfdelta::??	::\mbfsansdelta::??
+??	\mathsfbf{varepsilon}	\mbfsansepsilon		\mathsfbfvarepsilon	\mbfsansepsilon		::\mathsfbfvarepsilon::??	::\mbfsansepsilon::??
+??	\mathsfbf{zeta}	\mbfsanszeta		\mathsfbfzeta	\mbfsanszeta		::\mathsfbfzeta::??	::\mbfsanszeta::??
+??	\mathsfbf{eta}	\mbfsanseta		\mathsfbfeta	\mbfsanseta		::\mathsfbfeta::??	::\mbfsanseta::??
+??	\mathsfbf{theta}	\mbfsanstheta		\mathsfbftheta	\mbfsanstheta		::\mathsfbftheta::??	::\mbfsanstheta::??
+??	\mathsfbf{iota}	\mbfsansiota		\mathsfbfiota	\mbfsansiota		::\mathsfbfiota::??	::\mbfsansiota::??
+??	\mathsfbf{kappa}	\mbfsanskappa		\mathsfbfkappa	\mbfsanskappa		::\mathsfbfkappa::??	::\mbfsanskappa::??
+??	\mathsfbf{lambda}	\mbfsanslambda		\mathsfbflambda	\mbfsanslambda		::\mathsfbflambda::??	::\mbfsanslambda::??
+??	\mathsfbf{mu}	\mbfsansmu		\mathsfbfmu	\mbfsansmu		::\mathsfbfmu::??	::\mbfsansmu::??
+??	\mathsfbf{nu}	\mbfsansnu		\mathsfbfnu	\mbfsansnu		::\mathsfbfnu::??	::\mbfsansnu::??
+??	\mathsfbf{xi}	\mbfsansxi		\mathsfbfxi	\mbfsansxi		::\mathsfbfxi::??	::\mbfsansxi::??
+??		\mbfsansomicron			\mbfsansomicron			::\mbfsansomicron::??
+??	\mathsfbf{pi}	\mbfsanspi		\mathsfbfpi	\mbfsanspi		::\mathsfbfpi::??	::\mbfsanspi::??
+??	\mathsfbf{rho}	\mbfsansrho		\mathsfbfrho	\mbfsansrho		::\mathsfbfrho::??	::\mbfsansrho::??
+??	\mathsfbf{varsigma}	\mbfsansvarsigma		\mathsfbfvarsigma	\mbfsansvarsigma		::\mathsfbfvarsigma::??	::\mbfsansvarsigma::??
+??	\mathsfbf{sigma}	\mbfsanssigma		\mathsfbfsigma	\mbfsanssigma		::\mathsfbfsigma::??	::\mbfsanssigma::??
+??	\mathsfbf{tau}	\mbfsanstau		\mathsfbftau	\mbfsanstau		::\mathsfbftau::??	::\mbfsanstau::??
+??	\mathsfbf{upsilon}	\mbfsansupsilon		\mathsfbfupsilon	\mbfsansupsilon		::\mathsfbfupsilon::??	::\mbfsansupsilon::??
+??	\mathsfbf{varphi}	\mbfsansphi		\mathsfbfvarphi	\mbfsansphi		::\mathsfbfvarphi::??	::\mbfsansphi::??
+??	\mathsfbf{chi}	\mbfsanschi		\mathsfbfchi	\mbfsanschi		::\mathsfbfchi::??	::\mbfsanschi::??
+??	\mathsfbf{psi}	\mbfsanspsi		\mathsfbfpsi	\mbfsanspsi		::\mathsfbfpsi::??	::\mbfsanspsi::??
+??	\mathsfbf{omega}	\mbfsansomega		\mathsfbfomega	\mbfsansomega		::\mathsfbfomega::??	::\mbfsansomega::??
+??		\mbfsanspartial			\mbfsanspartial			::\mbfsanspartial::??
+??	\mathsfbf{epsilon}	\mbfsansvarepsilon		\mathsfbfepsilon	\mbfsansvarepsilon		::\mathsfbfepsilon::??	::\mbfsansvarepsilon::??
+??	\mathsfbf{vartheta}	\mbfsansvartheta		\mathsfbfvartheta	\mbfsansvartheta		::\mathsfbfvartheta::??	::\mbfsansvartheta::??
+??		\mbfsansvarkappa			\mbfsansvarkappa			::\mbfsansvarkappa::??
+??	\mathsfbf{phi}	\mbfsansvarphi		\mathsfbfphi	\mbfsansvarphi		::\mathsfbfphi::??	::\mbfsansvarphi::??
+??	\mathsfbf{varrho}	\mbfsansvarrho		\mathsfbfvarrho	\mbfsansvarrho		::\mathsfbfvarrho::??	::\mbfsansvarrho::??
+??	\mathsfbf{varpi}	\mbfsansvarpi		\mathsfbfvarpi	\mbfsansvarpi		::\mathsfbfvarpi::??	::\mbfsansvarpi::??
+??		\mbfitsansAlpha			\mbfitsansAlpha			::\mbfitsansAlpha::??
+??		\mbfitsansBeta			\mbfitsansBeta			::\mbfitsansBeta::??
+??	\mathsfbfit{Gamma}	\mbfitsansGamma		\mathsfbfitGamma	\mbfitsansGamma		::\mathsfbfitGamma::??	::\mbfitsansGamma::??
+??	\mathsfbfit{Delta}	\mbfitsansDelta		\mathsfbfitDelta	\mbfitsansDelta		::\mathsfbfitDelta::??	::\mbfitsansDelta::??
+??		\mbfitsansEpsilon			\mbfitsansEpsilon			::\mbfitsansEpsilon::??
+??		\mbfitsansZeta			\mbfitsansZeta			::\mbfitsansZeta::??
+??		\mbfitsansEta			\mbfitsansEta			::\mbfitsansEta::??
+??	\mathsfbfit{Theta}	\mbfitsansTheta		\mathsfbfitTheta	\mbfitsansTheta		::\mathsfbfitTheta::??	::\mbfitsansTheta::??
+??		\mbfitsansIota			\mbfitsansIota			::\mbfitsansIota::??
+??		\mbfitsansKappa			\mbfitsansKappa			::\mbfitsansKappa::??
+??	\mathsfbfit{Lambda}	\mbfitsansLambda		\mathsfbfitLambda	\mbfitsansLambda		::\mathsfbfitLambda::??	::\mbfitsansLambda::??
+??		\mbfitsansMu			\mbfitsansMu			::\mbfitsansMu::??
+??		\mbfitsansNu			\mbfitsansNu			::\mbfitsansNu::??
+??	\mathsfbfit{Xi}	\mbfitsansXi		\mathsfbfitXi	\mbfitsansXi		::\mathsfbfitXi::??	::\mbfitsansXi::??
+??		\mbfitsansOmicron			\mbfitsansOmicron			::\mbfitsansOmicron::??
+??	\mathsfbfit{Pi}	\mbfitsansPi		\mathsfbfitPi	\mbfitsansPi		::\mathsfbfitPi::??	::\mbfitsansPi::??
+??		\mbfitsansRho			\mbfitsansRho			::\mbfitsansRho::??
+??		\mbfitsansvarTheta			\mbfitsansvarTheta			::\mbfitsansvarTheta::??
+??	\mathsfbfit{Sigma}	\mbfitsansSigma		\mathsfbfitSigma	\mbfitsansSigma		::\mathsfbfitSigma::??	::\mbfitsansSigma::??
+??		\mbfitsansTau			\mbfitsansTau			::\mbfitsansTau::??
+??	\mathsfbfit{Upsilon}	\mbfitsansUpsilon		\mathsfbfitUpsilon	\mbfitsansUpsilon		::\mathsfbfitUpsilon::??	::\mbfitsansUpsilon::??
+??	\mathsfbfit{Phi}	\mbfitsansPhi		\mathsfbfitPhi	\mbfitsansPhi		::\mathsfbfitPhi::??	::\mbfitsansPhi::??
+??		\mbfitsansChi			\mbfitsansChi			::\mbfitsansChi::??
+??	\mathsfbfit{Psi}	\mbfitsansPsi		\mathsfbfitPsi	\mbfitsansPsi		::\mathsfbfitPsi::??	::\mbfitsansPsi::??
+??	\mathsfbfit{Omega}	\mbfitsansOmega		\mathsfbfitOmega	\mbfitsansOmega		::\mathsfbfitOmega::??	::\mbfitsansOmega::??
+??		\mbfitsansnabla			\mbfitsansnabla			::\mbfitsansnabla::??
+??	\mathsfbfit{alpha}	\mbfitsansalpha		\mathsfbfitalpha	\mbfitsansalpha		::\mathsfbfitalpha::??	::\mbfitsansalpha::??
+??	\mathsfbfit{beta}	\mbfitsansbeta		\mathsfbfitbeta	\mbfitsansbeta		::\mathsfbfitbeta::??	::\mbfitsansbeta::??
+??	\mathsfbfit{gamma}	\mbfitsansgamma		\mathsfbfitgamma	\mbfitsansgamma		::\mathsfbfitgamma::??	::\mbfitsansgamma::??
+??	\mathsfbfit{delta}	\mbfitsansdelta		\mathsfbfitdelta	\mbfitsansdelta		::\mathsfbfitdelta::??	::\mbfitsansdelta::??
+??	\mathsfbfit{varepsilon}	\mbfitsansepsilon		\mathsfbfitvarepsilon	\mbfitsansepsilon		::\mathsfbfitvarepsilon::??	::\mbfitsansepsilon::??
+??	\mathsfbfit{zeta}	\mbfitsanszeta		\mathsfbfitzeta	\mbfitsanszeta		::\mathsfbfitzeta::??	::\mbfitsanszeta::??
+??	\mathsfbfit{eta}	\mbfitsanseta		\mathsfbfiteta	\mbfitsanseta		::\mathsfbfiteta::??	::\mbfitsanseta::??
+??	\mathsfbfit{theta}	\mbfitsanstheta		\mathsfbfittheta	\mbfitsanstheta		::\mathsfbfittheta::??	::\mbfitsanstheta::??
+??	\mathsfbfit{iota}	\mbfitsansiota		\mathsfbfitiota	\mbfitsansiota		::\mathsfbfitiota::??	::\mbfitsansiota::??
+??	\mathsfbfit{kappa}	\mbfitsanskappa		\mathsfbfitkappa	\mbfitsanskappa		::\mathsfbfitkappa::??	::\mbfitsanskappa::??
+??	\mathsfbfit{lambda}	\mbfitsanslambda		\mathsfbfitlambda	\mbfitsanslambda		::\mathsfbfitlambda::??	::\mbfitsanslambda::??
+??	\mathsfbfit{mu}	\mbfitsansmu		\mathsfbfitmu	\mbfitsansmu		::\mathsfbfitmu::??	::\mbfitsansmu::??
+??	\mathsfbfit{nu}	\mbfitsansnu		\mathsfbfitnu	\mbfitsansnu		::\mathsfbfitnu::??	::\mbfitsansnu::??
+??	\mathsfbfit{xi}	\mbfitsansxi		\mathsfbfitxi	\mbfitsansxi		::\mathsfbfitxi::??	::\mbfitsansxi::??
+??		\mbfitsansomicron			\mbfitsansomicron			::\mbfitsansomicron::??
+??	\mathsfbfit{pi}	\mbfitsanspi		\mathsfbfitpi	\mbfitsanspi		::\mathsfbfitpi::??	::\mbfitsanspi::??
+??	\mathsfbfit{rho}	\mbfitsansrho		\mathsfbfitrho	\mbfitsansrho		::\mathsfbfitrho::??	::\mbfitsansrho::??
+??	\mathsfbfit{varsigma}	\mbfitsansvarsigma		\mathsfbfitvarsigma	\mbfitsansvarsigma		::\mathsfbfitvarsigma::??	::\mbfitsansvarsigma::??
+??	\mathsfbfit{sigma}	\mbfitsanssigma		\mathsfbfitsigma	\mbfitsanssigma		::\mathsfbfitsigma::??	::\mbfitsanssigma::??
+??	\mathsfbfit{tau}	\mbfitsanstau		\mathsfbfittau	\mbfitsanstau		::\mathsfbfittau::??	::\mbfitsanstau::??
+??	\mathsfbfit{upsilon}	\mbfitsansupsilon		\mathsfbfitupsilon	\mbfitsansupsilon		::\mathsfbfitupsilon::??	::\mbfitsansupsilon::??
+??	\mathsfbfit{varphi}	\mbfitsansphi		\mathsfbfitvarphi	\mbfitsansphi		::\mathsfbfitvarphi::??	::\mbfitsansphi::??
+??	\mathsfbfit{chi}	\mbfitsanschi		\mathsfbfitchi	\mbfitsanschi		::\mathsfbfitchi::??	::\mbfitsanschi::??
+??	\mathsfbfit{psi}	\mbfitsanspsi		\mathsfbfitpsi	\mbfitsanspsi		::\mathsfbfitpsi::??	::\mbfitsanspsi::??
+??	\mathsfbfit{omega}	\mbfitsansomega		\mathsfbfitomega	\mbfitsansomega		::\mathsfbfitomega::??	::\mbfitsansomega::??
+??		\mbfitsanspartial			\mbfitsanspartial			::\mbfitsanspartial::??
+??	\mathsfbfit{epsilon}	\mbfitsansvarepsilon		\mathsfbfitepsilon	\mbfitsansvarepsilon		::\mathsfbfitepsilon::??	::\mbfitsansvarepsilon::??
+??	\mathsfbfit{vartheta}	\mbfitsansvartheta		\mathsfbfitvartheta	\mbfitsansvartheta		::\mathsfbfitvartheta::??	::\mbfitsansvartheta::??
+??		\mbfitsansvarkappa			\mbfitsansvarkappa			::\mbfitsansvarkappa::??
+??	\mathsfbfit{phi}	\mbfitsansvarphi		\mathsfbfitphi	\mbfitsansvarphi		::\mathsfbfitphi::??	::\mbfitsansvarphi::??
+??	\mathsfbfit{varrho}	\mbfitsansvarrho		\mathsfbfitvarrho	\mbfitsansvarrho		::\mathsfbfitvarrho::??	::\mbfitsansvarrho::??
+??	\mathsfbfit{varpi}	\mbfitsansvarpi		\mathsfbfitvarpi	\mbfitsansvarpi		::\mathsfbfitvarpi::??	::\mbfitsansvarpi::??
+??		\mbfDigamma			\mbfDigamma			::\mbfDigamma::??
+??		\mbfdigamma			\mbfdigamma			::\mbfdigamma::??
+??	\mathbf{0}			\mathbf0			::\mathbf0::??	
+??	\mathbf{1}			\mathbf1			::\mathbf1::??	
+??	\mathbf{2}			\mathbf2			::\mathbf2::??	
+??	\mathbf{3}			\mathbf3			::\mathbf3::??	
+??	\mathbf{4}			\mathbf4			::\mathbf4::??	
+??	\mathbf{5}			\mathbf5			::\mathbf5::??	
+??	\mathbf{6}			\mathbf6			::\mathbf6::??	
+??	\mathbf{7}			\mathbf7			::\mathbf7::??	
+??	\mathbf{8}			\mathbf8			::\mathbf8::??	
+??	\mathbf{9}			\mathbf9			::\mathbf9::??	
+??	\mathbb{0}	\Bbbzero		\mathbb0	\Bbbzero		::\mathbb0::??	::\Bbbzero::??
+??	\mathbb{1}	\Bbbone		\mathbb1	\Bbbone		::\mathbb1::??	::\Bbbone::??
+??	\mathbb{2}	\Bbbtwo		\mathbb2	\Bbbtwo		::\mathbb2::??	::\Bbbtwo::??
+??	\mathbb{3}	\Bbbthree		\mathbb3	\Bbbthree		::\mathbb3::??	::\Bbbthree::??
+??	\mathbb{4}	\Bbbfour		\mathbb4	\Bbbfour		::\mathbb4::??	::\Bbbfour::??
+??	\mathbb{5}	\Bbbfive		\mathbb5	\Bbbfive		::\mathbb5::??	::\Bbbfive::??
+??	\mathbb{6}	\Bbbsix		\mathbb6	\Bbbsix		::\mathbb6::??	::\Bbbsix::??
+??	\mathbb{7}	\Bbbseven		\mathbb7	\Bbbseven		::\mathbb7::??	::\Bbbseven::??
+??	\mathbb{8}	\Bbbeight		\mathbb8	\Bbbeight		::\mathbb8::??	::\Bbbeight::??
+??	\mathbb{9}	\Bbbnine		\mathbb9	\Bbbnine		::\mathbb9::??	::\Bbbnine::??
+??	\mathsf{0}	\msanszero		\mathsf0	\msanszero		::\mathsf0::??	::\msanszero::??
+??	\mathsf{1}	\msansone		\mathsf1	\msansone		::\mathsf1::??	::\msansone::??
+??	\mathsf{2}	\msanstwo		\mathsf2	\msanstwo		::\mathsf2::??	::\msanstwo::??
+??	\mathsf{3}	\msansthree		\mathsf3	\msansthree		::\mathsf3::??	::\msansthree::??
+??	\mathsf{4}	\msansfour		\mathsf4	\msansfour		::\mathsf4::??	::\msansfour::??
+??	\mathsf{5}	\msansfive		\mathsf5	\msansfive		::\mathsf5::??	::\msansfive::??
+??	\mathsf{6}	\msanssix		\mathsf6	\msanssix		::\mathsf6::??	::\msanssix::??
+??	\mathsf{7}	\msansseven		\mathsf7	\msansseven		::\mathsf7::??	::\msansseven::??
+??	\mathsf{8}	\msanseight		\mathsf8	\msanseight		::\mathsf8::??	::\msanseight::??
+??	\mathsf{9}	\msansnine		\mathsf9	\msansnine		::\mathsf9::??	::\msansnine::??
+??	\mathsfbf{0}	\mbfsanszero		\mathsfbf0	\mbfsanszero		::\mathsfbf0::??	::\mbfsanszero::??
+??	\mathsfbf{1}	\mbfsansone		\mathsfbf1	\mbfsansone		::\mathsfbf1::??	::\mbfsansone::??
+??	\mathsfbf{2}	\mbfsanstwo		\mathsfbf2	\mbfsanstwo		::\mathsfbf2::??	::\mbfsanstwo::??
+??	\mathsfbf{3}	\mbfsansthree		\mathsfbf3	\mbfsansthree		::\mathsfbf3::??	::\mbfsansthree::??
+??	\mathsfbf{4}	\mbfsansfour		\mathsfbf4	\mbfsansfour		::\mathsfbf4::??	::\mbfsansfour::??
+??	\mathsfbf{5}	\mbfsansfive		\mathsfbf5	\mbfsansfive		::\mathsfbf5::??	::\mbfsansfive::??
+??	\mathsfbf{6}	\mbfsanssix		\mathsfbf6	\mbfsanssix		::\mathsfbf6::??	::\mbfsanssix::??
+??	\mathsfbf{7}	\mbfsansseven		\mathsfbf7	\mbfsansseven		::\mathsfbf7::??	::\mbfsansseven::??
+??	\mathsfbf{8}	\mbfsanseight		\mathsfbf8	\mbfsanseight		::\mathsfbf8::??	::\mbfsanseight::??
+??	\mathsfbf{9}	\mbfsansnine		\mathsfbf9	\mbfsansnine		::\mathsfbf9::??	::\mbfsansnine::??
+??	\mathtt{0}	\mttzero		\mathtt0	\mttzero		::\mathtt0::??	::\mttzero::??
+??	\mathtt{1}	\mttone		\mathtt1	\mttone		::\mathtt1::??	::\mttone::??
+??	\mathtt{2}	\mtttwo		\mathtt2	\mtttwo		::\mathtt2::??	::\mtttwo::??
+??	\mathtt{3}	\mttthree		\mathtt3	\mttthree		::\mathtt3::??	::\mttthree::??
+??	\mathtt{4}	\mttfour		\mathtt4	\mttfour		::\mathtt4::??	::\mttfour::??
+??	\mathtt{5}	\mttfive		\mathtt5	\mttfive		::\mathtt5::??	::\mttfive::??
+??	\mathtt{6}	\mttsix		\mathtt6	\mttsix		::\mathtt6::??	::\mttsix::??
+??	\mathtt{7}	\mttseven		\mathtt7	\mttseven		::\mathtt7::??	::\mttseven::??
+??	\mathtt{8}	\mtteight		\mathtt8	\mtteight		::\mathtt8::??	::\mtteight::??
+??	\mathtt{9}	\mttnine		\mathtt9	\mttnine		::\mathtt9::??	::\mttnine::??
